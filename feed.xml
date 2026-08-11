@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>The Pritiraj Review</title>
 <link>https://www.pritirajbrahma.in/review/</link>
 <description>Evidence-led essays by Pritiraj Brahma on Indian governance, state capacity, institutional design and fiscal federalism.</description>
 <language>en-IN</language>
 <copyright>© 2026 Pritiraj &amp; Partners</copyright>
 <managingEditor>hello@pritirajbrahma.in (Pritiraj Brahma)</managingEditor>
-<webMaster>hello@pritirajbrahma.in (Pritiraj Brahma)</webMaster>
 <lastBuildDate>Sun, 09 Aug 2026 09:00:00 GMT</lastBuildDate>
 <atom:link href="https://www.pritirajbrahma.in/feed.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://www.pritirajbrahma.in/assets/social-card.png</url><title>The Pritiraj Review</title><link>https://www.pritirajbrahma.in/review/</link></image>
@@ -30,15 +28,6 @@
 <description>The Delimitation Bill, 2026 proposes a 850-member Lok Sabha with 272 seats reserved for women. The seat count is the least consequential thing about it.</description>
 </item>
 <item>
-<title>The Arithmetic of Absence — Why Air India Is Losing a Market It Was Built to Lead</title>
-<link>https://www.pritirajbrahma.in/review/the-arithmetic-of-absence-why-air-india-is-losing-a-market-it-was-built-to-lead/</link>
-<guid isPermaLink="true">https://www.pritirajbrahma.in/review/the-arithmetic-of-absence-why-air-india-is-losing-a-market-it-was-built-to-lead/</guid>
-<pubDate>Thu, 06 Aug 2026 09:00:00 GMT</pubDate>
-<category>Political Economy</category>
-<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pritiraj Brahma</dc:creator>
-<description>Air India's FY26 loss hit ₹22,238 crore as domestic share fell to 23.9%. A structured analysis of why the turnaround is stalling — and the correction required.</description>
-</item>
-<item>
 <title>The Arithmetic That Should Alarm Us — India's Learning Crisis as a Solvency Problem</title>
 <link>https://www.pritirajbrahma.in/review/india-learning-crisis-the-arithmetic-that-should-alarm-us/</link>
 <guid isPermaLink="true">https://www.pritirajbrahma.in/review/india-learning-crisis-the-arithmetic-that-should-alarm-us/</guid>
@@ -48,13 +37,13 @@
 <description>India enrols nearly every child and half leave unable to do grade-level mathematics. Why the learning crisis is now a fiscal question — and the five structural corrections it requires.</description>
 </item>
 <item>
-<title>The Quiet Part of a Loud Victory — Symbol, Substance and the Exam Reform</title>
-<link>https://www.pritirajbrahma.in/review/the-quiet-part-of-a-loud-victory-dharmendra-pradhan-resignation/</link>
-<guid isPermaLink="true">https://www.pritirajbrahma.in/review/the-quiet-part-of-a-loud-victory-dharmendra-pradhan-resignation/</guid>
+<title>Who Owns an Examination</title>
+<link>https://www.pritirajbrahma.in/review/who-owns-an-examination-the-reform-architecture-after-neet/</link>
+<guid isPermaLink="true">https://www.pritirajbrahma.in/review/who-owns-an-examination-the-reform-architecture-after-neet/</guid>
 <pubDate>Sun, 26 Jul 2026 09:00:00 GMT</pubDate>
 <category>Institutions &amp; Reform</category>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pritiraj Brahma</dc:creator>
-<description>The street took a scalp; the State had already rebuilt the system. Why the resignation of the Union Education Minister matters less than the five corrections that preceded it.</description>
+<description>A minister resigned over an exam leak. The architecture that produced the leak — an agency with no statutory parent, no published error rate and no owner of record — was left exactly as it was.</description>
 </item>
 <item>
 <title>The Dashboard Problem — When Measurement Replaces Delivery</title>
@@ -73,15 +62,6 @@
 <category>State Capacity</category>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pritiraj Brahma</dc:creator>
 <description>India debates the Centre and the states endlessly and ignores the tier where governance actually succeeds or fails. The district runs at 19% IAS vacancy against a mandate that expands every year.</description>
-</item>
-<item>
-<title>The CJP Protest — Ten Million Followers, One Unwinnable Demand</title>
-<link>https://www.pritirajbrahma.in/review/cjp-protest-unwinnable-demand/</link>
-<guid isPermaLink="true">https://www.pritirajbrahma.in/review/cjp-protest-unwinnable-demand/</guid>
-<pubDate>Thu, 09 Jul 2026 09:00:00 GMT</pubDate>
-<category>Institutions &amp; Reform</category>
-<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pritiraj Brahma</dc:creator>
-<description>Ten million followers in five days, and no institutional outcome. A strategist's diagnosis of five design errors — and the pivot that could still convert pressure into text.</description>
 </item>
 <item>
 <title>The Forty-One Percent Illusion — State Finances After the Sixteenth Commission</title>

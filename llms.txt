@@ -1,23 +1,30 @@
 # The Pritiraj Review — Pritiraj & Partners
 
-> 35 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, Founding Partner, Pritiraj & Partners (Bengaluru, India). Published roughly weekly since 1 February 2026.
+> 33 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, Founding Partner, Pritiraj & Partners (Bengaluru, India). Published roughly weekly since 1 February 2026.
 
 The firm’s stand: politics is the promise, governance is the delivery. India’s failures are failures of institutional design — tasks without owners, targets without deadlines, results nobody is required to publish — not failures of ambition or resources.
 
-Every figure in every essay is attributed to a named source (PIB, RBI, CAG, NJDG, PRS, NCRB, MoSPI, the Economic Survey, a parliamentary reply, or a named report). Where sources conflict, the essay says so.
+Every figure is attributed in-text to the instrument and release that produced it (PIB, RBI, CAG, NJDG, PRS, NCRB, MoSPI, the Economic Survey, a parliamentary reply, or a named report). Where sources conflict, the essay says so rather than choosing silently. Each essay carries a provenance line stating publication and revision dates, and where the argument rests on a dated series, the vintage of that series.
+
+Every essay follows one structure: a blockquote lede, a numbered set of findings, analysis sections, an explicit counter-case, and a prescriptive "What we would do" close.
 
 ## Site
 
-- [Firm homepage](https://www.pritirajbrahma.in/): practice areas, instruments, the firm’s position.
+- [Firm homepage](https://www.pritirajbrahma.in/)
 - [The Pritiraj Review](https://www.pritirajbrahma.in/review/): full essay index, filterable by topic and month.
+- [Series](https://www.pritirajbrahma.in/review/series/): multi-part analyses.
 - [Pritiraj Brahma](https://www.pritirajbrahma.in/pritiraj-brahma/): author page.
 - [RSS feed](https://www.pritirajbrahma.in/feed.xml)
 - [Sitemap](https://www.pritirajbrahma.in/sitemap.xml)
 
+## Series
+
+- [The Fiscal Settlement](https://www.pritirajbrahma.in/review/series/the-fiscal-settlement/): three essays on where money sits in the Indian federation — Union to states, states to cities, and the dependent states.
+
 ## Topics
 
-- [Institutions & Reform](https://www.pritirajbrahma.in/review/topics/institutions-and-reform/): 7 essays
-- [Political Economy](https://www.pritirajbrahma.in/review/topics/political-economy/): 8 essays
+- [Institutions & Reform](https://www.pritirajbrahma.in/review/topics/institutions-and-reform/): 6 essays
+- [Political Economy](https://www.pritirajbrahma.in/review/topics/political-economy/): 7 essays
 - [Work & Livelihoods](https://www.pritirajbrahma.in/review/topics/work-and-livelihoods/): 2 essays
 - [State Capacity](https://www.pritirajbrahma.in/review/topics/state-capacity/): 5 essays
 - [Federalism & the Northeast](https://www.pritirajbrahma.in/review/topics/federalism-and-the-northeast/): 2 essays
@@ -30,12 +37,10 @@ Every figure in every essay is attributed to a named source (PIB, RBI, CAG, NJDG
 
 - [Two Surveys, One Country](https://www.pritirajbrahma.in/review/two-surveys-one-country/) — Health & Human Development, 9 August 2026, 12 min read. India’s two official sources on child undernutrition disagree about wasting by fourteen percentage points. One of them is now used to report progress, and it is not the one designed to measure it.
 - [Eight Hundred and Fifty Seats — What Delimitation Actually Decides](https://www.pritirajbrahma.in/review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/) — Institutions & Reform, 8 August 2026, 12 min read. The Delimitation Bill, 2026 proposes a 850-member Lok Sabha with 272 seats reserved for women. The seat count is the least consequential thing about it.
-- [The Arithmetic of Absence — Why Air India Is Losing a Market It Was Built to Lead](https://www.pritirajbrahma.in/review/the-arithmetic-of-absence-why-air-india-is-losing-a-market-it-was-built-to-lead/) — Political Economy, 6 August 2026, 11 min read. Air India's FY26 loss hit ₹22,238 crore as domestic share fell to 23.9%. A structured analysis of why the turnaround is stalling — and the correction required.
 - [The Arithmetic That Should Alarm Us — India's Learning Crisis as a Solvency Problem](https://www.pritirajbrahma.in/review/india-learning-crisis-the-arithmetic-that-should-alarm-us/) — Governance & Delivery, 30 July 2026, 10 min read. India enrols nearly every child and half leave unable to do grade-level mathematics. Why the learning crisis is now a fiscal question — and the five structural corrections it requires.
-- [The Quiet Part of a Loud Victory — Symbol, Substance and the Exam Reform](https://www.pritirajbrahma.in/review/the-quiet-part-of-a-loud-victory-dharmendra-pradhan-resignation/) — Institutions & Reform, 26 July 2026, 7 min read. The street took a scalp; the State had already rebuilt the system. Why the resignation of the Union Education Minister matters less than the five corrections that preceded it.
+- [Who Owns an Examination](https://www.pritirajbrahma.in/review/who-owns-an-examination-the-reform-architecture-after-neet/) — Institutions & Reform, 26 July 2026, 7 min read. A minister resigned over an exam leak. The architecture that produced the leak — an agency with no statutory parent, no published error rate and no owner of record — was left exactly as it was.
 - [The Dashboard Problem — When Measurement Replaces Delivery](https://www.pritirajbrahma.in/review/the-dashboard-problem/) — Governance & Delivery, 23 July 2026, 8 min read. India has more real-time government dashboards than any comparable state. Pendency, learning outcomes and delivery gaps have not moved with them. Visibility is not accountability.
 - [The District Is Where the State Lives — The Tier India Refuses to Staff](https://www.pritirajbrahma.in/review/the-district-is-where-the-state-lives/) — State Capacity, 16 July 2026, 8 min read. India debates the Centre and the states endlessly and ignores the tier where governance actually succeeds or fails. The district runs at 19% IAS vacancy against a mandate that expands every year.
-- [The CJP Protest — Ten Million Followers, One Unwinnable Demand](https://www.pritirajbrahma.in/review/cjp-protest-unwinnable-demand/) — Institutions & Reform, 9 July 2026, 10 min read. Ten million followers in five days, and no institutional outcome. A strategist's diagnosis of five design errors — and the pivot that could still convert pressure into text.
 - [The Forty-One Percent Illusion — State Finances After the Sixteenth Commission](https://www.pritirajbrahma.in/review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/) — Political Economy, 2 July 2026, 11 min read. The 16th Finance Commission held devolution at 41% and discontinued revenue deficit grants. Why a headline of continuity conceals the tightest state fiscal settlement in a decade.
 - [The Certificate Is Not the Job — Why India Skills Millions and Employs Few](https://www.pritirajbrahma.in/review/the-certificate-is-not-the-job/) — Governance & Delivery, 25 June 2026, 8 min read. PMKVY trained 13.7 million people in seven years and placed 18 per cent of them. The failure is not effort; it is a system built to count certificates instead of livelihoods.
 - [The Campus Economy — India's Quietest Special Economic Zones](https://www.pritirajbrahma.in/review/the-campus-economy-india-s-quietest-special-economic-zones/) — Political Economy, 18 June 2026, 10 min read. Roughly 37% of notified SEZ land is in use. Meanwhile four university gates have built the concentrated capital, talent and IP pools that SEZ policy spent twenty years trying to engineer.
