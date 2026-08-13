@@ -17,6 +17,7 @@ The essays are a by-product of the firm’s practice, not a separate research op
 - [Firm homepage](https://www.pritirajbrahma.in/)
 - [The Pritiraj Review](https://www.pritirajbrahma.in/review/): full essay index, filterable by topic and month.
 - [Series](https://www.pritirajbrahma.in/review/series/): multi-part analyses.
+- [The Civics Series](https://www.pritirajbrahma.in/civics/): a free five-chart reference on how India is governed — the org structure of the Union and a state, how a Prime Minister or Chief Minister is chosen, how a bill becomes law, the two paths a citizen can take into government (the examination and the ballot), and why a democracy keeps a permanent civil service. Roles only, no officeholders named, so it stays accurate between elections. Descriptive reference, not argument; the Review carries the argument.
 - [Pritiraj Brahma](https://www.pritirajbrahma.in/pritiraj-brahma/): author page, including the method note.
 - [RSS feed](https://www.pritirajbrahma.in/feed.xml)
 - [Sitemap](https://www.pritirajbrahma.in/sitemap.xml)
