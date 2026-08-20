@@ -1,6 +1,6 @@
 # The Pritiraj Review — Pritiraj & Partners
 
-> 32 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, Founding Partner, Pritiraj & Partners (Bengaluru, India). Published most weeks since 1 February 2026.
+> 34 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, Founding Partner, Pritiraj & Partners (Bengaluru, India). Published most weeks since 1 February 2026.
 
 The firm’s stand: politics is the promise, governance is the delivery. India’s failures are failures of institutional design — tasks without owners, targets without deadlines, results nobody is required to publish — not failures of ambition or resources.
 
@@ -37,9 +37,12 @@ The essays are a by-product of the firm’s practice, not a separate research op
 - [Resources & Climate](https://www.pritirajbrahma.in/review/topics/resources-and-climate/): 2 essays
 - [Justice & Liberty](https://www.pritirajbrahma.in/review/topics/justice-and-liberty/): 1 essay
 - [Health & Human Development](https://www.pritirajbrahma.in/review/topics/health-and-human-development/): 1 essay
+- [National Security](https://www.pritirajbrahma.in/review/topics/national-security/): 2 essays
 
 ## Essays (newest first)
 
+- [Ten Lakh Uniforms and Three Different Answers — India’s Internal Security Manpower Problem](https://www.pritirajbrahma.in/review/ten-lakh-uniforms-and-three-different-answers/) — National Security, 19 August 2026, 10 min read. Parliament was told this year that the central armed police forces are short of 93,139 people, and also that they are short of 61,738. The same reply implies 69,246. A state that cannot state its own vacancy cannot plan its own recruitment.
+- [The Sanction Is Not the Squadron — India’s Defence Money Now Moves; Its Timelines Do Not](https://www.pritirajbrahma.in/review/the-sanction-is-not-the-squadron/) — National Security, 16 August 2026, 10 min read. India’s defence budget has crossed ₹7.84 lakh crore and, for the first time in years, the capital account was spent almost in full. The binding constraint has moved from money to time — and time is the one variable the system does not publish.
 - [Two Surveys, One Country](https://www.pritirajbrahma.in/review/two-surveys-one-country/) — Health & Human Development, 9 August 2026, 9 min read. India’s two official sources on child undernutrition disagree about wasting by fourteen percentage points. One of them is now used to report progress, and it is not the one designed to measure it.
 - [Eight Hundred and Fifty Seats — What Delimitation Actually Decides](https://www.pritirajbrahma.in/review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/) — Institutions & Reform, 8 August 2026, 11 min read. The Delimitation Bill, 2026 proposes a 850-member Lok Sabha with 272 seats reserved for women. The seat count is the least consequential thing about it.
 - [The Arithmetic That Should Alarm Us — India's Learning Crisis as a Solvency Problem](https://www.pritirajbrahma.in/review/india-learning-crisis-the-arithmetic-that-should-alarm-us/) — Governance & Delivery, 30 July 2026, 10 min read. India enrols nearly every child and half leave unable to do grade-level mathematics. Why the learning crisis is now a fiscal question — and the five structural corrections it requires.
