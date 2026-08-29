@@ -1,6 +1,6 @@
 # The Pritiraj Review — Pritiraj & Partners
 
-> 39 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, Founding Partner, Pritiraj & Partners (Bengaluru, India). Published most weeks since 1 February 2026.
+> 40 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, Founding Partner, Pritiraj & Partners (Bengaluru, India). Published most weeks since 1 February 2026.
 
 The firm’s stand: politics is the promise, governance is the delivery. India’s failures are failures of institutional design — tasks without owners, targets without deadlines, results nobody is required to publish — not failures of ambition or resources.
 
@@ -39,10 +39,11 @@ The essays are a by-product of the firm’s practice, not a separate research op
 - [Justice & Liberty](https://www.pritirajbrahma.in/review/topics/justice-and-liberty/): 1 essay
 - [Health & Human Development](https://www.pritirajbrahma.in/review/topics/health-and-human-development/): 1 essay
 - [National Security](https://www.pritirajbrahma.in/review/topics/national-security/): 2 essays
-- [Education & Skills](https://www.pritirajbrahma.in/review/topics/education-and-skills/): 5 essays
+- [Education & Skills](https://www.pritirajbrahma.in/review/topics/education-and-skills/): 6 essays
 
 ## Essays (newest first)
 
+- [Thirty Thousand Crore, One Line — Who Creates Knowledge in Indian Higher Education](https://www.pritirajbrahma.in/review/thirty-thousand-crore-one-line/) — Education & Skills, 28 August 2026, 13 min read. India’s higher education institutions spent ₹30,909 crore on research in 2023-24, up from ₹9,942 crore four years earlier — the fastest-growing segment of national R&D. That line covers public and private institutions together, with no published split. The state opened its research funding to private universities, withdrew the UGC-CARE list, and never built the register that would show which institutions create knowledge and which only count it.
 - [The Degree and the Job — What the Apprenticeship Numbers Actually Say](https://www.pritirajbrahma.in/review/the-degree-and-the-job/) — Education & Skills, 28 August 2026, 10 min read. Apprentices engaged under NAPS rose from 3.08 lakh in 2020-21 to 9.85 lakh in 2024-25 — real growth, set against 4.33 crore students in higher education. Two ministries run one statute, two evaluations report employment on incompatible definitions, and nobody publishes the number that matters: how many apprentices hold a job a year later.
 - [The Students Who Leave — The Outflow, Its Measurement, and the Campuses Built to Answer It](https://www.pritirajbrahma.in/review/the-students-who-leave/) — Education & Skills, 27 August 2026, 10 min read. Departures for study abroad fell from about 8.94 lakh in 2023 to 6.26 lakh in 2025 — a fall produced by visa policy in four other countries, not by anything India did. Asked what these students spend, the government told Parliament it does not maintain the information. Four foreign campuses now operate here under two regulators, and neither publishes what any of them enrolled.
 - [Who Grades the Grader — Accreditation After the Arrests](https://www.pritirajbrahma.in/review/who-grades-the-grader/) — Education & Skills, 25 August 2026, 9 min read. On 1 February 2025 the CBI arrested the chairman and six members of a NAAC inspection committee. The FIR describes ₹1.8 crore sought for a score above 3.65 and an A++ grade. Nearly 900 assessors were then removed. The response treated the assessors as the fault. The fault is in a design that makes a grade worth buying and cheap to sell.
