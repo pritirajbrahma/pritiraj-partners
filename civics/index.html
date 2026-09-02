@@ -30,71 +30,71 @@
 <style>
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;font-family:'Libre Franklin',-apple-system,Helvetica,Arial,sans-serif;color:#111;background:#FAF9F5;font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
-a{color:#B4381D;text-decoration:none}
-a:hover{color:#262A2F}
+body{margin:0;font-family:'Libre Franklin',-apple-system,Helvetica,Arial,sans-serif;color:#16171A;background:#F5F4F1;font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:#DC3A22;text-decoration:none}
+a:hover{color:#16171A}
 :root{
---color-text:#111111;--color-bg:#FFFFFF;--color-surface:#FAF9F5;--color-divider:#E4E4E4;
---color-neutral-100:#FAF9F5;--color-neutral-200:#F0EEE8;--color-neutral-300:#E4E4E4;--color-neutral-400:#C9C6BE;
---color-neutral-700:#8C8C8C;--color-neutral-800:#555555;--color-neutral-900:#111111;
---color-accent:#B4381D;--color-accent-100:#FDF5EE;--color-accent-200:#F7E3D2;--color-accent-400:#262A2F;
---color-accent-600:#262A2F;--color-accent-700:#B4381D;--color-accent-800:#8F4105;
---color-accent-2-100:#FDF5EE;--color-accent-2-800:#8F4105;
+--color-text:#16171A;--color-bg:#FFFFFF;--color-surface:#F5F4F1;--color-divider:#DFDCD5;
+--color-neutral-100:#F5F4F1;--color-neutral-200:#EFECE4;--color-neutral-300:#DFDCD5;--color-neutral-400:#C4C0B7;
+--color-neutral-700:#86837B;--color-neutral-800:#4B4844;--color-neutral-900:#16171A;
+--color-accent:#DC3A22;--color-accent-100:#FBF2EE;--color-accent-200:#F3DCD4;--color-accent-400:#16171A;
+--color-accent-600:#16171A;--color-accent-700:#DC3A22;--color-accent-800:#B02D18;
+--color-accent-2-100:#FBF2EE;--color-accent-2-800:#B02D18;
 --font-body:'Libre Franklin',-apple-system,Helvetica,Arial,sans-serif;
 --font-heading:'Source Serif 4',Georgia,serif;--font-heading-weight:600;
 --radius-md:0;--radius-lg:0;
---shadow-sm:0 1px 2px rgba(17,17,17,.06);--shadow-md:0 2px 8px rgba(17,17,17,.07);--shadow-lg:0 10px 34px rgba(17,17,17,.10);
+--shadow-sm:0 1px 2px rgba(22,23,26,.06);--shadow-md:0 2px 8px rgba(22,23,26,.07);--shadow-lg:0 10px 34px rgba(22,23,26,.10);
 --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-6:24px;--space-8:32px}
-.cv-mast{position:sticky;top:0;z-index:50;background:rgba(250,249,245,.97);backdrop-filter:saturate(140%) blur(8px);border-bottom:1px solid #E4E4E4}
+.cv-mast{position:sticky;top:0;z-index:50;background:rgba(245,244,241,.97);backdrop-filter:saturate(140%) blur(8px);border-bottom:1px solid #DFDCD5}
 .cv-mast-in{max-width:1240px;margin:0 auto;padding:12px 32px;display:flex;align-items:center;justify-content:space-between;gap:24px}
-.cv-wm{display:flex;align-items:center;gap:10px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#111}
-.cv-wm:hover{color:#111}
+.cv-wm{display:flex;align-items:center;gap:10px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#16171A}
+.cv-wm:hover{color:#16171A}
 .cv-mark{width:22px;height:22px;flex:none}
-.cv-close{font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#111}
-.cv-files{border-bottom:1px solid #E4E4E4;background:#FFFFFF;position:sticky;top:47px;z-index:49}
+.cv-close{font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#16171A}
+.cv-files{border-bottom:1px solid #DFDCD5;background:#FFFFFF;position:sticky;top:47px;z-index:49}
 .cv-files-in{max-width:1240px;margin:0 auto;padding:0 32px;display:flex;gap:0;overflow-x:auto;scrollbar-width:none}
 .cv-files-in::-webkit-scrollbar{display:none}
-.cv-files-in a{flex:none;padding:13px 20px 11px;font-size:11px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:#8C8C8C;border-bottom:2px solid transparent;white-space:nowrap}
-.cv-files-in a:hover{color:#111;border-bottom-color:#E4E4E4}
+.cv-files-in a{flex:none;padding:13px 20px 11px;font-size:11px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:#86837B;border-bottom:2px solid transparent;white-space:nowrap}
+.cv-files-in a:hover{color:#16171A;border-bottom-color:#DFDCD5}
 .cv-files-in a:first-child{padding-left:0}
 .cv-wrap{max-width:1240px;margin:0 auto;padding:0 32px}
 .cv-hero{padding-top:72px}
-.cv-kicker{margin:0;display:flex;align-items:center;gap:14px;font-size:11.5px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:#B4381D}
-.cv-kicker span{width:34px;height:2px;background:#B4381D;display:block}
+.cv-kicker{margin:0;display:flex;align-items:center;gap:14px;font-size:11.5px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:#DC3A22}
+.cv-kicker span{width:34px;height:2px;background:#DC3A22;display:block}
 .cv-hero h1{font-family:'Source Serif 4',Georgia,serif;font-weight:600;font-size:clamp(38px,5.4vw,62px);line-height:1.04;letter-spacing:-.014em;margin:22px 0 0;max-width:18ch}
 .cv-dek{margin:24px 0 0;font-size:19px;color:#555;max-width:60ch;line-height:1.68;text-wrap:pretty}
 .cv-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin:52px 0 0}
-.cv-card{background:#FFFFFF;border:1px solid #E4E4E4;border-top:2px solid #111;padding:26px 24px}
-.cv-card h2{margin:0;font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#B4381D}
+.cv-card{background:#FFFFFF;border:1px solid #DFDCD5;border-top:2px solid #16171A;padding:26px 24px}
+.cv-card h2{margin:0;font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#DC3A22}
 .cv-card p{margin:12px 0 0;font-size:14.5px;color:#555;line-height:1.65}
-.cv-toc{margin:64px 0 0;border-top:2px solid #111;padding-top:0}
-.cv-toc a{display:grid;grid-template-columns:64px 1fr auto;gap:24px;align-items:baseline;padding:22px 0;border-bottom:1px solid #E4E4E4;color:#111}
-.cv-toc a:hover{color:#111;background:#FDF5EE}
-.cv-toc .n{font-family:'Courier New',monospace;font-size:12px;font-weight:700;letter-spacing:.18em;color:#B4381D}
+.cv-toc{margin:64px 0 0;border-top:2px solid #16171A;padding-top:0}
+.cv-toc a{display:grid;grid-template-columns:64px 1fr auto;gap:24px;align-items:baseline;padding:22px 0;border-bottom:1px solid #DFDCD5;color:#16171A}
+.cv-toc a:hover{color:#16171A;background:#FBF2EE}
+.cv-toc .n{font-family:'Courier New',monospace;font-size:12px;font-weight:700;letter-spacing:.18em;color:#DC3A22}
 .cv-toc .t{font-family:'Source Serif 4',Georgia,serif;font-weight:600;font-size:24px;line-height:1.24}
 .cv-toc .s{display:block;font-family:'Libre Franklin',sans-serif;font-weight:400;font-size:14px;color:#555;margin-top:5px;max-width:70ch}
-.cv-toc .go{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#8C8C8C}
+.cv-toc .go{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#86837B}
 .cv-sheetwrap{padding:64px 0 0}
 .cv-sheetlead{max-width:1240px;margin:0 auto 20px;padding:0 32px;display:flex;align-items:baseline;justify-content:space-between;gap:24px;flex-wrap:wrap}
-.cv-sheetlead .fl{font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.2em;color:#B4381D}
-.cv-sheetlead .fr{font-size:12px;color:#8C8C8C}
-.cv-sheet{width:1440px;margin:0;border:1px solid #E4E4E4;border-top:2px solid #111;box-shadow:0 10px 34px rgba(17,17,17,.09);background:#FAF9F5}
+.cv-sheetlead .fl{font-family:'Courier New',monospace;font-size:11px;font-weight:700;letter-spacing:.2em;color:#DC3A22}
+.cv-sheetlead .fr{font-size:12px;color:#86837B}
+.cv-sheet{width:1440px;margin:0;border:1px solid #DFDCD5;border-top:2px solid #16171A;box-shadow:0 10px 34px rgba(22,23,26,.09);background:#F5F4F1}
 .cv-scaler{max-width:1240px;margin:0 auto;padding:0 32px;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch}
 .cv-scaler::-webkit-scrollbar{height:8px}
-.cv-scaler::-webkit-scrollbar-thumb{background:#C9C6BE}
-.cv-hint{display:none;max-width:1240px;margin:0 auto 12px;padding:0 32px;font-size:11.5px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:#B4381D}
+.cv-scaler::-webkit-scrollbar-thumb{background:#C4C0B7}
+.cv-hint{display:none;max-width:1240px;margin:0 auto 12px;padding:0 32px;font-size:11.5px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:#DC3A22}
 .cv-close-blk{margin:84px auto 0;padding-top:0}
-.cv-close-in{border-top:2px solid #111;padding-top:38px}
+.cv-close-in{border-top:2px solid #16171A;padding-top:38px}
 .cv-close-blk h2{font-family:'Source Serif 4',Georgia,serif;font-weight:600;font-size:34px;line-height:1.16;margin:16px 0 0;max-width:24ch}
 .cv-rel{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin:34px 0 0}
-.cv-rel a{display:flex;flex-direction:column;background:#FFFFFF;border:1px solid #E4E4E4;border-top:2px solid #111;padding:24px 22px;color:#111}
-.cv-rel a:hover{color:#111;border-color:#B4381D}
-.cv-rel .c{font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#B4381D}
+.cv-rel a{display:flex;flex-direction:column;background:#FFFFFF;border:1px solid #DFDCD5;border-top:2px solid #16171A;padding:24px 22px;color:#16171A}
+.cv-rel a:hover{color:#16171A;border-color:#DC3A22}
+.cv-rel .c{font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#DC3A22}
 .cv-rel .t{font-family:'Source Serif 4',Georgia,serif;font-weight:600;font-size:19px;line-height:1.3;margin:11px 0 0}
 .cv-rel .x{font-size:13.5px;color:#555;margin:9px 0 0;line-height:1.6}
-.pp-foot{border-top:1px solid #E4E4E4;margin-top:80px;padding:34px 32px 60px;font-size:12.5px;color:#8C8C8C;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;max-width:1240px;margin-left:auto;margin-right:auto}
-.pp-foot a{color:#8C8C8C}
-.pp-foot a:hover{color:#111}
+.pp-foot{border-top:1px solid #DFDCD5;margin-top:80px;padding:34px 32px 60px;font-size:12.5px;color:#86837B;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;max-width:1240px;margin-left:auto;margin-right:auto}
+.pp-foot a{color:#86837B}
+.pp-foot a:hover{color:#16171A}
 @media(max-width:1080px){.cv-cards,.cv-rel{grid-template-columns:1fr}.cv-hero{padding-top:48px}.cv-toc a{grid-template-columns:48px 1fr;gap:14px}.cv-toc .go{display:none}}
 @media(max-width:1100px){.cv-hint{display:block}.cv-sheet{box-shadow:none}}
 @media(max-width:720px){.cv-wrap,.cv-mast-in,.cv-files-in,.cv-sheetlead{padding-left:20px;padding-right:20px}.pp-foot{padding-left:20px;padding-right:20px}}
@@ -102,8 +102,8 @@ a:hover{color:#262A2F}
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LearningResource","@id":"https://www.pritirajbrahma.in/civics/#resource","url":"https://www.pritirajbrahma.in/civics/","name":"How India Is Governed — The Civics Series","headline":"How India is governed, in five charts","description":"A free five-part reference on the architecture of Indian government: the org structure of the Union and a state, how a Prime Minister or Chief Minister is chosen, how a bill becomes law, the two paths a citizen can take into government, and why a democracy keeps a permanent civil service. Roles only, no officeholders named.","inLanguage":"en-IN","learningResourceType":["Reference","Diagram"],"educationalLevel":"Introductory","isAccessibleForFree":true,"license":"https://creativecommons.org/licenses/by-nd/4.0/","datePublished":"2026-08-13","dateModified":"2026-08-13","about":[{"@type":"Thing","name":"Government of India"},{"@type":"Thing","name":"Parliament of India"},{"@type":"Thing","name":"Indian Administrative Service"},{"@type":"Thing","name":"Civics"}],"author":{"@type":"Person","name":"Pritiraj Brahma","url":"https://www.pritirajbrahma.in/pritiraj-brahma/"},"publisher":{"@type":"Organization","name":"Pritiraj & Partners","url":"https://www.pritirajbrahma.in/","logo":{"@type":"ImageObject","url":"https://www.pritirajbrahma.in/assets/mark.svg"}},"hasPart":[{"@type":"CreativeWork","name":"File 01 — The org structure","description":"President, Prime Minister, Cabinet and Parliament — and the same shape repeated in every state.","url":"https://www.pritirajbrahma.in/civics/#file-01"},{"@type":"CreativeWork","name":"File 02 — From a vote to a Prime Minister","description":"Nobody votes for a Prime Minister. Seat arithmetic, the leader's selection and the floor test.","url":"https://www.pritirajbrahma.in/civics/#file-02"},{"@type":"CreativeWork","name":"File 03 — How a bill becomes law","description":"Ministry draft to the Gazette, in seven stages — and where a money bill differs.","url":"https://www.pritirajbrahma.in/civics/#file-03"},{"@type":"CreativeWork","name":"File 04 — Two paths into government","description":"The examination and the ballot: two careers that end up in the same room.","url":"https://www.pritirajbrahma.in/civics/#file-04"},{"@type":"CreativeWork","name":"File 05 — Why the services exist","description":"Why a democracy keeps an unelected permanent service, and the Articles that hold it there.","url":"https://www.pritirajbrahma.in/civics/#file-05"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Pritiraj & Partners","item":"https://www.pritirajbrahma.in/"},{"@type":"ListItem","position":2,"name":"The Civics Series","item":"https://www.pritirajbrahma.in/civics/"}]}]}</script>
 </head>
 <body>
-<div class="cv-mast"><div class="cv-mast-in"><a class="cv-wm" href="/"><svg class="cv-mark" viewBox="0 0 140 140"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>The Civics Series <span style="color:#262A2F">·</span> Pritiraj &amp; Partners</a><a class="cv-close" href="/review/">The Review →</a></div></div>
-<nav class="cv-files"><div class="cv-files-in"><a href="#file-01">01 Structure</a><a href="#file-02">02 A leader</a><a href="#file-03">03 A bill</a><a href="#file-04">04 Two paths</a><a href="#file-05">05 The services</a><a href="#read-next" style="color:#B4381D">Read next</a></div></nav>
+<div class="cv-mast"><div class="cv-mast-in"><a class="cv-wm" href="/"><svg class="cv-mark" viewBox="0 0 140 140"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>The Civics Series <span style="color:#16171A">·</span> Pritiraj &amp; Partners</a><a class="cv-close" href="/review/">The Review →</a></div></div>
+<nav class="cv-files"><div class="cv-files-in"><a href="#file-01">01 Structure</a><a href="#file-02">02 A leader</a><a href="#file-03">03 A bill</a><a href="#file-04">04 Two paths</a><a href="#file-05">05 The services</a><a href="#read-next" style="color:#DC3A22">Read next</a></div></nav>
 
 <main class="cv-wrap cv-hero">
 <p class="cv-kicker"><span></span>Civics series · five files · free to use</p>
@@ -125,160 +125,160 @@ a:hover{color:#262A2F}
 <div class="cv-sheetlead"><span class="fl">FILE 01 OF 05 · UNION AND STATE — ROLES ONLY</span><span class="fr">The org structure</span></div>
 <p class="cv-hint">Wide chart — scroll sideways to read it →</p>
 <div class="cv-scaler"><div class="cv-sheet">
-<div style="width: 1440px; margin: 0 auto; padding: 48px 56px 64px; background: #FAF9F5; box-sizing: border-box; position: relative; z-index: 0; overflow: hidden;">
+<div style="width: 1440px; margin: 0 auto; padding: 48px 56px 64px; background: #F5F4F1; box-sizing: border-box; position: relative; z-index: 0; overflow: hidden;">
   
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 12px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 13px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
-    <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #8C8C8C;">Civics series &nbsp;·&nbsp; File 01 of 05</div>
+    <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #86837B;">Civics series &nbsp;·&nbsp; File 01 of 05</div>
   </div>
 
 
-  <div style="display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; border-bottom: 2px solid #111111; padding-bottom: 16px;">
+  <div style="display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; border-bottom: 2px solid #16171A; padding-bottom: 16px;">
     <div>
-      <div style="font-size: 12px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: #B4381D; margin-bottom: 12px;">Org structure — roles only</div>
+      <div style="font-size: 12px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: #DC3A22; margin-bottom: 12px;">Org structure — roles only</div>
       <h2 style="margin: 0; font-family: 'Source Serif 4',Georgia,serif; font-size: 54px; line-height: 1.02; font-weight: 600; letter-spacing: -0.02em; max-width: 20ch;">How India is governed</h2>
     </div>
-    <div style="max-width: 44ch; font-size: 14px; line-height: 1.45; color: #555555; padding-bottom: 6px;">Two parallel structures. The Union government at the centre, and the same pattern repeated in every state. Elected legislators sit on the right of each half; the executive they sustain sits on the left.</div>
+    <div style="max-width: 44ch; font-size: 14px; line-height: 1.45; color: #4B4844; padding-bottom: 6px;">Two parallel structures. The Union government at the centre, and the same pattern repeated in every state. Elected legislators sit on the right of each half; the executive they sustain sits on the left.</div>
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 8px 36px; padding: 14px 0; border-bottom: 2px solid #111111; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: #8C8C8C;">
-    <div><span style="color: #B4381D; font-weight: 700;">Directly elected</span> &nbsp;MPs, MLAs</div>
-    <div><span style="color: #B4381D; font-weight: 700;">Appointed</span> &nbsp;Governor, civil service</div>
-    <div><span style="color: #B4381D; font-weight: 700;">Political executive</span> &nbsp;PM, CM, ministers</div>
-    <div><span style="color: #B4381D; font-weight: 700;">Permanent executive</span> &nbsp;secretaries, collectors</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px 36px; padding: 14px 0; border-bottom: 2px solid #16171A; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: #86837B;">
+    <div><span style="color: #DC3A22; font-weight: 700;">Directly elected</span> &nbsp;MPs, MLAs</div>
+    <div><span style="color: #DC3A22; font-weight: 700;">Appointed</span> &nbsp;Governor, civil service</div>
+    <div><span style="color: #DC3A22; font-weight: 700;">Political executive</span> &nbsp;PM, CM, ministers</div>
+    <div><span style="color: #DC3A22; font-weight: 700;">Permanent executive</span> &nbsp;secretaries, collectors</div>
   </div>
 
   <section data-screen-label="Union" style="padding-top: 40px;">
     <div style="display: flex; align-items: baseline; gap: 20px; margin-bottom: 8px;">
-      <div style="font-size: 40px; font-weight: 800; color: #262A2F; line-height: 1;">01</div>
+      <div style="font-size: 40px; font-weight: 800; color: #16171A; line-height: 1;">01</div>
       <h2 style="margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.01em;">The Union</h2>
-      <div style="font-size: 14px; color: #8C8C8C;">Parliament, the Prime Minister and the Council of Ministers</div>
+      <div style="font-size: 14px; color: #86837B;">Parliament, the Prime Minister and the Council of Ministers</div>
     </div>
-    <div style="height: 2px; background: #111111; margin-bottom: 28px;"></div>
+    <div style="height: 2px; background: #16171A; margin-bottom: 28px;"></div>
 
     <div style="display: grid; grid-template-columns: 1fr 2px 1fr; gap: 32px;">
 
       <div>
-        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #B4381D; margin-bottom: 14px;">Legislature</div>
+        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #DC3A22; margin-bottom: 14px;">Legislature</div>
 
-        <div style="border: 2px solid #111111; background: #F0EEE8; padding: 14px 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Source of authority</div>
+        <div style="border: 2px solid #16171A; background: #EFECE4; padding: 14px 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Source of authority</div>
           <div style="font-size: 19px; font-weight: 700; margin-top: 4px;">The electorate</div>
-          <div style="font-size: 13px; color: #555555; margin-top: 4px;">General election every five years; universal adult franchise.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 4px;">General election every five years; universal adult franchise.</div>
         </div>
 
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
 
-        <div style="border: 2px solid #111111; padding: 16px; background: #FDF5EE;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Parliament — Lower House</div>
+        <div style="border: 2px solid #16171A; padding: 16px; background: #FBF2EE;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Parliament — Lower House</div>
           <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-top: 4px;">
             <div style="font-size: 22px; font-weight: 800;">Lok Sabha</div>
-            <div style="font-size: 13px; font-weight: 600; color: #B4381D;">543 MPs</div>
+            <div style="font-size: 13px; font-weight: 600; color: #DC3A22;">543 MPs</div>
           </div>
-          <div style="font-size: 13px; color: #555555; margin-top: 6px; line-height: 1.45;">Members directly elected from single-member constituencies. Constitutional ceiling 550. Money bills originate here; the government must hold its confidence.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 6px; line-height: 1.45;">Members directly elected from single-member constituencies. Constitutional ceiling 550. Money bills originate here; the government must hold its confidence.</div>
         </div>
 
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
 
-        <div style="border: 2px solid #111111; padding: 16px; background: #FDF5EE;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Parliament — Upper House</div>
+        <div style="border: 2px solid #16171A; padding: 16px; background: #FBF2EE;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Parliament — Upper House</div>
           <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-top: 4px;">
             <div style="font-size: 22px; font-weight: 800;">Rajya Sabha</div>
-            <div style="font-size: 13px; font-weight: 600; color: #B4381D;">245 members</div>
+            <div style="font-size: 13px; font-weight: 600; color: #DC3A22;">245 members</div>
           </div>
-          <div style="font-size: 13px; color: #555555; margin-top: 6px; line-height: 1.45;">233 elected by state legislatures, 12 nominated by the President. Permanent house, a third retiring every two years. Ceiling 250.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 6px; line-height: 1.45;">233 elected by state legislatures, 12 nominated by the President. Permanent house, a third retiring every two years. Ceiling 250.</div>
         </div>
 
         
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
-        <div style="border: 2px solid #111111; padding: 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C; margin-bottom: 12px;">Presiding officers and floor roles</div>
-          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: #E4E4E4;">
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Speaker</div><div style="font-size: 12px; color: #8C8C8C;">Lok Sabha, elected by MPs</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Deputy Speaker</div><div style="font-size: 12px; color: #8C8C8C;">Lok Sabha</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chairman</div><div style="font-size: 12px; color: #8C8C8C;">Rajya Sabha — the Vice-President</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Deputy Chairman</div><div style="font-size: 12px; color: #8C8C8C;">Rajya Sabha</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Leader of the House</div><div style="font-size: 12px; color: #8C8C8C;">Government's floor manager</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Leader of the Opposition</div><div style="font-size: 12px; color: #8C8C8C;">Largest non-government party</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chief Whip</div><div style="font-size: 12px; color: #8C8C8C;">Party discipline; defiance can cost the seat</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Committees</div><div style="font-size: 12px; color: #8C8C8C;">Standing, departmental, Public Accounts</div></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
+        <div style="border: 2px solid #16171A; padding: 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B; margin-bottom: 12px;">Presiding officers and floor roles</div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: #DFDCD5;">
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Speaker</div><div style="font-size: 12px; color: #86837B;">Lok Sabha, elected by MPs</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Deputy Speaker</div><div style="font-size: 12px; color: #86837B;">Lok Sabha</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chairman</div><div style="font-size: 12px; color: #86837B;">Rajya Sabha — the Vice-President</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Deputy Chairman</div><div style="font-size: 12px; color: #86837B;">Rajya Sabha</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Leader of the House</div><div style="font-size: 12px; color: #86837B;">Government's floor manager</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Leader of the Opposition</div><div style="font-size: 12px; color: #86837B;">Largest non-government party</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chief Whip</div><div style="font-size: 12px; color: #86837B;">Party discipline; defiance can cost the seat</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Committees</div><div style="font-size: 12px; color: #86837B;">Standing, departmental, Public Accounts</div></div>
           </div>
         </div>
         
       </div>
 
-      <div style="background: #111111;"></div>
+      <div style="background: #16171A;"></div>
 
       <div>
-        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #B4381D; margin-bottom: 14px;">Executive</div>
+        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #DC3A22; margin-bottom: 14px;">Executive</div>
 
-        <div style="border: 2px solid #111111; background: #F0EEE8; padding: 14px 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Head of State</div>
+        <div style="border: 2px solid #16171A; background: #EFECE4; padding: 14px 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Head of State</div>
           <div style="font-size: 19px; font-weight: 700; margin-top: 4px;">President of India</div>
-          <div style="font-size: 13px; color: #555555; margin-top: 4px;">Elected by an electoral college of MPs and MLAs. Acts on the advice of the Council of Ministers.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 4px;">Elected by an electoral college of MPs and MLAs. Acts on the advice of the Council of Ministers.</div>
         </div>
 
         <div style="display: flex; align-items: center; gap: 10px; margin: 8px 0 8px 28px;">
-          <div style="width: 2px; height: 22px; background: #262A2F;"></div>
-          <div style="font-size: 12px; font-weight: 600; color: #B4381D; letter-spacing: 0.04em;">appoints the leader who commands a Lok Sabha majority</div>
+          <div style="width: 2px; height: 22px; background: #16171A;"></div>
+          <div style="font-size: 12px; font-weight: 600; color: #DC3A22; letter-spacing: 0.04em;">appoints the leader who commands a Lok Sabha majority</div>
         </div>
 
-        <div style="border: 2px solid #111111; background: #262A2F; color: #FDF5EE; padding: 18px 16px;">
+        <div style="border: 2px solid #16171A; background: #16171A; color: #FBF2EE; padding: 18px 16px;">
           <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.85;">Head of Government</div>
           <div style="font-size: 30px; font-weight: 800; margin-top: 2px; letter-spacing: -0.01em;">Prime Minister</div>
           <div style="font-size: 13px; margin-top: 6px; line-height: 1.45; opacity: 0.92;">Chairs the Cabinet, allocates portfolios, and answers to the Lok Sabha. Loses office if the House withdraws confidence.</div>
         </div>
 
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
 
-        <div style="border: 2px solid #111111; padding: 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Council of Ministers</div>
-          <div style="font-size: 13px; color: #555555; margin: 4px 0 14px;">All ministers together; capped at 15% of Lok Sabha strength. Three ranks:</div>
-          <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: #E4E4E4;">
-            <div style="background: #FAF9F5; padding: 12px;">
-              <div style="font-size: 11px; font-weight: 700; color: #B4381D; letter-spacing: 0.1em;">RANK 1</div>
+        <div style="border: 2px solid #16171A; padding: 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Council of Ministers</div>
+          <div style="font-size: 13px; color: #4B4844; margin: 4px 0 14px;">All ministers together; capped at 15% of Lok Sabha strength. Three ranks:</div>
+          <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: #DFDCD5;">
+            <div style="background: #F5F4F1; padding: 12px;">
+              <div style="font-size: 11px; font-weight: 700; color: #DC3A22; letter-spacing: 0.1em;">RANK 1</div>
               <div style="font-size: 17px; font-weight: 800; margin-top: 4px;">Cabinet Minister</div>
-              <div style="font-size: 12px; color: #8C8C8C; margin-top: 4px; line-height: 1.4;">Sits in Cabinet, holds a full portfolio.</div>
+              <div style="font-size: 12px; color: #86837B; margin-top: 4px; line-height: 1.4;">Sits in Cabinet, holds a full portfolio.</div>
             </div>
-            <div style="background: #FAF9F5; padding: 12px;">
-              <div style="font-size: 11px; font-weight: 700; color: #B4381D; letter-spacing: 0.1em;">RANK 2</div>
+            <div style="background: #F5F4F1; padding: 12px;">
+              <div style="font-size: 11px; font-weight: 700; color: #DC3A22; letter-spacing: 0.1em;">RANK 2</div>
               <div style="font-size: 17px; font-weight: 800; margin-top: 4px;">Minister of State</div>
-              <div style="font-size: 12px; color: #8C8C8C; margin-top: 4px; line-height: 1.4;">With independent charge, or assisting a Cabinet Minister.</div>
+              <div style="font-size: 12px; color: #86837B; margin-top: 4px; line-height: 1.4;">With independent charge, or assisting a Cabinet Minister.</div>
             </div>
-            <div style="background: #FAF9F5; padding: 12px;">
-              <div style="font-size: 11px; font-weight: 700; color: #B4381D; letter-spacing: 0.1em;">RANK 3</div>
+            <div style="background: #F5F4F1; padding: 12px;">
+              <div style="font-size: 11px; font-weight: 700; color: #DC3A22; letter-spacing: 0.1em;">RANK 3</div>
               <div style="font-size: 17px; font-weight: 800; margin-top: 4px;">Deputy Minister</div>
-              <div style="font-size: 12px; color: #8C8C8C; margin-top: 4px; line-height: 1.4;">No portfolio of their own; appointed as needed.</div>
+              <div style="font-size: 12px; color: #86837B; margin-top: 4px; line-height: 1.4;">No portfolio of their own; appointed as needed.</div>
             </div>
           </div>
-          <div style="margin-top: 14px; border-top: 2px solid #111111; padding-top: 12px;">
-            <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C; margin-bottom: 10px;">The Cabinet — senior ministers, collectively responsible</div>
-            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #E4E4E4;">
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Home Affairs</div>
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Finance</div>
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Defence</div>
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">External Affairs</div>
+          <div style="margin-top: 14px; border-top: 2px solid #16171A; padding-top: 12px;">
+            <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B; margin-bottom: 10px;">The Cabinet — senior ministers, collectively responsible</div>
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #DFDCD5;">
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Home Affairs</div>
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Finance</div>
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Defence</div>
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">External Affairs</div>
             </div>
-            <div style="font-size: 12px; color: #8C8C8C; margin-top: 8px; line-height: 1.45;">These four, with the Prime Minister, form the Cabinet Committee on Security. Every other ministry — Railways, Health, Education, Agriculture and the rest — follows the same shape.</div>
+            <div style="font-size: 12px; color: #86837B; margin-top: 8px; line-height: 1.45;">These four, with the Prime Minister, form the Cabinet Committee on Security. Every other ministry — Railways, Health, Education, Agriculture and the rest — follows the same shape.</div>
           </div>
         </div>
 
         
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
-        <div style="border: 2px solid #111111; padding: 16px; background: #F0EEE8;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Permanent executive</div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
+        <div style="border: 2px solid #16171A; padding: 16px; background: #EFECE4;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Permanent executive</div>
           <div style="font-size: 19px; font-weight: 800; margin-top: 4px;">Cabinet Secretary</div>
-          <div style="font-size: 13px; color: #555555; margin-top: 4px; line-height: 1.45;">Senior-most civil servant; head of the Cabinet Secretariat and of the Indian Administrative Service.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 4px; line-height: 1.45;">Senior-most civil servant; head of the Cabinet Secretariat and of the Indian Administrative Service.</div>
           <div style="display: flex; align-items: center; gap: 10px; margin: 12px 0 12px 28px;">
-            <div style="width: 2px; height: 18px; background: #111111;"></div>
-            <div style="font-size: 12px; color: #8C8C8C;">coordinates</div>
+            <div style="width: 2px; height: 18px; background: #16171A;"></div>
+            <div style="font-size: 12px; color: #86837B;">coordinates</div>
           </div>
-          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #E4E4E4;">
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Secretaries</div><div style="font-size: 12px; color: #8C8C8C;">One per ministry; the minister's official head</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">All-India Services</div><div style="font-size: 12px; color: #8C8C8C;">IAS, IPS, IFoS — serve Union and states alike</div></div>
+          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #DFDCD5;">
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Secretaries</div><div style="font-size: 12px; color: #86837B;">One per ministry; the minister's official head</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">All-India Services</div><div style="font-size: 12px; color: #86837B;">IAS, IPS, IFoS — serve Union and states alike</div></div>
           </div>
         </div>
         
@@ -286,132 +286,132 @@ a:hover{color:#262A2F}
     </div>
   </section>
 
-  <div style="height: 2px; background: #111111; margin: 44px 0 0;"></div>
+  <div style="height: 2px; background: #16171A; margin: 44px 0 0;"></div>
 
   <section data-screen-label="State" style="padding-top: 40px;">
     <div style="display: flex; align-items: baseline; gap: 20px; margin-bottom: 8px;">
-      <div style="font-size: 40px; font-weight: 800; color: #262A2F; line-height: 1;">02</div>
+      <div style="font-size: 40px; font-weight: 800; color: #16171A; line-height: 1;">02</div>
       <h2 style="margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.01em;">A state</h2>
-      <div style="font-size: 14px; color: #8C8C8C;">The same pattern, one level down — the Chief Minister's government</div>
+      <div style="font-size: 14px; color: #86837B;">The same pattern, one level down — the Chief Minister's government</div>
     </div>
-    <div style="height: 2px; background: #111111; margin-bottom: 28px;"></div>
+    <div style="height: 2px; background: #16171A; margin-bottom: 28px;"></div>
 
     <div style="display: grid; grid-template-columns: 1fr 2px 1fr; gap: 32px;">
 
       <div>
-        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #B4381D; margin-bottom: 14px;">Legislature</div>
+        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #DC3A22; margin-bottom: 14px;">Legislature</div>
 
-        <div style="border: 2px solid #111111; background: #F0EEE8; padding: 14px 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Source of authority</div>
+        <div style="border: 2px solid #16171A; background: #EFECE4; padding: 14px 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Source of authority</div>
           <div style="font-size: 19px; font-weight: 700; margin-top: 4px;">The state's electorate</div>
-          <div style="font-size: 13px; color: #555555; margin-top: 4px;">State election every five years, held separately from the general election.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 4px;">State election every five years, held separately from the general election.</div>
         </div>
 
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
 
-        <div style="border: 2px solid #111111; padding: 16px; background: #FDF5EE;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Lower House</div>
+        <div style="border: 2px solid #16171A; padding: 16px; background: #FBF2EE;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Lower House</div>
           <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-top: 4px;">
             <div style="font-size: 22px; font-weight: 800;">Legislative Assembly</div>
-            <div style="font-size: 13px; font-weight: 600; color: #B4381D;">MLAs</div>
+            <div style="font-size: 13px; font-weight: 600; color: #DC3A22;">MLAs</div>
           </div>
-          <div style="font-size: 13px; color: #555555; margin-top: 6px; line-height: 1.45;">Vidhan Sabha. Members directly elected from constituencies within the state; strength between 60 and 500 depending on population. Sustains or dismisses the Chief Minister.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 6px; line-height: 1.45;">Vidhan Sabha. Members directly elected from constituencies within the state; strength between 60 and 500 depending on population. Sustains or dismisses the Chief Minister.</div>
         </div>
 
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
 
-        <div style="border: 2px solid #111111; padding: 16px; background: #FDF5EE;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Upper House — only in six states</div>
+        <div style="border: 2px solid #16171A; padding: 16px; background: #FBF2EE;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Upper House — only in six states</div>
           <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-top: 4px;">
             <div style="font-size: 22px; font-weight: 800;">Legislative Council</div>
-            <div style="font-size: 13px; font-weight: 600; color: #B4381D;">MLCs</div>
+            <div style="font-size: 13px; font-weight: 600; color: #DC3A22;">MLCs</div>
           </div>
-          <div style="font-size: 13px; color: #555555; margin-top: 6px; line-height: 1.45;">Vidhan Parishad. Where it exists, no larger than a third of the Assembly. Members are elected by local bodies, teachers and graduates, by MLAs, or nominated by the Governor.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 6px; line-height: 1.45;">Vidhan Parishad. Where it exists, no larger than a third of the Assembly. Members are elected by local bodies, teachers and graduates, by MLAs, or nominated by the Governor.</div>
         </div>
 
         
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
-        <div style="border: 2px solid #111111; padding: 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C; margin-bottom: 12px;">Presiding officers and floor roles</div>
-          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: #E4E4E4;">
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Speaker</div><div style="font-size: 12px; color: #8C8C8C;">Legislative Assembly</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chairman</div><div style="font-size: 12px; color: #8C8C8C;">Legislative Council, where one exists</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Leader of the Opposition</div><div style="font-size: 12px; color: #8C8C8C;">Largest non-government party</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chief Whip</div><div style="font-size: 12px; color: #8C8C8C;">Party discipline in the House</div></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
+        <div style="border: 2px solid #16171A; padding: 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B; margin-bottom: 12px;">Presiding officers and floor roles</div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: #DFDCD5;">
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Speaker</div><div style="font-size: 12px; color: #86837B;">Legislative Assembly</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chairman</div><div style="font-size: 12px; color: #86837B;">Legislative Council, where one exists</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Leader of the Opposition</div><div style="font-size: 12px; color: #86837B;">Largest non-government party</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Chief Whip</div><div style="font-size: 12px; color: #86837B;">Party discipline in the House</div></div>
           </div>
         </div>
         
       </div>
 
-      <div style="background: #111111;"></div>
+      <div style="background: #16171A;"></div>
 
       <div>
-        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #B4381D; margin-bottom: 14px;">Executive</div>
+        <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #DC3A22; margin-bottom: 14px;">Executive</div>
 
-        <div style="border: 2px solid #111111; background: #F0EEE8; padding: 14px 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Head of State (constitutional)</div>
+        <div style="border: 2px solid #16171A; background: #EFECE4; padding: 14px 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Head of State (constitutional)</div>
           <div style="font-size: 19px; font-weight: 700; margin-top: 4px;">Governor</div>
-          <div style="font-size: 13px; color: #555555; margin-top: 4px;">Appointed by the President, not elected. The Union's link to the state; acts on ministerial advice.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 4px;">Appointed by the President, not elected. The Union's link to the state; acts on ministerial advice.</div>
         </div>
 
         <div style="display: flex; align-items: center; gap: 10px; margin: 8px 0 8px 28px;">
-          <div style="width: 2px; height: 22px; background: #262A2F;"></div>
-          <div style="font-size: 12px; font-weight: 600; color: #B4381D; letter-spacing: 0.04em;">appoints the leader who commands an Assembly majority</div>
+          <div style="width: 2px; height: 22px; background: #16171A;"></div>
+          <div style="font-size: 12px; font-weight: 600; color: #DC3A22; letter-spacing: 0.04em;">appoints the leader who commands an Assembly majority</div>
         </div>
 
-        <div style="border: 2px solid #111111; background: #262A2F; color: #FDF5EE; padding: 18px 16px;">
+        <div style="border: 2px solid #16171A; background: #16171A; color: #FBF2EE; padding: 18px 16px;">
           <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.85;">Head of Government</div>
           <div style="font-size: 30px; font-weight: 800; margin-top: 2px; letter-spacing: -0.01em;">Chief Minister</div>
           <div style="font-size: 13px; margin-top: 6px; line-height: 1.45; opacity: 0.92;">Runs the state government, allocates departments, and answers to the Legislative Assembly.</div>
         </div>
 
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
 
-        <div style="border: 2px solid #111111; padding: 16px;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">State Council of Ministers</div>
-          <div style="font-size: 13px; color: #555555; margin: 4px 0 14px;">Capped at 15% of Assembly strength, minimum twelve. The same three ranks:</div>
-          <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: #E4E4E4;">
-            <div style="background: #FAF9F5; padding: 12px;">
-              <div style="font-size: 11px; font-weight: 700; color: #B4381D; letter-spacing: 0.1em;">RANK 1</div>
+        <div style="border: 2px solid #16171A; padding: 16px;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">State Council of Ministers</div>
+          <div style="font-size: 13px; color: #4B4844; margin: 4px 0 14px;">Capped at 15% of Assembly strength, minimum twelve. The same three ranks:</div>
+          <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: #DFDCD5;">
+            <div style="background: #F5F4F1; padding: 12px;">
+              <div style="font-size: 11px; font-weight: 700; color: #DC3A22; letter-spacing: 0.1em;">RANK 1</div>
               <div style="font-size: 17px; font-weight: 800; margin-top: 4px;">Cabinet Minister</div>
-              <div style="font-size: 12px; color: #8C8C8C; margin-top: 4px; line-height: 1.4;">Full department; sits in the state Cabinet.</div>
+              <div style="font-size: 12px; color: #86837B; margin-top: 4px; line-height: 1.4;">Full department; sits in the state Cabinet.</div>
             </div>
-            <div style="background: #FAF9F5; padding: 12px;">
-              <div style="font-size: 11px; font-weight: 700; color: #B4381D; letter-spacing: 0.1em;">RANK 2</div>
+            <div style="background: #F5F4F1; padding: 12px;">
+              <div style="font-size: 11px; font-weight: 700; color: #DC3A22; letter-spacing: 0.1em;">RANK 2</div>
               <div style="font-size: 17px; font-weight: 800; margin-top: 4px;">Minister of State</div>
-              <div style="font-size: 12px; color: #8C8C8C; margin-top: 4px; line-height: 1.4;">Independent charge, or assisting.</div>
+              <div style="font-size: 12px; color: #86837B; margin-top: 4px; line-height: 1.4;">Independent charge, or assisting.</div>
             </div>
-            <div style="background: #FAF9F5; padding: 12px;">
-              <div style="font-size: 11px; font-weight: 700; color: #B4381D; letter-spacing: 0.1em;">RANK 3</div>
+            <div style="background: #F5F4F1; padding: 12px;">
+              <div style="font-size: 11px; font-weight: 700; color: #DC3A22; letter-spacing: 0.1em;">RANK 3</div>
               <div style="font-size: 17px; font-weight: 800; margin-top: 4px;">Deputy Minister</div>
-              <div style="font-size: 12px; color: #8C8C8C; margin-top: 4px; line-height: 1.4;">Assists without a portfolio. Some states also name a Deputy Chief Minister.</div>
+              <div style="font-size: 12px; color: #86837B; margin-top: 4px; line-height: 1.4;">Assists without a portfolio. Some states also name a Deputy Chief Minister.</div>
             </div>
           </div>
-          <div style="margin-top: 14px; border-top: 2px solid #111111; padding-top: 12px;">
-            <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C; margin-bottom: 10px;">Typical state departments</div>
-            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #E4E4E4;">
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Home &amp; Police</div>
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Finance</div>
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Revenue</div>
-              <div style="background: #F0EEE8; padding: 10px 12px; font-size: 15px; font-weight: 700;">Health &amp; Education</div>
+          <div style="margin-top: 14px; border-top: 2px solid #16171A; padding-top: 12px;">
+            <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B; margin-bottom: 10px;">Typical state departments</div>
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #DFDCD5;">
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Home &amp; Police</div>
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Finance</div>
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Revenue</div>
+              <div style="background: #EFECE4; padding: 10px 12px; font-size: 15px; font-weight: 700;">Health &amp; Education</div>
             </div>
-            <div style="font-size: 12px; color: #8C8C8C; margin-top: 8px; line-height: 1.45;">Subjects a state may legislate on are set by the State List; some are shared with the Union on the Concurrent List.</div>
+            <div style="font-size: 12px; color: #86837B; margin-top: 8px; line-height: 1.45;">Subjects a state may legislate on are set by the State List; some are shared with the Union on the Concurrent List.</div>
           </div>
         </div>
 
         
-        <div style="width: 2px; height: 22px; background: #111111; margin-left: 28px;"></div>
-        <div style="border: 2px solid #111111; padding: 16px; background: #F0EEE8;">
-          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #8C8C8C;">Permanent executive</div>
+        <div style="width: 2px; height: 22px; background: #16171A; margin-left: 28px;"></div>
+        <div style="border: 2px solid #16171A; padding: 16px; background: #EFECE4;">
+          <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #86837B;">Permanent executive</div>
           <div style="font-size: 19px; font-weight: 800; margin-top: 4px;">Chief Secretary</div>
-          <div style="font-size: 13px; color: #555555; margin-top: 4px; line-height: 1.45;">Senior-most civil servant in the state; head of the state administration.</div>
+          <div style="font-size: 13px; color: #4B4844; margin-top: 4px; line-height: 1.45;">Senior-most civil servant in the state; head of the state administration.</div>
           <div style="display: flex; align-items: center; gap: 10px; margin: 12px 0 12px 28px;">
-            <div style="width: 2px; height: 18px; background: #111111;"></div>
-            <div style="font-size: 12px; color: #8C8C8C;">down to the districts</div>
+            <div style="width: 2px; height: 18px; background: #16171A;"></div>
+            <div style="font-size: 12px; color: #86837B;">down to the districts</div>
           </div>
-          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #E4E4E4;">
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Department Secretaries</div><div style="font-size: 12px; color: #8C8C8C;">One per department</div></div>
-            <div style="background: #FAF9F5; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">District Collector</div><div style="font-size: 12px; color: #8C8C8C;">Revenue and administration in each district</div></div>
+          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: #DFDCD5;">
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">Department Secretaries</div><div style="font-size: 12px; color: #86837B;">One per department</div></div>
+            <div style="background: #F5F4F1; padding: 10px 12px;"><div style="font-size: 15px; font-weight: 700;">District Collector</div><div style="font-size: 12px; color: #86837B;">Revenue and administration in each district</div></div>
           </div>
         </div>
         
@@ -419,28 +419,28 @@ a:hover{color:#262A2F}
     </div>
   </section>
 
-  <div style="border-top: 2px solid #111111; margin-top: 44px; padding-top: 16px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px;">
-    <div style="font-size: 13px; color: #555555; line-height: 1.5;"><span style="font-weight: 700; color: #111111;">Solid red box</span> — the office that actually runs the government.</div>
-    <div style="font-size: 13px; color: #555555; line-height: 1.5;"><span style="font-weight: 700; color: #111111;">Vertical rule</span> — a line of appointment or accountability, read downward.</div>
-    <div style="font-size: 13px; color: #555555; line-height: 1.5;">Roles only, no officeholders named. Seat counts are the constitutional and current sanctioned strengths.</div>
+  <div style="border-top: 2px solid #16171A; margin-top: 44px; padding-top: 16px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px;">
+    <div style="font-size: 13px; color: #4B4844; line-height: 1.5;"><span style="font-weight: 700; color: #16171A;">Solid red box</span> — the office that actually runs the government.</div>
+    <div style="font-size: 13px; color: #4B4844; line-height: 1.5;"><span style="font-weight: 700; color: #16171A;">Vertical rule</span> — a line of appointment or accountability, read downward.</div>
+    <div style="font-size: 13px; color: #4B4844; line-height: 1.5;">Roles only, no officeholders named. Seat counts are the constitutional and current sanctioned strengths.</div>
   </div>
 </div>
-    <div data-series-nav style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: #111111; border: 2px solid #111111; margin-top: 28px;">
-    <div style="background: #FAF9F5;"><div style="padding: 14px 18px;">
-      <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #8C8C8C;">Previous</div>
-      <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: #8C8C8C;">Start of the series</div>
+    <div data-series-nav style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: #16171A; border: 2px solid #16171A; margin-top: 28px;">
+    <div style="background: #F5F4F1;"><div style="padding: 14px 18px;">
+      <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #86837B;">Previous</div>
+      <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: #86837B;">Start of the series</div>
     </div></div>
-    <div style="background: #FAF9F5; text-align: right;"><a href="#file-02" style="display: block; padding: 14px 18px; color: #111111;">
-      <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #8C8C8C;">Next</div>
-      <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: #B4381D;">File 02 &nbsp;·&nbsp; From a vote to a Prime Minister</div>
+    <div style="background: #F5F4F1; text-align: right;"><a href="#file-02" style="display: block; padding: 14px 18px; color: #16171A;">
+      <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #86837B;">Next</div>
+      <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: #DC3A22;">File 02 &nbsp;·&nbsp; From a vote to a Prime Minister</div>
     </a></div>
   </div>
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 2px solid #111111; margin-top: 28px; padding: 18px 0 6px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 2px solid #16171A; margin-top: 28px; padding: 18px 0 6px; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
-    <div style="font-size: 12px; color: #8C8C8C;">Prepared by Pritiraj &amp; Partners &nbsp;·&nbsp; for education and reference</div>
+    <div style="font-size: 12px; color: #86837B;">Prepared by Pritiraj &amp; Partners &nbsp;·&nbsp; for education and reference</div>
   </div>
 </div></div>
 </section>
@@ -452,7 +452,7 @@ a:hover{color:#262A2F}
   
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 12px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 13px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Civics series &nbsp;·&nbsp; File 02 of 05</div>
@@ -724,18 +724,18 @@ a:hover{color:#262A2F}
   </div>
 </div>
     <div data-series-nav style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--color-text); border: 2px solid var(--color-text); margin-top: 28px;">
-    <div style="background: #FAF9F5;"><a href="#file-01" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1;"><a href="#file-01" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Previous</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 01 &nbsp;·&nbsp; How India is governed</div>
     </a></div>
-    <div style="background: #FAF9F5; text-align: right;"><a href="#file-03" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1; text-align: right;"><a href="#file-03" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Next</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 03 &nbsp;·&nbsp; How a bill becomes law</div>
     </a></div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 2px solid var(--color-text); margin-top: 28px; padding: 18px 0 6px; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 12px; color: var(--color-neutral-700);">Prepared by Pritiraj &amp; Partners &nbsp;·&nbsp; for education and reference</div>
@@ -750,7 +750,7 @@ a:hover{color:#262A2F}
   
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 12px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 13px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Civics series &nbsp;·&nbsp; File 03 of 05</div>
@@ -937,18 +937,18 @@ a:hover{color:#262A2F}
   </div>
 </div>
     <div data-series-nav style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--color-text); border: 2px solid var(--color-text); margin-top: 28px;">
-    <div style="background: #FAF9F5;"><a href="#file-02" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1;"><a href="#file-02" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Previous</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 02 &nbsp;·&nbsp; From a vote to a Prime Minister</div>
     </a></div>
-    <div style="background: #FAF9F5; text-align: right;"><a href="#file-04" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1; text-align: right;"><a href="#file-04" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Next</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 04 &nbsp;·&nbsp; Two paths a citizen can take</div>
     </a></div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 2px solid var(--color-text); margin-top: 28px; padding: 18px 0 6px; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 12px; color: var(--color-neutral-700);">Prepared by Pritiraj &amp; Partners &nbsp;·&nbsp; for education and reference</div>
@@ -963,7 +963,7 @@ a:hover{color:#262A2F}
   
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 12px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 13px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Civics series &nbsp;·&nbsp; File 04 of 05</div>
@@ -1179,18 +1179,18 @@ a:hover{color:#262A2F}
     <div>Procedure in outline; exact age limits, attempt counts and paper patterns are revised from time to time.</div>
   </div>
     <div data-series-nav style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--color-text); border: 2px solid var(--color-text); margin-top: 28px;">
-    <div style="background: #FAF9F5;"><a href="#file-03" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1;"><a href="#file-03" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Previous</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 03 &nbsp;·&nbsp; How a bill becomes law</div>
     </a></div>
-    <div style="background: #FAF9F5; text-align: right;"><a href="#file-05" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1; text-align: right;"><a href="#file-05" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Next</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 05 &nbsp;·&nbsp; Why a democracy keeps a permanent service</div>
     </a></div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 2px solid var(--color-text); margin-top: 28px; padding: 18px 0 6px; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 12px; color: var(--color-neutral-700);">Prepared by Pritiraj &amp; Partners &nbsp;·&nbsp; for education and reference</div>
@@ -1205,7 +1205,7 @@ a:hover{color:#262A2F}
   
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 12px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 13px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Civics series &nbsp;·&nbsp; File 05 of 05</div>
@@ -1437,18 +1437,18 @@ a:hover{color:#262A2F}
   </div>
 </div>
     <div data-series-nav style="display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--color-text); border: 2px solid var(--color-text); margin-top: 28px;">
-    <div style="background: #FAF9F5;"><a href="#file-04" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1;"><a href="#file-04" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Previous</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 04 &nbsp;·&nbsp; Two paths a citizen can take</div>
     </a></div>
-    <div style="background: #FAF9F5; text-align: right;"><a href="#file-01" style="display: block; padding: 14px 18px; color: var(--color-text);">
+    <div style="background: #F5F4F1; text-align: right;"><a href="#file-01" style="display: block; padding: 14px 18px; color: var(--color-text);">
       <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-neutral-700);">Next — back to the start</div>
       <div style="font-size: 17px; font-weight: 800; margin-top: 4px; color: var(--color-accent-700);">File 01 &nbsp;·&nbsp; How India is governed</div>
     </a></div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px; border-top: 2px solid var(--color-text); margin-top: 28px; padding: 18px 0 6px; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#111111" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
+      <svg viewBox="0 0 140 140" style="height:32px;width:32px;display:block;flex:none" role="img" aria-label="Pritiraj &amp; Partners"><g transform="translate(19,0)"><g transform="translate(102,140) rotate(180)"><path fill-rule="evenodd" fill="#F4720C" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g><path fill-rule="evenodd" fill="#16171A" d="M56,22 L84,22 C101,22 113,33 113,48 C113,63 101,74 84,74 L56,74 L56,118 L46,118 L46,22 Z M56,29 L84,29 C97,29 102,37 102,48 C102,59 97,67 84,67 L56,67 Z"></path></g></svg>
       <div style="font-size: 12px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;">Pritiraj &amp; Partners</div>
     </div>
     <div style="font-size: 12px; color: var(--color-neutral-700);">Prepared by Pritiraj &amp; Partners &nbsp;·&nbsp; for education and reference</div>
@@ -1462,7 +1462,7 @@ a:hover{color:#262A2F}
 <div class="cv-rel">
 <a href="/review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/"><span class="c">Federalism &amp; the Northeast</span><span class="t">Eight Hundred and Fifty Seats</span><span class="x">File 01 shows where the 543 seats sit. This essay asks what happens when that number changes.</span></a><a href="/review/who-regulates-the-regulators/"><span class="c">Institutions &amp; Reform</span><span class="t">Who Regulates the Regulators</span><span class="x">File 05 explains why the permanent service exists. This one asks who holds it to account.</span></a><a href="/review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/"><span class="c">Political Economy</span><span class="t">The Forty-One Per Cent Illusion</span><span class="x">File 01 draws the Union and the states. This essay follows the money between them.</span></a>
 </div>
-<p style="margin:30px 0 0;font-size:14px;color:#8C8C8C;line-height:1.7;max-width:78ch">Corrections are welcome. These charts describe roles and procedure under the Constitution of India and the rules of the two Houses; where a reader finds an error, it will be corrected and the change recorded. See <a href="/pritiraj-brahma/#method">how the Review is made</a>.</p>
+<p style="margin:30px 0 0;font-size:14px;color:#86837B;line-height:1.7;max-width:78ch">Corrections are welcome. These charts describe roles and procedure under the Constitution of India and the rules of the two Houses; where a reader finds an error, it will be corrected and the change recorded. See <a href="/pritiraj-brahma/#method">how the Review is made</a>.</p>
 </div>
 </section>
 <div class="pp-foot"><span>© 2026 Pritiraj &amp; Partners · Bengaluru, Karnataka, India</span><span style="display:flex;gap:20px;flex-wrap:wrap"><a href="/">P&amp;P</a><a href="/review/">The Review</a><a href="/civics/">Civics</a><a href="/pritiraj-brahma/">Pritiraj Brahma</a><a href="/pritiraj-brahma/#method">How it&#8217;s made</a><a href="/privacy/">Privacy</a></span></div>
