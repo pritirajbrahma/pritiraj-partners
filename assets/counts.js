@@ -1,0 +1,4 @@
+window.PP_COUNTS={"essays":42,"categories":11,"seriesCount":2,"byCat":{"Education & Skills":6,"National Security":4,"Health & Human Development":1,"Institutions & Reform":6,"Governance & Delivery":6,"State Capacity":5,"Political Economy":7,"Federalism & the Northeast":2,"Resources & Climate":2,"Justice & Liberty":1,"Work & Livelihoods":2},"bySeries":{"the-degree-settlement":5,"the-fiscal-settlement":3}};
+(function(){var C=window.PP_COUNTS;if(!C)return;function v(k){if(k==="essays")return C.essays;if(k==="categories")return C.categories;if(k==="series")return C.seriesCount;if(k.indexOf("cat:")===0)return C.byCat[k.slice(4)];if(k.indexOf("series:")===0)return C.bySeries[k.slice(7)];return null;}
+function run(){[].forEach.call(document.querySelectorAll("[data-pp-count]"),function(el){var n=v(el.getAttribute("data-pp-count"));if(n!=null)el.textContent=String(n);});}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",run);else run();})();
