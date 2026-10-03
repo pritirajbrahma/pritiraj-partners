@@ -148,7 +148,8 @@ html,body{margin:0;padding:0;background:#FFFFFF}
 .pp-sf-in{max-width:1240px;margin:0 auto;padding:46px 32px 26px}
 .pp-sf-grid{display:grid;grid-template-columns:2.7fr 3fr;gap:40px;padding-bottom:30px;border-bottom:1px solid #22242A;align-items:center}
 .pp-sf-brand{padding-bottom:18px}
-.pp-sf-cols{display:grid;grid-template-columns:.8fr .95fr 1.35fr;gap:40px;align-items:start}
+.pp-sf-cols{display:grid;grid-template-columns:minmax(112px,.8fr) minmax(126px,.95fr) minmax(150px,1.35fr);gap:40px;align-items:start}
+.pp-sitefoot h5,.pp-sitefoot li>a{white-space:nowrap}
 .pp-sf-wm{display:flex;align-items:center;gap:13px}
 .pp-sf-k{margin:12px 0 0;font-size:14px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:#6E6B65}
 .pp-sf-d{margin:14px 0 0;font-size:14px;line-height:1.7;text-align:justify;hyphens:auto;color:#86837B}
@@ -168,7 +169,7 @@ html,body{margin:0;padding:0;background:#FFFFFF}
 .pp-sf-mark summary i{display:block;width:16px;height:1px;background:#F4720C;flex:none}
 .pp-sf-mark summary:hover{color:#FFFFFF}
 .pp-at{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
-@media(max-width:900px){.pp-sf-grid{grid-template-columns:1fr;gap:30px;align-items:start}.pp-sf-cols{grid-template-columns:1fr 1fr;gap:26px}}
+@media(max-width:1000px){.pp-sf-grid{grid-template-columns:1fr;gap:30px;align-items:start}.pp-sf-cols{grid-template-columns:1fr 1fr;gap:26px}}
 @media(max-width:600px){.pp-sf-cols{grid-template-columns:1fr}}
 
 .pp-sitefoot,.pp-sitefoot p,.pp-sitefoot li,.pp-sitefoot a,.pp-sitefoot h5,.pp-sitefoot summary,.pp-sitefoot span,.pp-sf-bar,.pp-sf-k,.pp-sf-d,.pp-at,.pp-sf-mark p,.pp-sf-mark summary{font-size:14px;line-height:1.7;font-family:'Libre Franklin',sans-serif}
@@ -233,9 +234,9 @@ html,body{margin:0;padding:0;background:#FFFFFF}
 <div>
 <h5>The Firm</h5>
 <ul>
-<li><a href="/#how-we-work">How We Work</a></li>
 <li><a href="/#our-projects">Our Projects</a></li>
-<li><a href="/#ethics">Ethics Charter</a></li>
+<li><a href="/practice/">The Practice</a></li>
+<li><a href="/where-we-work/">Where We Work</a></li>
 </ul>
 </div>
 <div>
@@ -257,7 +258,7 @@ html,body{margin:0;padding:0;background:#FFFFFF}
 </div>
 </div>
 </div>
-<div class="pp-sf-bar"><span>© 2026 Pritiraj &amp; Partners</span><span>Policy &amp; Politics</span></div>
+<div class="pp-sf-bar"><span>© 2026 Pritiraj &amp; Partners</span><span><a href="/#ethics">Ethics Charter</a></span><span>Policy &amp; Politics</span></div>
 </div>
 </footer>
 </div></div>
