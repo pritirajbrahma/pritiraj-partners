@@ -1,0 +1,21 @@
+/* Brings the older pages (essays, Civics, topics, series, practice, places, privacy) into the house design */
+.rvw-mast,.cv-mast,.pp-sitefoot{display:none!important}
+.uni-top,.uni-foot{font-family:'Mulish',sans-serif;text-align:left}
+.uni-top{position:relative;z-index:50;background:#1E3A2F}
+.uni-foot{margin-top:0}
+body h1,body h2,body h3{font-family:'Bodoni Moda',Georgia,serif!important;font-weight:500!important;letter-spacing:0!important}
+.uni-top *,.uni-foot *{box-sizing:border-box}
+body{background:#F3EEE5}
+.pp-cathub{display:none!important}
+.rvw-list{grid-template-columns:1fr!important;max-width:900px;margin-left:auto!important;margin-right:auto!important}
+.rvw-list .rvw-row{text-align:left}
+.pp-foot{display:none!important}
+@media(max-width:1000px){.cv-fc-panels,.rv-fc-panels{grid-template-columns:1fr!important}}
+.rvw-art div[style*="auto-fit"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+.rvw-art div[style*="auto-fit"]:has(> :nth-child(3):last-child){grid-template-columns:repeat(3,minmax(0,1fr))!important}
+.rvw-art div[style*="auto-fit"]:has(> :only-child){grid-template-columns:1fr!important}
+@media(max-width:700px){.rvw-art div[style*="auto-fit"]{grid-template-columns:1fr!important}}
+.rvw-share{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px!important;align-items:stretch}
+.rvw-share .rvw-share-l{grid-column:1/-1}
+.rvw-share .rvw-sb{justify-content:center;text-align:center;margin:0!important}
+@media(max-width:560px){.rvw-share{grid-template-columns:repeat(2,minmax(0,1fr))}}
