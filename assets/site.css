@@ -737,3 +737,8 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .gh .pothi .lf{box-shadow:0 14px 22px -10px rgba(40,24,8,.35);isolation:isolate}
 .gh .pothi .lf>*{position:relative;z-index:1}
 .gh .pothi .lf .for,.gh .pothi .lf h3,.gh .pothi .lf p,.gh .pothi .lf dt,.gh .pothi .lf dd{-webkit-text-fill-color:currentColor;opacity:1;visibility:visible}
+/* Writing shelf: volumes bound in the four elements of the birth chart, Earth, Fire, Water, Space */
+.gh .shelf .bk:nth-child(4n+1) .bk-c{background-color:#405C45!important}
+.gh .shelf .bk:nth-child(4n+2) .bk-c{background-color:#7A4A1E!important}
+.gh .shelf .bk:nth-child(4n+3) .bk-c{background-color:#2F5A6E!important}
+.gh .shelf .bk:nth-child(4n) .bk-c{background-color:#17243D!important}
