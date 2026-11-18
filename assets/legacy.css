@@ -1,7 +1,7 @@
 /* Brings the older pages (essays, Civics, topics, series, practice, places, privacy) into the house design */
 .rvw-mast,.cv-mast,.pp-sitefoot{display:none!important}
 .uni-top,.uni-foot{font-family:'Mulish',sans-serif;text-align:left}
-.uni-top{position:sticky;top:0;z-index:60;background:#1E3A2F}
+.uni-top{position:sticky;top:0;z-index:60;background:#405C45}
 .uni-foot{margin-top:0}
 body h1,body h2,body h3{font-family:'Bodoni Moda',Georgia,serif!important;font-weight:500!important;letter-spacing:0!important}
 .uni-top *,.uni-foot *{box-sizing:border-box}

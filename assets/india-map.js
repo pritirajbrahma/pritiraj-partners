@@ -104,7 +104,7 @@
         if (!isRef) halos.push(g.append('circle').attr('cx', x).attr('cy', y).attr('r', ct.t === 'hq' ? 18 : 12).attr('fill', 'url(#im-halo)'));
         if (ct.t === 'hq') g.append('circle').attr('cx', x).attr('cy', y).attr('r', 8).attr('fill', 'none').attr('stroke', '#C9A659').attr('stroke-width', .7).style('opacity', .7);
         g.append('circle').attr('cx', x).attr('cy', y).attr('r', ct.t === 'hq' ? 3.6 : 2.6).attr('fill', col)
-          .attr('stroke', '#1E3A2F').attr('stroke-width', 1);
+          .attr('stroke', '#405C45').attr('stroke-width', 1);
         const a = ct.anchor || 'start', tx = x + ct.dx, ty = y + ct.dy;
         g.append('text').attr('x', tx).attr('y', ty).attr('text-anchor', a).attr('fill', '#F3EEE5')
           .style('font', "700 10.5px 'Mulish',sans-serif").style('letter-spacing', '.14em').text(ct.n);
