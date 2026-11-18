@@ -25,3 +25,4 @@ body .pp-sitefoot a{color:#E6D3A3!important}
 @media(max-width:700px){body .rvw-mast .rvw-wm{font-size:14px!important;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}body .rvw-mast .rvw-close{white-space:nowrap;flex:none}}
 @media(max-width:700px){body .rvw-mast .rvw-wm{display:block!important;flex:1 1 auto;max-width:calc(100% - 64px)}body .rvw-mast .rvw-mark{vertical-align:middle;margin-right:6px}body .rvw-mast-in{display:flex;align-items:center;gap:12px}}
 @media(max-width:700px){body .rvw-mast .rvw-mark{display:inline-block!important;width:22px!important;height:22px!important}}
+.eb-folio{display:flex!important;align-items:center;justify-content:center;gap:16px}.eb-folio .nib{color:#A47F1F;flex:none}
