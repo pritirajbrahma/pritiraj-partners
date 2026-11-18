@@ -1,4 +1,4 @@
-# The Pritiraj Review — Pritiraj & Partners
+# Pritiraj Brahma — East & Ember, Pritiraj & Partners and The Pritiraj Review
 
 > 47 long-form, evidence-led essays on how India is governed, how it delivers, and what its next decades demand. Written by Pritiraj Brahma, founder of East & Ember Hospitality Group and Founding Partner, Pritiraj & Partners (Bengaluru, India). Published most weeks since 1 February 2026.
 
@@ -39,7 +39,8 @@ The essays are a by-product of the firm’s practice, not a separate research op
 
 ## Site
 
-- [Firm homepage](https://www.pritirajbrahma.in/)
+- [Pritiraj Brahma, founder homepage](https://www.pritirajbrahma.in/)
+- [Pritiraj & Partners, firm homepage](https://www.pritirajbrahma.in/partners/)
 - [The Pritiraj Review](https://www.pritirajbrahma.in/review/): full essay index, filterable by topic and month.
 - [Series](https://www.pritirajbrahma.in/review/series/): multi-part analyses.
 - [The Civics Series](https://www.pritirajbrahma.in/civics/): a free five-chart reference on how India is governed — the org structure of the Union and a state, how a Prime Minister or Chief Minister is chosen, how a bill becomes law, the two paths a citizen can take into government (the examination and the ballot), and why a democracy keeps a permanent civil service. Roles only, no officeholders named, so it stays accurate between elections. Descriptive reference, not argument; the Review carries the argument.
