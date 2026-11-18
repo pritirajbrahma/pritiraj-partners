@@ -720,3 +720,5 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .gh .ins3.pothis{margin:0 auto!important;width:100%}
 .gh .pothi .spec div{display:block!important;text-align:center}
 .gh .pothi .spec dt,.gh .pothi .spec dd{display:block;text-align:center}
+.gh .pothi .spec{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+@media(max-width:640px){.gh .pothi .spec{grid-template-columns:1fr!important}}
