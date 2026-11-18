@@ -26,3 +26,7 @@ body{background:#F3EEE5}
 @media(max-width:900px){doc-page{display:block;zoom:.88}}@media(max-width:780px){doc-page{zoom:.76}}@media(max-width:640px){doc-page{zoom:.62}}@media(max-width:520px){doc-page{zoom:.5}}@media(max-width:420px){doc-page{zoom:.43}}
 @media(max-width:380px){doc-page{zoom:.39}}
 .cv-files,.rvw-mast,.cv-mast{position:static!important;top:auto!important}
+/* one vertical rhythm, as on the main pages */
+.cv-nextcard,.rv-nextcard{margin-top:0!important;border-top:1px solid rgba(201,166,89,.25)}
+.cv-fc-in,.rv-fc-in,.cv-nextcard>.in,.rv-nextcard>.in{padding-top:var(--sp,72px)!important;padding-bottom:var(--sp,72px)!important}
+.cv-sheetwrap,.rvw-idx{padding-top:var(--sp,72px)!important;padding-bottom:var(--sp,72px)!important}
