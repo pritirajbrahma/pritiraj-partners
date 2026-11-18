@@ -593,15 +593,15 @@ body{padding-bottom:40px}
 @media print{body::after,body::before{display:none}.gh .hdr,.uni-top{position:static}}
 html{scroll-padding-top:120px}
 
-/* ===== Round 8: the page itself rolls ===== */
-.gh .hdr::after,.uni-top::after{content:"";position:absolute;left:0;right:0;top:100%;height:22px;pointer-events:none;
-background:radial-gradient(circle closest-side,transparent 92%,#D9CDB5 100%) left center/22px 22px no-repeat,radial-gradient(circle closest-side,transparent 92%,#D9CDB5 100%) right center/22px 22px no-repeat,repeating-radial-gradient(circle at 50% 50%,#F6F0E3 0 1.1px,#BFB297 1.1px 1.9px,#E3D8C2 1.9px 2.6px) left center/22px 22px no-repeat,repeating-radial-gradient(circle at 50% 50%,#F6F0E3 0 1.1px,#BFB297 1.1px 1.9px,#E3D8C2 1.9px 2.6px) right center/22px 22px no-repeat,
-linear-gradient(180deg,rgba(60,45,25,.55) 0,rgba(60,45,25,.18) 16%,rgba(255,255,255,0) 38%,rgba(255,255,255,.65) 50%,rgba(255,255,255,0) 62%,rgba(60,45,25,.22) 84%,rgba(40,28,14,.6) 100%),
-repeating-linear-gradient(180deg,rgba(110,90,60,.13) 0 1px,transparent 1px 4px,rgba(110,90,60,.07) 4px 5px,transparent 5px 9px) 0 var(--roll,0px)/100% 9px,#F1E9DA;
-box-shadow:0 7px 9px -3px rgba(12,7,3,.38),0 1px 0 rgba(0,0,0,.12)}
-body::before{content:"";position:fixed;left:0;right:0;bottom:40px;height:22px;z-index:61;pointer-events:none;
-background:radial-gradient(circle closest-side,transparent 92%,#D9CDB5 100%) left center/22px 22px no-repeat,radial-gradient(circle closest-side,transparent 92%,#D9CDB5 100%) right center/22px 22px no-repeat,repeating-radial-gradient(circle at 50% 50%,#F6F0E3 0 1.1px,#BFB297 1.1px 1.9px,#E3D8C2 1.9px 2.6px) left center/22px 22px no-repeat,repeating-radial-gradient(circle at 50% 50%,#F6F0E3 0 1.1px,#BFB297 1.1px 1.9px,#E3D8C2 1.9px 2.6px) right center/22px 22px no-repeat,
-linear-gradient(180deg,rgba(40,28,14,.6) 0,rgba(60,45,25,.22) 16%,rgba(255,255,255,0) 38%,rgba(255,255,255,.65) 50%,rgba(255,255,255,0) 62%,rgba(60,45,25,.18) 84%,rgba(60,45,25,.55) 100%),
-repeating-linear-gradient(180deg,rgba(110,90,60,.13) 0 1px,transparent 1px 4px,rgba(110,90,60,.07) 4px 5px,transparent 5px 9px) 0 calc(var(--roll,0px) * -1)/100% 9px,#F1E9DA;
-box-shadow:0 -7px 9px -3px rgba(12,7,3,.32),0 -1px 0 rgba(0,0,0,.12)}
-@media(max-width:700px){.gh .hdr::after,.uni-top::after,body::before{height:16px;background-size:16px 16px,16px 16px,16px 16px,16px 16px,auto,100% 9px,auto}body::before{bottom:30px}}
+/* ===== Round 9: real paper rolls that take the colour of the page passing through ===== */
+.proll{position:fixed;left:16px;right:16px;height:22px;z-index:61;pointer-events:none;border-radius:11px;--c:#F1E9DA;
+background:linear-gradient(180deg,rgba(30,20,8,.55) 0,rgba(30,20,8,.16) 18%,rgba(255,255,255,0) 36%,rgba(255,255,255,.42) 50%,rgba(255,255,255,0) 64%,rgba(30,20,8,.2) 84%,rgba(20,12,4,.6) 100%),
+repeating-linear-gradient(180deg,rgba(60,45,25,.14) 0 1px,transparent 1px 4px,rgba(60,45,25,.07) 4px 5px,transparent 5px 9px) 0 var(--roll,0px)/100% 9px,var(--c);
+transition:background-color .45s ease}
+.proll.t{box-shadow:0 7px 9px -3px rgba(12,7,3,.4)}
+.proll.b{bottom:40px;box-shadow:0 -7px 9px -3px rgba(12,7,3,.34);background-position:0 0,0 calc(var(--roll,0px) * -1),0 0}
+.proll::before,.proll::after{content:"";position:absolute;top:-3px;width:20px;height:28px;border-radius:50%/42%;
+background:radial-gradient(ellipse at 38% 32%,#FFF3CC 0,#E3C47A 22%,#B08A2E 52%,#6E5420 82%,#3A2A0E 100%);box-shadow:0 2px 3px rgba(0,0,0,.5),inset 0 0 0 1px rgba(60,40,10,.4)}
+.proll::before{left:-12px}.proll::after{right:-12px}
+@media(max-width:700px){.proll{height:16px;left:12px;right:12px}.proll.b{bottom:30px}.proll::before,.proll::after{width:15px;height:21px;top:-2.5px}.proll::before{left:-9px}.proll::after{right:-9px}}
+@media print{.proll{display:none}}
