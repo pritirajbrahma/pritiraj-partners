@@ -1,3 +1,6 @@
+/* always open a page at the top unless a #section was asked for */
+try{if('scrollRestoration' in history)history.scrollRestoration='manual'}catch(e){}
+(function(){function top(){if(!location.hash){window.scrollTo(0,0)}}top();window.addEventListener('pageshow',top);window.addEventListener('load',top)})();
 (function(){
  /* reveal on scroll */
  var els=[].slice.call(document.querySelectorAll('.rv'));function all(){els.forEach(function(e){e.classList.add('on')})}
