@@ -1,0 +1,25 @@
+/* Essay as a page of the Review's book */
+html body{background:#405C45 radial-gradient(ellipse at 50% 0,#4B6A50 0,#405C45 60%,#17243D 100%) fixed!important}
+body .rvw{background:transparent!important;color:#1F2320!important}
+body .rvw-mast{background:rgba(23,36,61,.96)!important;border-bottom:0!important;box-shadow:0 2px 0 #B8934A,0 3px 0 #7A4A1E}
+body .rvw-mast a,body .rvw-mast span{color:#F3EEE5!important;font-family:'Bodoni Moda',Georgia,serif!important;letter-spacing:.02em}
+body .rvw-mast .rvw-close{font-family:'Mulish',sans-serif!important;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#EBD49B!important}
+body .rvw-mark path{fill:#C9A659!important}body .rvw-mark g g path{fill:#F3EEE5!important}
+body .rvw-art{position:relative;max-width:780px!important;margin:56px auto 90px!important;padding:72px 72px 84px!important;box-sizing:border-box;background:#FBF8F2 linear-gradient(90deg,rgba(60,40,10,.16) 0,rgba(60,40,10,.04) 26px,transparent 60px)!important;color:#1F2320;border-radius:2px 6px 6px 2px;box-shadow:3px 0 0 #EDE6D8,5px 2px 0 #D9CDB3,7px 4px 0 #EDE6D8,9px 6px 0 #CFC3AA,0 40px 60px -20px rgba(0,0,0,.55);text-align:justify;hyphens:auto}
+body .rvw-art::before{content:"";position:absolute;inset:22px 22px 22px 34px;border:1px solid rgba(188,121,54,.35);pointer-events:none}
+body .rvw-art h1,body .rvw-art h2,body .rvw-art h3{font-family:'Bodoni Moda',Georgia,serif!important;color:#405C45!important;text-align:left;font-weight:500}
+body .rvw-art a{color:#9A5F26}
+body .rvw-art .pp-crumb a{color:#9A5F26}
+body .rvw-art{animation:ebIn .75s cubic-bezier(.2,.7,.2,1) both}
+@keyframes ebIn{0%{opacity:0;transform:translate3d(0,18px,0)}100%{opacity:1;transform:none}}
+.eb-folio{display:block;text-align:center;margin-top:46px;font-family:'Bodoni Moda',Georgia,serif;font-style:italic;color:#9A5F26;letter-spacing:.1em}
+body .pp-sitefoot{background:#17243D!important;color:#CFC6B4!important;box-shadow:0 -2px 0 #B8934A,0 -3px 0 #7A4A1E}
+body .pp-sitefoot a{color:#E6D3A3!important}
+@media(max-width:700px){body .rvw-art{padding:44px 26px 56px!important}body .rvw-art::before{inset:12px 12px 12px 18px}body .rvw-art{margin:28px 10px 60px!important}}
+@media(prefers-reduced-motion:reduce){body .rvw-art{animation:none}}
+@media(max-width:700px){body .rvw-mast .rvw-wm{font-size:14px!important;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}body .rvw-mast .rvw-close{white-space:nowrap;flex:none}}
+@media(max-width:700px){body .rvw-mast .rvw-wm{display:block!important;flex:1 1 auto;max-width:calc(100% - 64px)}body .rvw-mast .rvw-mark{vertical-align:middle;margin-right:6px}body .rvw-mast-in{display:flex;align-items:center;gap:12px}}
+@media(max-width:700px){body .rvw-mast .rvw-mark{display:inline-block!important;width:22px!important;height:22px!important}}
+.eb-folio{display:flex!important;align-items:center;justify-content:center;gap:16px}.eb-folio .kn{color:#9A5F26;flex:none}
+.eb-folio{flex-direction:column!important;gap:10px!important}.eb-folio .kn{width:52px;height:47px}
+.eb-folio{margin-top:56px!important}.eb-folio .eb-stamp{display:block;margin:0 auto;color:#7A2620;opacity:.92;transform:rotate(-8deg);mix-blend-mode:multiply}
