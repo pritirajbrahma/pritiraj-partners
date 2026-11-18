@@ -732,3 +732,8 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .gh .prose .mnd h3{margin:0 0 12px;font-size:23px;line-height:1.25;min-height:2.5em;display:flex;align-items:center;justify-content:center}
 .gh .prose .mnd p{margin:0;font-size:15.5px;line-height:1.75;text-align:justify;text-align-last:center}
 @media(max-width:700px){.gh .prose .mand4{grid-template-columns:1fr}.gh .prose .mnd h3{min-height:0}}
+/* Safari: no filter on the pothi, never hidden by the reveal, text painted above the leaf */
+.gh .pothi{filter:none!important;opacity:1!important;transform:none!important}
+.gh .pothi .lf{box-shadow:0 14px 22px -10px rgba(40,24,8,.35);isolation:isolate}
+.gh .pothi .lf>*{position:relative;z-index:1}
+.gh .pothi .lf .for,.gh .pothi .lf h3,.gh .pothi .lf p,.gh .pothi .lf dt,.gh .pothi .lf dd{-webkit-text-fill-color:currentColor;opacity:1;visibility:visible}
