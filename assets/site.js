@@ -92,3 +92,12 @@ function u(){t=0;var r=hd.getBoundingClientRect();T.style.top=r.bottom+'px';
 T.style.setProperty('--strip',strip(T,r.bottom+T.offsetHeight+3));var bb=B.getBoundingClientRect().top;B.style.setProperty('--strip',strip(B,bb-3));
 h.style.setProperty('--roll',(scrollY*.5%9).toFixed(2)+'px')}
 function q(){if(!t)t=requestAnimationFrame(u)}addEventListener('scroll',q,{passive:true});addEventListener('resize',q);addEventListener('load',q);u()})();
+
+/* Instruments: each pothi unfurls like a window blind as it scrolls into view, and curls back up on the way out */
+(function(){var ps=[].slice.call(document.querySelectorAll('.pothi'));if(!ps.length)return;
+var still=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+function upd(){var vh=window.innerHeight;ps.forEach(function(p){var lf=p.querySelector('.pleaf');if(!lf)return;var h=lf.offsetHeight;var r=p.getBoundingClientRect();
+ var u=still?1:Math.max(0,Math.min(1,(vh*0.95-r.top)/(vh*0.5)));u=1-Math.pow(1-u,2);
+ p.style.setProperty('--off',((1-u)*h).toFixed(1)+'px');p.classList.toggle('open',u>0.98)})}
+var q=false;function tick(){if(q)return;q=true;requestAnimationFrame(function(){q=false;upd()})}
+window.addEventListener('scroll',tick,{passive:true});window.addEventListener('resize',tick);upd();setTimeout(upd,600)})();

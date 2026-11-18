@@ -742,3 +742,10 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .gh .shelf .bk:nth-child(4n+2) .bk-c{background-color:#7A4A1E!important}
 .gh .shelf .bk:nth-child(4n+3) .bk-c{background-color:#2F5A6E!important}
 .gh .shelf .bk:nth-child(4n) .bk-c{background-color:#17243D!important}
+/* pothi unfurl: the leaf, cords and tassel follow the lower board, which rolls like a blind */
+.gh .pothi{--off:0px}
+.gh .pothi .pleaf{clip-path:inset(0 0 var(--off) 0);-webkit-clip-path:inset(0 0 var(--off) 0)}
+.gh .pothi .bd.b{transform:translateY(calc(-1 * var(--off)));height:18px;border-radius:9px;background:linear-gradient(180deg,#9A6A3E 0%,#6E4424 30%,#4A2A12 70%,#2E1A0B 100%)}
+.gh .pothi .cd{clip-path:inset(0 0 var(--off) 0);-webkit-clip-path:inset(0 0 var(--off) 0)}
+.gh .pothi .ts{transform:translateY(calc(-1 * var(--off)))}
+.gh .pothi:not(.open) .bd.b{box-shadow:inset 0 1px 0 rgba(255,220,170,.35),0 6px 10px -4px rgba(40,24,8,.45)}
