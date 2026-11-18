@@ -561,3 +561,4 @@ body.gh{overflow-x:clip}
 @media(max-width:760px){.gh .bcm{display:block;margin:28px auto 0}}
 @media(max-width:700px){.gh .bk-c{padding:24px 16px 20px 28px}.gh .bk-c::before{inset:10px 8px 10px 18px}.gh .bk-t{font-size:15px}}
 @media(max-width:480px){.gh .bk-t{font-size:16px}.gh .bk-c{aspect-ratio:3/3.9}}
+.gh .shelf+*{margin-top:56px}
