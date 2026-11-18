@@ -19,3 +19,9 @@ body{background:#F3EEE5}
 .rvw-share .rvw-share-l{grid-column:1/-1}
 .rvw-share .rvw-sb{justify-content:center;text-align:center;margin:0!important}
 @media(max-width:560px){.rvw-share{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:480px){body .rvw-art{padding:34px 16px 46px!important;margin:20px 6px 48px!important}body .rvw-art::before{inset:8px 8px 8px 10px!important}
+.rvw-art table{display:block;overflow-x:auto;max-width:100%}
+.rvw-art span,.rvw-art div{overflow-wrap:anywhere}
+.rv-fc-cta a,.cv-fc-cta a{flex:1 1 100%;text-align:center;justify-content:center}}
+@media(max-width:900px){doc-page{display:block;zoom:.88}}@media(max-width:780px){doc-page{zoom:.76}}@media(max-width:640px){doc-page{zoom:.62}}@media(max-width:520px){doc-page{zoom:.5}}@media(max-width:420px){doc-page{zoom:.43}}
+@media(max-width:380px){doc-page{zoom:.39}}
