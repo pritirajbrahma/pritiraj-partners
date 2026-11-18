@@ -616,3 +616,40 @@ background:radial-gradient(ellipse at 38% 32%,#FFF3CC 0,#E3C47A 22%,#B08A2E 52%,
 .gh .intro,.gh .block,.gh .seals,.gh .bookw{margin-top:var(--sp)!important}
 .gh .band .block{margin-top:0!important}
 .gh main>section:last-child,.gh main>div:last-child{padding-bottom:var(--sp)}
+/* privacy and other legal pages */
+.gh .legal{padding:var(--sp) 28px}
+.gh .legal .in{max-width:880px;margin:0 auto}
+.gh .lgl{list-style:none;margin:0;padding:0;border-top:1px solid var(--ln,#DCD2BF)}
+.gh .lgl li{display:grid;grid-template-columns:72px 1fr;gap:24px;padding:34px 0;border-bottom:1px solid var(--ln,#DCD2BF)}
+.gh .lgl .ln{font-family:'Bodoni Moda',serif;font-style:italic;font-size:30px;line-height:1;color:#A47F1F}
+.gh .lgl h2{font-size:clamp(22px,2.2vw,28px);margin:0 0 14px;color:#1E3A2F}
+.gh .lgl p{margin:0 0 14px;color:var(--t2,#3E4440);line-height:1.8}
+.gh .lgl p:last-child{margin-bottom:0}
+.gh .lgl a{color:#8A6A16}
+@media(max-width:600px){.gh .lgl li{grid-template-columns:1fr;gap:10px;padding:26px 0}.gh .legal{padding:var(--sp) 20px}}
+/* native prose pages (practice, where we work) */
+.gh .ehero .k a{color:inherit;text-decoration:none;border-bottom:1px solid rgba(201,166,89,.45)}
+.gh .prose .in{max-width:780px}
+.gh .prose h2{font-size:clamp(26px,2.6vw,34px);color:#1E3A2F;margin:52px 0 16px;padding-top:30px;border-top:1px solid var(--ln,#DCD2BF)}
+.gh .prose .in>h2:first-child,.gh .prose .in>p:first-child+h2{margin-top:0}
+.gh .prose h2 a{color:inherit;text-decoration:none}
+.gh .prose h3{font-family:'Bodoni Moda',serif;font-weight:500;font-size:22px;color:#1E3A2F;margin:30px 0 10px}
+.gh .prose p,.gh .prose li{font-size:16.5px;line-height:1.85;color:var(--t2,#3E4440);text-align:justify;hyphens:auto}
+.gh .prose p{margin:0 0 16px}
+.gh .prose ol,.gh .prose ul{margin:0 0 18px;padding-left:22px}.gh .prose li{margin:0 0 10px}
+.gh .prose li::marker{color:#A47F1F;font-family:'Bodoni Moda',serif}
+.gh .prose strong,.gh .prose b{color:#1E3A2F}
+.gh .prose a{color:#8A6A16;text-decoration:none;border-bottom:1px solid rgba(164,127,31,.35)}
+.gh .pnext{background:#1E3A2F;padding:var(--sp) 28px}
+.gh .pnext .in{max-width:880px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.gh .pnext .pn{display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:12px;padding:34px 28px;border:1px solid rgba(201,166,89,.4);text-decoration:none;transition:background .3s}
+.gh .pnext .pn:hover{background:rgba(201,166,89,.08)}
+.gh .pnext .k{font-family:Mulish,sans-serif;font-size:10.5px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#C9A659}
+.gh .pnext .t{font-family:'Bodoni Moda',serif;font-size:24px;line-height:1.25;color:#F3EEE5}
+.gh .pnext .t i{font-style:normal;color:#C9A659}
+@media(max-width:700px){.gh .pnext .in{grid-template-columns:1fr}.gh .prose p,.gh .prose li{font-size:16px}}
+.gh .prose .rvw-intro{font-family:'Bodoni Moda',serif;font-style:italic;font-size:21px;line-height:1.6;color:#1E3A2F;text-align:center;text-align-last:center;margin:0 auto 40px;padding:30px 24px;border-top:1px solid #C9A659;border-bottom:1px solid #C9A659;max-width:680px;hyphens:manual}
+.gh .prose .rvw-intro{border-left:0!important;padding:30px 24px!important;background:none!important}
+.gh .pnext .pn{justify-content:flex-start}
+.gh .ehero p.k{text-align:center!important;text-align-last:center!important}
+.gh .lgl-eff{margin:28px 0 0;text-align:center;font-family:Mulish,sans-serif;font-size:10.5px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#86837B}
