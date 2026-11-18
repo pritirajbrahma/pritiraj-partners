@@ -45,3 +45,10 @@
    document.querySelectorAll('.chp').forEach(function(x){x.setAttribute('aria-pressed',x===b)});upd()})});
   if(inp)inp.addEventListener('input',function(){q=inp.value.trim().toLowerCase();upd()});upd()}
 })();
+(function(){
+ var tls=[].slice.call(document.querySelectorAll('[data-tl]'));if(!tls.length)return;
+ function upd(){var vh=innerHeight*.62;tls.forEach(function(t){var r=t.getBoundingClientRect();var p=Math.max(0,Math.min(1,(vh-r.top)/r.height));t.style.setProperty('--p',p.toFixed(3));
+  t.querySelectorAll('li').forEach(function(li){var b=li.getBoundingClientRect();li.classList.toggle('past',b.top+30<vh)})})}
+ if(matchMedia('(prefers-reduced-motion: reduce)').matches){tls.forEach(function(t){t.style.setProperty('--p',1);t.querySelectorAll('li').forEach(function(li){li.classList.add('past')})});return}
+ addEventListener('scroll',upd,{passive:true});addEventListener('resize',upd);upd();
+})();
