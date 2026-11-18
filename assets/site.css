@@ -653,3 +653,10 @@ background:radial-gradient(ellipse at 38% 32%,#FFF3CC 0,#E3C47A 22%,#B08A2E 52%,
 .gh .pnext .pn{justify-content:flex-start}
 .gh .ehero p.k{text-align:center!important;text-align-last:center!important}
 .gh .lgl-eff{margin:28px 0 0;text-align:center;font-family:Mulish,sans-serif;font-size:10.5px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#86837B}
+/* no stone gap before the footer: the last section meets the footer band */
+.gh main>section:last-child{margin-bottom:0!important}
+.gh .houses,.gh .writing,.gh .pull2{margin-top:var(--sp)!important}
+.gh main>section:last-child:not(.corr):not(.band):not(.pnext){padding-bottom:var(--sp)!important}
+.gh footer.ft{border-top:1px solid rgba(201,166,89,.35)}
+.gh main>section.corr:last-child{max-width:none;margin-top:var(--sp)!important}
+.gh main>section.corr:last-child::before{inset:24px max(24px,calc(50% - 470px))}
