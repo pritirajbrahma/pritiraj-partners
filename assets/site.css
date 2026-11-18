@@ -722,3 +722,13 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .gh .pothi .spec dt,.gh .pothi .spec dd{display:block;text-align:center}
 .gh .pothi .spec{grid-template-columns:repeat(3,minmax(0,1fr))!important}
 @media(max-width:640px){.gh .pothi .spec{grid-template-columns:1fr!important}}
+/* Practice: four kinds of mandate, each under a birth-chart motif */
+.gh .prose .mand4{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin:8px 0 10px}
+.gh .prose .mnd{position:relative;background:#FBF8F2;border:1px solid #DCD2BF;padding:30px 28px 26px;text-align:center;display:flex;flex-direction:column;align-items:center}
+.gh .prose .mnd::before{content:"";position:absolute;inset:6px;border:1px solid rgba(188,121,54,.28);pointer-events:none}
+.gh .prose .mnd .mi{display:block;width:98px;height:84px;margin-bottom:4px}
+.gh .prose .mnd .mi svg{width:100%;height:100%;display:block}
+.gh .prose .mnd .mn{font-family:'Bodoni Moda',serif;font-style:italic;font-size:15px;color:#9A5F26;margin-bottom:6px}
+.gh .prose .mnd h3{margin:0 0 12px;font-size:23px;line-height:1.25;min-height:2.5em;display:flex;align-items:center;justify-content:center}
+.gh .prose .mnd p{margin:0;font-size:15.5px;line-height:1.75;text-align:justify;text-align-last:center}
+@media(max-width:700px){.gh .prose .mand4{grid-template-columns:1fr}.gh .prose .mnd h3{min-height:0}}
