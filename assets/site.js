@@ -70,3 +70,4 @@
  addEventListener('pageshow',function(){d.classList.remove('turn')});
  d.querySelectorAll('[data-bclose]').forEach(function(x){x.addEventListener('click',close)});d.addEventListener('click',function(e){if(e.target===d)close()});
 })();
+(function(){var h=document.documentElement,on=false;function f(){var s=scrollY>60;if(s!==on){on=s;h.classList.toggle('scr',s)}}addEventListener('scroll',f,{passive:true});f()})();
