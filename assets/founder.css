@@ -7,12 +7,13 @@
   --ink-2:#4A4F57;
   --muted:#7C818A;
   --line:#E2E3E0;
-  --river:#0E4F55;      /* founder accent: the Brahmaputra */
-  --river-2:#E3EEEE;
+  --river:#23395B;      /* founder accent: deep river indigo */
+  --river-2:#E6EAF1;
   --pp:#DC3A22;         /* Pritiraj & Partners red */
   --pp-mark:#F4720C;
-  --ee:#C7531C;         /* East & Ember ember */
-  --ee-2:#FBEDE4;
+  --ee:#1E3A2F;         /* East & Ember forest green (from the deck) */
+  --ee-gold:#A47F1F;    /* East & Ember gold */
+  --ee-2:#F1F4F1;
   --display:'Instrument Serif',Georgia,'Times New Roman',serif;
   --text:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
   --wrap:1200px;
@@ -57,7 +58,8 @@ h1,h2,h3{font-family:var(--display);font-weight:400;letter-spacing:-.01em;text-w
 .venture p{margin:0;font-size:15px;line-height:1.6;color:var(--ink-2)}
 .venture .go{font-size:14px;font-weight:600;margin-top:4px}
 .venture.pp .role,.venture.pp .go{color:var(--pp)}
-.venture.ee .role,.venture.ee .go{color:var(--ee)}
+.venture.ee .role{color:var(--ee-gold)}
+.venture.ee .go{color:var(--ee)}
 .venture.pp{border-top:4px solid var(--pp)}
 .venture.ee{border-top:4px solid var(--ee)}
 .logo{height:64px;display:flex;align-items:center}
@@ -69,7 +71,8 @@ h1,h2,h3{font-family:var(--display);font-weight:400;letter-spacing:-.01em;text-w
 .logo-ee .ember{width:40px;height:40px;flex:none}
 .logo-ee span{font-family:var(--display);font-size:29px;line-height:1}
 .logo-ee span em{font-style:italic;color:var(--ee)}
-.logo img{max-height:64px;width:auto}
+.logo img{max-height:100%;width:auto;max-width:100%}
+.band .ee-logo{height:46px;width:auto;margin-bottom:18px}
 @media(min-width:1001px){
   .venture::after{content:"";position:absolute;top:50%;width:28px;height:1px;background:var(--line)}
   .venture.pp::after{right:-29px}
@@ -126,18 +129,18 @@ h1,h2,h3{font-family:var(--display);font-weight:400;letter-spacing:-.01em;text-w
 .essay span{font-size:14px;color:var(--ink-2)}
 .essay:hover b{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
 
-.band{background:var(--river);color:#fff;border-radius:24px;padding:48px 44px;display:grid;grid-template-columns:1.4fr 1fr;gap:32px;align-items:center}
+.band{background:var(--ee);color:#fff;border-radius:24px;padding:48px 44px;display:grid;grid-template-columns:1.4fr 1fr;gap:32px;align-items:center}
 .band h2{color:#fff;font-size:clamp(32px,3.8vw,46px)}
-.band p{color:#CFE0E0;margin:12px 0 0;font-size:16px}
-.band .eyebrow{color:#9FC3C4}
-.band .btn{background:#fff;color:var(--river)!important;border-color:#fff}
-.band .btn:hover{background:var(--ee-2);border-color:var(--ee-2)}
-.band .mail{display:block;margin-top:12px;font-size:14px;color:#CFE0E0;user-select:all}
+.band p{color:#C9D6CF;margin:12px 0 0;font-size:16px}
+.band .eyebrow{color:#D9B95E}
+.band .btn{background:#fff;color:var(--ee)!important;border-color:#fff}
+.band .btn:hover{background:#D9B95E;border-color:#D9B95E}
+.band .mail{display:block;margin-top:12px;font-size:14px;color:#C9D6CF;user-select:all}
 @media(max-width:760px){.band{grid-template-columns:1fr;padding:34px 24px}}
 
 .steps{list-style:none;margin:24px 0 0;padding:0;counter-reset:s;border-top:1px solid var(--ink)}
 .steps li{counter-increment:s;display:grid;grid-template-columns:56px 1fr;gap:12px;padding:18px 0;border-bottom:1px solid var(--line);font-size:16px}
-.steps li::before{content:counter(s,decimal-leading-zero);font-family:var(--display);font-size:26px;line-height:1;color:var(--ee)}
+.steps li::before{content:counter(s,decimal-leading-zero);font-family:var(--display);font-size:26px;line-height:1;color:var(--ee-gold)}
 .faq details{border-bottom:1px solid var(--line);padding:18px 0}
 .faq summary{cursor:pointer;list-style:none;font-family:var(--display);font-size:23px;display:flex;justify-content:space-between;gap:16px}
 .faq summary::-webkit-details-marker{display:none}
@@ -155,7 +158,8 @@ h1,h2,h3{font-family:var(--display);font-weight:400;letter-spacing:-.01em;text-w
 .crumb a{color:var(--muted);text-decoration:none}
 .pagehead{padding:56px 0 8px}
 .pagehead h1{font-size:clamp(44px,6vw,76px);line-height:1}
-.ee-head h1 em{font-style:italic;color:var(--ee)}
+.ee-head h1 em{font-style:italic;color:var(--ee-gold)}
+.ee-head .logo{height:78px}
 
 /* footer */
 .foot{margin-top:40px;background:var(--ink);color:#C9CCD1;padding:56px 0 36px}
