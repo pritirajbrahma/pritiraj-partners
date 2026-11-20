@@ -379,8 +379,8 @@ img{max-width:100%;height:auto;display:block}
 .gh .ft .fl{margin:0;display:flex;flex-wrap:nowrap;gap:26px;max-width:none}
 .gh .fb{max-width:1080px;margin:22px auto 0;display:flex;justify-content:space-between;gap:20px}
 .gh .fb p{margin:0;font-size:12.5px;color:#8FA197;text-align:left}
-@media(max-width:1000px){.gh .ft .in{flex-direction:column;gap:26px}.gh .ft .fl{display:grid;grid-template-columns:repeat(3,auto);gap:12px 32px;justify-content:center}.gh .fb{flex-direction:column;align-items:center;text-align:center}.gh .fb p{text-align:center}}
-@media(max-width:480px){.gh .ft .fl{grid-template-columns:repeat(2,auto)}}
+@media(max-width:1000px){.gh .ft .in{flex-direction:column;gap:26px}.gh .ft .fl{display:grid;grid-template-columns:repeat(4,auto);gap:12px 32px;justify-content:center}.gh .fb{flex-direction:column;align-items:center;text-align:center}.gh .fb p{text-align:center}}
+@media(max-width:560px){.gh .ft .fl{grid-template-columns:repeat(2,auto)}}
 /* record: chapter labels */
 .gh .sn{font-style:italic;font-size:72px;color:rgba(188,121,54,.7)}.gh .sn small{display:block;font-style:normal;font-family:'Mulish',sans-serif;font-size:10px;letter-spacing:.3em;text-transform:uppercase;color:#9A5F26;margin-bottom:6px}
 .gh .sc.dk .sn{color:rgba(217,190,128,.75)}.gh .sc.dk .sn small{color:#EBD49B}
