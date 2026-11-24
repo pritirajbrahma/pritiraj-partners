@@ -47,22 +47,16 @@ Privacy: https://www.pritirajbrahma.in/privacy/
 
 ## How the Review is made
 
-The essays are a by-product of the firm’s practice, not a separate research operation: the firm reads the ground picture on government initiatives daily and briefs leaders from it, and an essay follows where a pattern in those notes holds across states and years and the evidence is already on the record. Figures are verified against the primary document, an official statistical release (MoSPI, RBI, NSS), a PIB or ministry note, or a parliamentary reply, with two independent sources wherever practicable; reporting is labelled as reporting where no primary source is public. AI tools assist in structuring an argument once its evidence is assembled and built this site; they are not used to source facts, and every figure is verified by the author. Errors are corrected, marked as revised with the date, and the correction states what changed. Full method note: https://www.pritirajbrahma.in/pritiraj-brahma/#method
+The essays are a by-product of the firm’s practice, not a separate research operation: the firm reads the ground picture on government initiatives daily and briefs leaders from it, and an essay follows where a pattern in those notes holds across states and years and the evidence is already on the record. Figures are verified against the primary document, an official statistical release (MoSPI, RBI, NSS), a PIB or ministry note, or a parliamentary reply, with two independent sources wherever practicable; reporting is labelled as reporting where no primary source is public. AI tools assist in structuring an argument once its evidence is assembled and built this site; they are not used to source facts, and every figure is verified by the author. Errors are corrected, marked as revised with the date, and the correction states what changed.
 
 ## Site
 
 - [Pritiraj Brahma, founder homepage](https://www.pritirajbrahma.in/)
 - [Pritiraj & Partners, firm homepage](https://www.pritirajbrahma.in/partners/)
 - [The Pritiraj Review](https://www.pritirajbrahma.in/review/): full essay index, filterable by topic and month.
-- [Series](https://www.pritirajbrahma.in/review/series/): multi-part analyses.
-- [Pritiraj Brahma](https://www.pritirajbrahma.in/pritiraj-brahma/): author page, including the method note.
+- [Pritiraj Brahma](https://www.pritirajbrahma.in/pritiraj-brahma/): author page.
 - [RSS feed](https://www.pritirajbrahma.in/feed.xml)
 - [Sitemap](https://www.pritirajbrahma.in/sitemap.xml)
-
-## Series
-
-- [The Fiscal Settlement](https://www.pritirajbrahma.in/review/series/the-fiscal-settlement/): three essays on where money sits in the Indian federation — Union to states, states to cities, and the dependent states.
-- [The Degree Settlement](https://www.pritirajbrahma.in/review/series/the-degree-settlement/): five essays on how India expanded higher education without building the ledger — who supplies the seats, who teaches in them, who certifies them, who leaves, and whether the degree reaches a job.
 
 ## Topics
 

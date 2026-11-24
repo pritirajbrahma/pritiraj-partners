@@ -1,0 +1,1135 @@
+{
+"https://fonts.googleapis.com": [
+"404.html",
+"assets/lmi/index.html",
+"contact/index.html",
+"east-and-ember/index.html",
+"index.html",
+"partners/index.html",
+"practice/index.html",
+"pritiraj-brahma/index.html",
+"privacy/index.html",
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/index.html",
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/india-s-demographic-clock/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-aquifer-is-the-real-budget-constraint/index.html",
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-half-that-does-not-show-up/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-northeast-india-is-not-the-periphery/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/the-village-is-the-claim/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/topics/education-and-skills/index.html",
+"review/topics/federalism-and-the-northeast/index.html",
+"review/topics/governance-and-delivery/index.html",
+"review/topics/health-and-human-development/index.html",
+"review/topics/institutions-and-reform/index.html",
+"review/topics/political-economy/index.html",
+"review/topics/resources-and-climate/index.html",
+"review/topics/state-capacity/index.html",
+"review/topics/work-and-livelihoods/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/two-surveys-one-country/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html",
+"review/who-regulates-the-regulators/index.html",
+"where-we-work/bengaluru/index.html",
+"where-we-work/delhi/index.html",
+"where-we-work/guwahati/index.html",
+"where-we-work/index.html",
+"where-we-work/northeast-india/index.html"
+],
+"https://fonts.gstatic.com": [
+"404.html",
+"assets/lmi/index.html",
+"contact/index.html",
+"east-and-ember/index.html",
+"index.html",
+"partners/index.html",
+"practice/index.html",
+"pritiraj-brahma/index.html",
+"privacy/index.html",
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/index.html",
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/india-s-demographic-clock/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-aquifer-is-the-real-budget-constraint/index.html",
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-half-that-does-not-show-up/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-northeast-india-is-not-the-periphery/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/the-village-is-the-claim/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/topics/education-and-skills/index.html",
+"review/topics/federalism-and-the-northeast/index.html",
+"review/topics/governance-and-delivery/index.html",
+"review/topics/health-and-human-development/index.html",
+"review/topics/institutions-and-reform/index.html",
+"review/topics/political-economy/index.html",
+"review/topics/resources-and-climate/index.html",
+"review/topics/state-capacity/index.html",
+"review/topics/work-and-livelihoods/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/two-surveys-one-country/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html",
+"review/who-regulates-the-regulators/index.html",
+"where-we-work/bengaluru/index.html",
+"where-we-work/delhi/index.html",
+"where-we-work/guwahati/index.html",
+"where-we-work/index.html",
+"where-we-work/northeast-india/index.html"
+],
+"https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=Mulish:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,700&display=swap": [
+"404.html",
+"contact/index.html",
+"east-and-ember/index.html",
+"index.html",
+"partners/index.html",
+"pritiraj-brahma/index.html",
+"privacy/index.html",
+"review/index.html"
+],
+"https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap": [
+"assets/lmi/index.html",
+"practice/index.html",
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/india-s-demographic-clock/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-aquifer-is-the-real-budget-constraint/index.html",
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-half-that-does-not-show-up/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-northeast-india-is-not-the-periphery/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/the-village-is-the-claim/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/topics/education-and-skills/index.html",
+"review/topics/federalism-and-the-northeast/index.html",
+"review/topics/governance-and-delivery/index.html",
+"review/topics/health-and-human-development/index.html",
+"review/topics/institutions-and-reform/index.html",
+"review/topics/political-economy/index.html",
+"review/topics/resources-and-climate/index.html",
+"review/topics/state-capacity/index.html",
+"review/topics/work-and-livelihoods/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/two-surveys-one-country/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html",
+"review/who-regulates-the-regulators/index.html",
+"where-we-work/bengaluru/index.html",
+"where-we-work/delhi/index.html",
+"where-we-work/guwahati/index.html",
+"where-we-work/index.html",
+"where-we-work/northeast-india/index.html"
+],
+"https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..700;1,6..96,400..700&family=Mulish:wght@300..700&display=swap": [
+"assets/lmi/index.html",
+"practice/index.html",
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/india-s-demographic-clock/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-aquifer-is-the-real-budget-constraint/index.html",
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-half-that-does-not-show-up/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-northeast-india-is-not-the-periphery/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/the-village-is-the-claim/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/topics/education-and-skills/index.html",
+"review/topics/federalism-and-the-northeast/index.html",
+"review/topics/governance-and-delivery/index.html",
+"review/topics/health-and-human-development/index.html",
+"review/topics/institutions-and-reform/index.html",
+"review/topics/political-economy/index.html",
+"review/topics/resources-and-climate/index.html",
+"review/topics/state-capacity/index.html",
+"review/topics/work-and-livelihoods/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/two-surveys-one-country/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html",
+"review/who-regulates-the-regulators/index.html",
+"where-we-work/bengaluru/index.html",
+"where-we-work/delhi/index.html",
+"where-we-work/guwahati/index.html",
+"where-we-work/index.html",
+"where-we-work/northeast-india/index.html"
+],
+"https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400..700;1,400..700&family=Mulish:wght@400;600&display=swap": [
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/india-s-demographic-clock/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-aquifer-is-the-real-budget-constraint/index.html",
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-half-that-does-not-show-up/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-northeast-india-is-not-the-periphery/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/the-village-is-the-claim/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/two-surveys-one-country/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html",
+"review/who-regulates-the-regulators/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_7ab9a98937704f6fbfe9407f46f3f64e~mv2.png": [
+"review/india-s-demographic-clock/index.html"
+],
+"https://pib.gov.in": [
+"review/india-s-demographic-clock/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/two-surveys-one-country/index.html"
+],
+"https://prsindia.org": [
+"review/india-s-demographic-clock/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://mohfw.gov.in": [
+"review/india-s-demographic-clock/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/two-surveys-one-country/index.html"
+],
+"https://indiabudget.gov.in/economicsurvey/": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/india-s-demographic-clock/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html"
+],
+"https://x.com/intent/tweet?text=India's%20Demographic%20Clock%20%E2%80%94%20The%20Deadline%20Beneath%20Every%20Other%20Debate%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AA%20median%20age%20of%2028%20in%20an%20ageing%20world%20is%20India's%20greatest%20advantage%20and%20its%20deadline.%20The%20working-age%20share%20peaks%20in%20the%202040s%3B%20everything%20else%20is%20a%20question%20of%20what%20gets%20delivered%20before%20then.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Findia-s-demographic-clock%2F": [
+"review/india-s-demographic-clock/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Findia-s-demographic-clock%2F": [
+"review/india-s-demographic-clock/index.html"
+],
+"https://api.whatsapp.com/send?text=India's%20Demographic%20Clock%20%E2%80%94%20The%20Deadline%20Beneath%20Every%20Other%20Debate%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AA%20median%20age%20of%2028%20in%20an%20ageing%20world%20is%20India's%20greatest%20advantage%20and%20its%20deadline.%20The%20working-age%20share%20peaks%20in%20the%202040s%3B%20everything%20else%20is%20a%20question%20of%20what%20gets%20delivered%20before%20then.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Findia-s-demographic-clock%2F": [
+"review/india-s-demographic-clock/index.html"
+],
+"https://sansad.in": [
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-specialist-who-was-never-sanctioned/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/two-surveys-one-country/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html",
+"review/who-regulates-the-regulators/index.html"
+],
+"https://who.int": [
+"review/the-specialist-who-was-never-sanctioned/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Specialist%20Who%20Was%20Never%20Sanctioned%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20specialist%20shortfall%20at%20India%E2%80%99s%20rural%20community%20health%20centres%20appeared%20to%20shrink%20by%20a%20third%20this%20year.%20The%20number%20of%20specialists%20barely%20moved.%20The%20requirement%20was%20rewritten.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-specialist-who-was-never-sanctioned%2F": [
+"review/the-specialist-who-was-never-sanctioned/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-specialist-who-was-never-sanctioned%2F": [
+"review/the-specialist-who-was-never-sanctioned/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Specialist%20Who%20Was%20Never%20Sanctioned%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20specialist%20shortfall%20at%20India%E2%80%99s%20rural%20community%20health%20centres%20appeared%20to%20shrink%20by%20a%20third%20this%20year.%20The%20number%20of%20specialists%20barely%20moved.%20The%20requirement%20was%20rewritten.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-specialist-who-was-never-sanctioned%2F": [
+"review/the-specialist-who-was-never-sanctioned/index.html"
+],
+"https://labour.gov.in": [
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://ecourts.gov.in": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html"
+],
+"https://legislative.gov.in": [
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html",
+"review/the-grievance-with-no-address/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://x.com/intent/tweet?text=Four%20Codes%2C%20Thirty-Six%20Rulebooks%20%E2%80%94%20The%20Labour%20Reform%20That%20Is%20Not%20Yet%20a%20Reform%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ATwenty-nine%20central%20labour%20laws%20were%20repealed%20on%2021%20November%202025.%20The%20central%20rules%20arrived%20on%208%20May%202026.%20The%20states%20are%20where%20the%20reform%20is%20now%20decided.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ffour-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform%2F": [
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ffour-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform%2F": [
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html"
+],
+"https://api.whatsapp.com/send?text=Four%20Codes%2C%20Thirty-Six%20Rulebooks%20%E2%80%94%20The%20Labour%20Reform%20That%20Is%20Not%20Yet%20a%20Reform%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ATwenty-nine%20central%20labour%20laws%20were%20repealed%20on%2021%20November%202025.%20The%20central%20rules%20arrived%20on%208%20May%202026.%20The%20states%20are%20where%20the%20reform%20is%20now%20decided.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ffour-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform%2F": [
+"review/four-codes-thirty-six-rulebooks-the-labour-reform-that-is-not-yet-a-reform/index.html"
+],
+"https://mospi.gov.in": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-half-that-does-not-show-up/index.html",
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://indianexpress.com": [
+"review/the-grievance-with-no-address/index.html",
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://aishe.gov.in": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html"
+],
+"https://epfindia.gov.in": [
+"review/the-degree-and-the-job/index.html",
+"review/the-unemployment-families-absorb/index.html",
+"review/who-grades-the-grader/index.html"
+],
+"https://cse.azimpremjiuniversity.edu.in/": [
+"review/the-grievance-with-no-address/index.html",
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://www.ilo.org/": [
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://www.dataforindia.com/": [
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://www.karnataka.gov.in/": [
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Unemployment%20Families%20Absorb%20%E2%80%94%20Why%20India%E2%80%99s%20Graduate%20Jobless%20Rate%20Stays%20Out%20of%20Sight%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20unemployment%20rate%20was%203.2%20per%20cent%20in%202024.%20Among%20graduates%20it%20was%2013%20per%20cent%2C%20and%20among%20the%20illiterate%20close%20to%20zero.%20That%20gap%20is%20not%20a%20paradox%3A%20to%20be%20counted%20as%20unemployed%2C%20a%20person%20has%20to%20be%20able%20to%20afford%20the%20wait.%20Graduates%E2%80%99%20families%20pay%20for%20it%2C%20and%20no%20public%20statistic%20records%20what%20they%20pay.%20That%20is%20why%20India%E2%80%99s%20most%20educated%20unemployment%20is%20also%20its%20least%20visible.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-unemployment-families-absorb%2F": [
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-unemployment-families-absorb%2F": [
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Unemployment%20Families%20Absorb%20%E2%80%94%20Why%20India%E2%80%99s%20Graduate%20Jobless%20Rate%20Stays%20Out%20of%20Sight%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20unemployment%20rate%20was%203.2%20per%20cent%20in%202024.%20Among%20graduates%20it%20was%2013%20per%20cent%2C%20and%20among%20the%20illiterate%20close%20to%20zero.%20That%20gap%20is%20not%20a%20paradox%3A%20to%20be%20counted%20as%20unemployed%2C%20a%20person%20has%20to%20be%20able%20to%20afford%20the%20wait.%20Graduates%E2%80%99%20families%20pay%20for%20it%2C%20and%20no%20public%20statistic%20records%20what%20they%20pay.%20That%20is%20why%20India%E2%80%99s%20most%20educated%20unemployment%20is%20also%20its%20least%20visible.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-unemployment-families-absorb%2F": [
+"review/the-unemployment-families-absorb/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Half%20That%20Does%20Not%20Show%20Up%20%E2%80%94%20India's%20Female%20Participation%20Problem%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AFemale%20labour%20force%20participation%20has%20reached%2040%20per%20cent%2C%20urban%20female%20participation%20sits%20at%2025.3%20per%20cent%2C%20and%2044.4%20per%20cent%20of%20women%20outside%20the%20workforce%20name%20care%20work%20as%20the%20reason.%20The%20Time%20Use%20Survey%20puts%20a%20figure%20on%20it%3A%20289%20minutes%20a%20day%20of%20unpaid%20domestic%20work%20against%2088%20for%20men%20%26mdash%3B%20a%20gap%20that%20closed%20by%20one%20minute%20in%20five%20years.%20The%20constraint%20is%20not%20ambition.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-half-that-does-not-show-up%2F": [
+"review/the-half-that-does-not-show-up/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-half-that-does-not-show-up%2F": [
+"review/the-half-that-does-not-show-up/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Half%20That%20Does%20Not%20Show%20Up%20%E2%80%94%20India's%20Female%20Participation%20Problem%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AFemale%20labour%20force%20participation%20has%20reached%2040%20per%20cent%2C%20urban%20female%20participation%20sits%20at%2025.3%20per%20cent%2C%20and%2044.4%20per%20cent%20of%20women%20outside%20the%20workforce%20name%20care%20work%20as%20the%20reason.%20The%20Time%20Use%20Survey%20puts%20a%20figure%20on%20it%3A%20289%20minutes%20a%20day%20of%20unpaid%20domestic%20work%20against%2088%20for%20men%20%26mdash%3B%20a%20gap%20that%20closed%20by%20one%20minute%20in%20five%20years.%20The%20constraint%20is%20not%20ambition.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-half-that-does-not-show-up%2F": [
+"review/the-half-that-does-not-show-up/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_5a8f4612af414772a505bcff38a6689c~mv2.png": [
+"review/the-district-is-where-the-state-lives/index.html"
+],
+"https://fincomindia.nic.in": [
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/who-regulates-the-regulators/index.html"
+],
+"https://dopt.gov.in": [
+"review/the-district-is-where-the-state-lives/index.html"
+],
+"https://mdoner.gov.in": [
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html",
+"review/the-district-is-where-the-state-lives/index.html",
+"review/the-northeast-india-is-not-the-periphery/index.html",
+"review/where-the-seats-came-from/index.html"
+],
+"https://x.com/intent/tweet?text=The%20District%20Is%20Where%20the%20State%20Lives%20%E2%80%94%20The%20Tier%20India%20Refuses%20to%20Staff%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20debates%20the%20Centre%20and%20the%20states%20endlessly%20and%20ignores%20the%20tier%20where%20governance%20actually%20succeeds%20or%20fails.%20The%20district%20runs%20at%2019%25%20IAS%20vacancy%20against%20a%20mandate%20that%20expands%20every%20year.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-district-is-where-the-state-lives%2F": [
+"review/the-district-is-where-the-state-lives/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-district-is-where-the-state-lives%2F": [
+"review/the-district-is-where-the-state-lives/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20District%20Is%20Where%20the%20State%20Lives%20%E2%80%94%20The%20Tier%20India%20Refuses%20to%20Staff%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20debates%20the%20Centre%20and%20the%20states%20endlessly%20and%20ignores%20the%20tier%20where%20governance%20actually%20succeeds%20or%20fails.%20The%20district%20runs%20at%2019%25%20IAS%20vacancy%20against%20a%20mandate%20that%20expands%20every%20year.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-district-is-where-the-state-lives%2F": [
+"review/the-district-is-where-the-state-lives/index.html"
+],
+"https://cag.gov.in": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-dashboard-problem/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html"
+],
+"https://njdg.ecourts.gov.in": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/the-dashboard-problem/index.html"
+],
+"https://asercentre.org": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/the-dashboard-problem/index.html"
+],
+"https://jalshakti-dowr.gov.in": [
+"review/the-aquifer-is-the-real-budget-constraint/index.html",
+"review/the-dashboard-problem/index.html"
+],
+"https://moef.gov.in": [
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/the-dashboard-problem/index.html"
+],
+"https://mohua.gov.in": [
+"review/airsheds-do-not-respect-district-lines/index.html",
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/the-dashboard-problem/index.html",
+"review/who-regulates-the-regulators/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Dashboard%20Problem%20%E2%80%94%20When%20Measurement%20Replaces%20Delivery%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20has%20more%20real-time%20government%20dashboards%20than%20any%20comparable%20state.%20Pendency%2C%20learning%20outcomes%20and%20delivery%20gaps%20have%20not%20moved%20with%20them.%20Visibility%20is%20not%20accountability.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-dashboard-problem%2F": [
+"review/the-dashboard-problem/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-dashboard-problem%2F": [
+"review/the-dashboard-problem/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Dashboard%20Problem%20%E2%80%94%20When%20Measurement%20Replaces%20Delivery%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20has%20more%20real-time%20government%20dashboards%20than%20any%20comparable%20state.%20Pendency%2C%20learning%20outcomes%20and%20delivery%20gaps%20have%20not%20moved%20with%20them.%20Visibility%20is%20not%20accountability.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-dashboard-problem%2F": [
+"review/the-dashboard-problem/index.html"
+],
+"https://education.gov.in": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/the-degree-and-the-job/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-post-nobody-filled/index.html",
+"review/the-students-who-leave/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html"
+],
+"https://cbi.gov.in": [
+"review/who-grades-the-grader/index.html"
+],
+"https://ugc.gov.in": [
+"review/the-grievance-with-no-address/index.html",
+"review/the-students-who-leave/index.html",
+"review/thirty-thousand-crore-one-line/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html"
+],
+"https://naac.gov.in": [
+"review/where-the-seats-came-from/index.html",
+"review/who-grades-the-grader/index.html"
+],
+"https://x.com/intent/tweet?text=Who%20Grades%20the%20Grader%20%E2%80%94%20Accreditation%20After%20the%20Arrests%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOn%201%20February%202025%20the%20CBI%20arrested%20the%20chairman%20and%20six%20members%20of%20a%20NAAC%20inspection%20committee.%20The%20FIR%20describes%20%E2%82%B91.8%20crore%20sought%20for%20a%20score%20above%203.65%20and%20an%20A%2B%2B%20grade.%20Nearly%20900%20assessors%20were%20then%20removed.%20The%20response%20treated%20the%20assessors%20as%20the%20fault.%20The%20fault%20is%20in%20a%20design%20that%20makes%20a%20grade%20worth%20buying%20and%20cheap%20to%20sell.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwho-grades-the-grader%2F": [
+"review/who-grades-the-grader/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwho-grades-the-grader%2F": [
+"review/who-grades-the-grader/index.html"
+],
+"https://api.whatsapp.com/send?text=Who%20Grades%20the%20Grader%20%E2%80%94%20Accreditation%20After%20the%20Arrests%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOn%201%20February%202025%20the%20CBI%20arrested%20the%20chairman%20and%20six%20members%20of%20a%20NAAC%20inspection%20committee.%20The%20FIR%20describes%20%E2%82%B91.8%20crore%20sought%20for%20a%20score%20above%203.65%20and%20an%20A%2B%2B%20grade.%20Nearly%20900%20assessors%20were%20then%20removed.%20The%20response%20treated%20the%20assessors%20as%20the%20fault.%20The%20fault%20is%20in%20a%20design%20that%20makes%20a%20grade%20worth%20buying%20and%20cheap%20to%20sell.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwho-grades-the-grader%2F": [
+"review/who-grades-the-grader/index.html"
+],
+"https://sci.gov.in": [
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-hope-that-was-priced-in/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html",
+"review/twenty-years-after-prakash-singh/index.html",
+"review/where-the-seats-came-from/index.html",
+"review/who-regulates-the-regulators/index.html"
+],
+"https://lawcommissionofindia.nic.in": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://dolr.gov.in": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html",
+"review/the-students-who-leave/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/where-the-seats-came-from/index.html"
+],
+"https://x.com/intent/tweet?text=Five%20Crore%20Cases%20and%20the%20Arithmetic%20of%20Delay%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20courts%20carry%205.05%20crore%20pending%20cases%20across%2020%2C580%20judges.%20But%20the%20number%20that%20identifies%20the%20remedy%20is%20different%3A%20of%204.4%20crore%20cases%20in%20the%20district%20courts%2C%201.8%20crore%20are%20recorded%20at%20appearance%20or%20service.%20Two%20in%20five%20have%20not%20passed%20the%20first%20step%20%26mdash%3B%20and%20the%20first%20step%20is%20not%20the%20court%26rsquo%3Bs%20work.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ffive-crore-cases-and-the-arithmetic-of-delay%2F": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ffive-crore-cases-and-the-arithmetic-of-delay%2F": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html"
+],
+"https://api.whatsapp.com/send?text=Five%20Crore%20Cases%20and%20the%20Arithmetic%20of%20Delay%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20courts%20carry%205.05%20crore%20pending%20cases%20across%2020%2C580%20judges.%20But%20the%20number%20that%20identifies%20the%20remedy%20is%20different%3A%20of%204.4%20crore%20cases%20in%20the%20district%20courts%2C%201.8%20crore%20are%20recorded%20at%20appearance%20or%20service.%20Two%20in%20five%20have%20not%20passed%20the%20first%20step%20%26mdash%3B%20and%20the%20first%20step%20is%20not%20the%20court%26rsquo%3Bs%20work.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ffive-crore-cases-and-the-arithmetic-of-delay%2F": [
+"review/five-crore-cases-and-the-arithmetic-of-delay/index.html"
+],
+"https://nta.ac.in": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://www.indiatoday.in/": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://www.newslaundry.com/": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://www.tribuneindia.com/": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Grievance%20With%20No%20Address%20%E2%80%94%20Why%20India%E2%80%99s%20Students%20Protest%20at%20the%20Examination%20Hall%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AAn%20Indian%20Express%20investigation%20counted%2041%20recruitment-exam%20leaks%20across%2015%20states%20in%20five%20years%2C%20derailing%201.4%20crore%20applicants%20for%20about%201.04%20lakh%20posts.%20Nine%20months%20after%20the%20UGC%20required%20every%20university%20to%20appoint%20a%20student%20ombudsperson%2C%20421%20had%20not.%20India%E2%80%99s%20largest%20student%20protests%20are%20not%20about%20ideology.%20They%20are%20about%20a%20state%20that%20runs%20the%20examination%2C%20sets%20the%20queue%2C%20and%20keeps%20no%20public%20record%20of%20either.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-grievance-with-no-address%2F": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-grievance-with-no-address%2F": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Grievance%20With%20No%20Address%20%E2%80%94%20Why%20India%E2%80%99s%20Students%20Protest%20at%20the%20Examination%20Hall%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AAn%20Indian%20Express%20investigation%20counted%2041%20recruitment-exam%20leaks%20across%2015%20states%20in%20five%20years%2C%20derailing%201.4%20crore%20applicants%20for%20about%201.04%20lakh%20posts.%20Nine%20months%20after%20the%20UGC%20required%20every%20university%20to%20appoint%20a%20student%20ombudsperson%2C%20421%20had%20not.%20India%E2%80%99s%20largest%20student%20protests%20are%20not%20about%20ideology.%20They%20are%20about%20a%20state%20that%20runs%20the%20examination%2C%20sets%20the%20queue%2C%20and%20keeps%20no%20public%20record%20of%20either.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-grievance-with-no-address%2F": [
+"review/the-grievance-with-no-address/index.html"
+],
+"https://x.com/intent/tweet?text=Airsheds%20Do%20Not%20Respect%20District%20Lines%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20measures%20air%20pollution%20by%20city%20and%20manages%20it%20by%20municipality.%20The%20pollution%20arrives%20from%20a%20region%20several%20hundred%20kilometres%20wide.%20The%20mismatch%20is%20the%20whole%20problem.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fairsheds-do-not-respect-district-lines%2F": [
+"review/airsheds-do-not-respect-district-lines/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fairsheds-do-not-respect-district-lines%2F": [
+"review/airsheds-do-not-respect-district-lines/index.html"
+],
+"https://api.whatsapp.com/send?text=Airsheds%20Do%20Not%20Respect%20District%20Lines%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20measures%20air%20pollution%20by%20city%20and%20manages%20it%20by%20municipality.%20The%20pollution%20arrives%20from%20a%20region%20several%20hundred%20kilometres%20wide.%20The%20mismatch%20is%20the%20whole%20problem.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fairsheds-do-not-respect-district-lines%2F": [
+"review/airsheds-do-not-respect-district-lines/index.html"
+],
+"https://yourstory.com/2025/07/zomato-swiggy-vs-restaurants-online-food-delivery-ondc-rapido": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://inc42.com/features/ondc-restaurants-ride-rapido-in-food-delivery-race-with-swiggy-zomato/": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://www.storyboard18.com/how-it-works/rapido-slashes-food-delivery-charges-by-half-to-take-on-zomato-swiggy-69346.htm": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://finance.yahoo.com/news/eternal-explores-changes-zomato-commission-114442407.html": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://www.cci.gov.in": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://ondc.org": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Platform%20Is%20the%20Landlord%20%E2%80%94%20Food%20Delivery%2C%20Commissions%20and%20the%20Economics%20of%20India%E2%80%99s%20Cloud%20Kitchens%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ARestaurants%20report%20paying%20food%20delivery%20platforms%2010%20to%2030%20per%20cent%20in%20commission%2C%20and%20up%20to%20half%20of%20what%20the%20customer%20paid%20once%20ads%2C%20discounts%20and%20fees%20are%20added.%20Two%20platforms%20hold%20about%2090%20per%20cent%20of%20the%20market.%20For%20a%20delivery%20kitchen%2C%20the%20rent%20has%20moved%20from%20the%20street%20to%20the%20app.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-platform-is-the-landlord-cloud-kitchen-economics%2F": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-platform-is-the-landlord-cloud-kitchen-economics%2F": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Platform%20Is%20the%20Landlord%20%E2%80%94%20Food%20Delivery%2C%20Commissions%20and%20the%20Economics%20of%20India%E2%80%99s%20Cloud%20Kitchens%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ARestaurants%20report%20paying%20food%20delivery%20platforms%2010%20to%2030%20per%20cent%20in%20commission%2C%20and%20up%20to%20half%20of%20what%20the%20customer%20paid%20once%20ads%2C%20discounts%20and%20fees%20are%20added.%20Two%20platforms%20hold%20about%2090%20per%20cent%20of%20the%20market.%20For%20a%20delivery%20kitchen%2C%20the%20rent%20has%20moved%20from%20the%20street%20to%20the%20app.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-platform-is-the-landlord-cloud-kitchen-economics%2F": [
+"review/the-platform-is-the-landlord-cloud-kitchen-economics/index.html"
+],
+"https://msde.gov.in": [
+"review/the-certificate-is-not-the-job/index.html",
+"review/the-degree-and-the-job/index.html"
+],
+"https://dgt.gov.in": [
+"review/the-degree-and-the-job/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Degree%20and%20the%20Job%20%E2%80%94%20What%20the%20Apprenticeship%20Numbers%20Actually%20Say%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AApprentices%20engaged%20under%20NAPS%20rose%20from%203.08%20lakh%20in%202020-21%20to%209.85%20lakh%20in%202024-25%20%E2%80%94%20real%20growth%2C%20set%20against%204.33%20crore%20students%20in%20higher%20education.%20Two%20ministries%20run%20one%20statute%2C%20two%20evaluations%20report%20employment%20on%20incompatible%20definitions%2C%20and%20nobody%20publishes%20the%20number%20that%20matters%3A%20how%20many%20apprentices%20hold%20a%20job%20a%20year%20later.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-degree-and-the-job%2F": [
+"review/the-degree-and-the-job/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-degree-and-the-job%2F": [
+"review/the-degree-and-the-job/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Degree%20and%20the%20Job%20%E2%80%94%20What%20the%20Apprenticeship%20Numbers%20Actually%20Say%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AApprentices%20engaged%20under%20NAPS%20rose%20from%203.08%20lakh%20in%202020-21%20to%209.85%20lakh%20in%202024-25%20%E2%80%94%20real%20growth%2C%20set%20against%204.33%20crore%20students%20in%20higher%20education.%20Two%20ministries%20run%20one%20statute%2C%20two%20evaluations%20report%20employment%20on%20incompatible%20definitions%2C%20and%20nobody%20publishes%20the%20number%20that%20matters%3A%20how%20many%20apprentices%20hold%20a%20job%20a%20year%20later.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-degree-and-the-job%2F": [
+"review/the-degree-and-the-job/index.html"
+],
+"https://niti.gov.in": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html",
+"review/the-missing-middle-of-indian-enterprise/index.html",
+"review/the-platform-is-not-the-payroll/index.html"
+],
+"https://msme.gov.in": [
+"review/the-missing-middle-of-indian-enterprise/index.html"
+],
+"https://www.sidbi.in": [
+"review/the-missing-middle-of-indian-enterprise/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Missing%20Middle%20of%20Indian%20Enterprise%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOnly%2014%25%20of%20India's%20MSMEs%20have%20formal%20credit%2C%20against%20a%20gap%20estimated%20between%20%E2%82%B925%20and%20%E2%82%B930%20lakh%20crore.%20Indian%20firms%20stay%20small%20because%20staying%20small%20is%20the%20rational%20response%20to%20the%20system%20around%20them.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-missing-middle-of-indian-enterprise%2F": [
+"review/the-missing-middle-of-indian-enterprise/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-missing-middle-of-indian-enterprise%2F": [
+"review/the-missing-middle-of-indian-enterprise/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Missing%20Middle%20of%20Indian%20Enterprise%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOnly%2014%25%20of%20India's%20MSMEs%20have%20formal%20credit%2C%20against%20a%20gap%20estimated%20between%20%E2%82%B925%20and%20%E2%82%B930%20lakh%20crore.%20Indian%20firms%20stay%20small%20because%20staying%20small%20is%20the%20rational%20response%20to%20the%20system%20around%20them.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-missing-middle-of-indian-enterprise%2F": [
+"review/the-missing-middle-of-indian-enterprise/index.html"
+],
+"https://indiabudget.gov.in": [
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-platform-is-not-the-payroll/index.html",
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html",
+"review/the-village-is-the-claim/index.html"
+],
+"https://gstcouncil.gov.in": [
+"review/sixty-eight-paise-in-the-rupee/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html"
+],
+"https://x.com/intent/tweet?text=Sixty-Eight%20Paise%20in%20the%20Rupee%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ANorth-eastern%20and%20Himalayan%20states%20will%20draw%2068%20per%20cent%20of%20their%20revenue%20receipts%20from%20Delhi%20in%202025-26.%20The%20problem%20is%20not%20the%20dependence%20%26mdash%3B%20it%20is%20that%20most%20of%20the%20money%20arrives%20with%20someone%20else%26rsquo%3Bs%20conditions%20attached%2C%20and%20the%20most%20variable%20part%20is%20the%20part%20a%20state%20learns%20about%20latest.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fsixty-eight-paise-in-the-rupee%2F": [
+"review/sixty-eight-paise-in-the-rupee/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fsixty-eight-paise-in-the-rupee%2F": [
+"review/sixty-eight-paise-in-the-rupee/index.html"
+],
+"https://api.whatsapp.com/send?text=Sixty-Eight%20Paise%20in%20the%20Rupee%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ANorth-eastern%20and%20Himalayan%20states%20will%20draw%2068%20per%20cent%20of%20their%20revenue%20receipts%20from%20Delhi%20in%202025-26.%20The%20problem%20is%20not%20the%20dependence%20%26mdash%3B%20it%20is%20that%20most%20of%20the%20money%20arrives%20with%20someone%20else%26rsquo%3Bs%20conditions%20attached%2C%20and%20the%20most%20variable%20part%20is%20the%20part%20a%20state%20learns%20about%20latest.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fsixty-eight-paise-in-the-rupee%2F": [
+"review/sixty-eight-paise-in-the-rupee/index.html"
+],
+"https://x.com/intent/tweet?text=Where%20the%20Seats%20Came%20From%20%E2%80%94%20Private%20Supply%20and%20the%20Regulator%20That%20Did%20Not%20Follow%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ABetween%202014-15%20and%202021-22%20India%20added%20408%20universities%20and%20about%207%2C000%20colleges.%20On%20the%20Ministry%20of%20Education's%20own%20returns%2C%2065.3%20per%20cent%20of%20responding%20colleges%20are%20private%20un-aided.%20The%20expansion%20was%20overwhelmingly%20private.%20The%20architecture%20built%20to%20supervise%20it%20was%20designed%20for%20a%20public%20system.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwhere-the-seats-came-from%2F": [
+"review/where-the-seats-came-from/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwhere-the-seats-came-from%2F": [
+"review/where-the-seats-came-from/index.html"
+],
+"https://api.whatsapp.com/send?text=Where%20the%20Seats%20Came%20From%20%E2%80%94%20Private%20Supply%20and%20the%20Regulator%20That%20Did%20Not%20Follow%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ABetween%202014-15%20and%202021-22%20India%20added%20408%20universities%20and%20about%207%2C000%20colleges.%20On%20the%20Ministry%20of%20Education's%20own%20returns%2C%2065.3%20per%20cent%20of%20responding%20colleges%20are%20private%20un-aided.%20The%20expansion%20was%20overwhelmingly%20private.%20The%20architecture%20built%20to%20supervise%20it%20was%20designed%20for%20a%20public%20system.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwhere-the-seats-came-from%2F": [
+"review/where-the-seats-came-from/index.html"
+],
+"https://x.com/intent/tweet?text=Who%20Regulates%20the%20Regulators%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20built%20independent%20regulators%20for%20its%20most%20important%20sectors%20and%20then%20left%20their%20appointments%2C%20budgets%20and%20accountability%20inside%20the%20ministries%20they%20were%20meant%20to%20check.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwho-regulates-the-regulators%2F": [
+"review/who-regulates-the-regulators/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwho-regulates-the-regulators%2F": [
+"review/who-regulates-the-regulators/index.html"
+],
+"https://api.whatsapp.com/send?text=Who%20Regulates%20the%20Regulators%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20built%20independent%20regulators%20for%20its%20most%20important%20sectors%20and%20then%20left%20their%20appointments%2C%20budgets%20and%20accountability%20inside%20the%20ministries%20they%20were%20meant%20to%20check.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fwho-regulates-the-regulators%2F": [
+"review/who-regulates-the-regulators/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_c49328c176f849a4be3fbc839d88940c~mv2.png": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html"
+],
+"https://data.worldbank.org": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Arithmetic%20That%20Should%20Alarm%20Us%20%E2%80%94%20India's%20Learning%20Crisis%20as%20a%20Solvency%20Problem%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20enrols%20nearly%20every%20child%20and%20half%20leave%20unable%20to%20do%20grade-level%20mathematics.%20Why%20the%20learning%20crisis%20is%20now%20a%20fiscal%20question%20%E2%80%94%20and%20the%20five%20structural%20corrections%20it%20requires.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Findia-learning-crisis-the-arithmetic-that-should-alarm-us%2F": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Findia-learning-crisis-the-arithmetic-that-should-alarm-us%2F": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Arithmetic%20That%20Should%20Alarm%20Us%20%E2%80%94%20India's%20Learning%20Crisis%20as%20a%20Solvency%20Problem%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20enrols%20nearly%20every%20child%20and%20half%20leave%20unable%20to%20do%20grade-level%20mathematics.%20Why%20the%20learning%20crisis%20is%20now%20a%20fiscal%20question%20%E2%80%94%20and%20the%20five%20structural%20corrections%20it%20requires.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Findia-learning-crisis-the-arithmetic-that-should-alarm-us%2F": [
+"review/india-learning-crisis-the-arithmetic-that-should-alarm-us/index.html"
+],
+"https://bprd.nic.in": [
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://upsc.gov.in": [
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://x.com/intent/tweet?text=Twenty%20Years%20After%20Prakash%20Singh%20%E2%80%94%20The%20Reform%20That%20Was%20Ordered%20and%20Never%20Delivered%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20Supreme%20Court%20ordered%20seven%20police%20reforms%20in%202006%20and%20held%20three%20of%20them%20to%20require%20no%20legislation%20at%20all.%20Two%20decades%20on%20no%20state%20is%20in%20full%20compliance%2C%20around%205.3%20lakh%20sanctioned%20posts%20stand%20vacant%2C%20and%20two-thirds%20of%20the%20shortfall%20is%20in%20the%20constabulary%20%26mdash%3B%20the%20rank%20that%20is%2086%20per%20cent%20of%20the%20force%20and%20offers%20one%20promotion%20in%20a%20career.%20The%20reform%20was%20not%20refused%3B%20it%20was%20routed%20around.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ftwenty-years-after-prakash-singh%2F": [
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ftwenty-years-after-prakash-singh%2F": [
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://api.whatsapp.com/send?text=Twenty%20Years%20After%20Prakash%20Singh%20%E2%80%94%20The%20Reform%20That%20Was%20Ordered%20and%20Never%20Delivered%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20Supreme%20Court%20ordered%20seven%20police%20reforms%20in%202006%20and%20held%20three%20of%20them%20to%20require%20no%20legislation%20at%20all.%20Two%20decades%20on%20no%20state%20is%20in%20full%20compliance%2C%20around%205.3%20lakh%20sanctioned%20posts%20stand%20vacant%2C%20and%20two-thirds%20of%20the%20shortfall%20is%20in%20the%20constabulary%20%26mdash%3B%20the%20rank%20that%20is%2086%20per%20cent%20of%20the%20force%20and%20offers%20one%20promotion%20in%20a%20career.%20The%20reform%20was%20not%20refused%3B%20it%20was%20routed%20around.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ftwenty-years-after-prakash-singh%2F": [
+"review/twenty-years-after-prakash-singh/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Thirty-Nine%20Percent%20Question%20%E2%80%94%20Health%20Spending%20and%20What%20It%20Buys%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOut-of-pocket%20health%20spending%20has%20fallen%20from%2062.6%25%20to%20around%2039%25.%20Public%20health%20spending%20sits%20at%201.8%25%20of%20GDP%20against%20a%202.5%25%20target.%20Both%20numbers%20describe%20the%20same%20unfinished%20settlement.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-thirty-nine-percent-question-health-spending-and-what-it-buys%2F": [
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-thirty-nine-percent-question-health-spending-and-what-it-buys%2F": [
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Thirty-Nine%20Percent%20Question%20%E2%80%94%20Health%20Spending%20and%20What%20It%20Buys%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOut-of-pocket%20health%20spending%20has%20fallen%20from%2062.6%25%20to%20around%2039%25.%20Public%20health%20spending%20sits%20at%201.8%25%20of%20GDP%20against%20a%202.5%25%20target.%20Both%20numbers%20describe%20the%20same%20unfinished%20settlement.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-thirty-nine-percent-question-health-spending-and-what-it-buys%2F": [
+"review/the-thirty-nine-percent-question-health-spending-and-what-it-buys/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_efbca6973a4647b2bf1dda2240533cc1~mv2.png": [
+"review/the-certificate-is-not-the-job/index.html"
+],
+"https://meghalaya.gov.in": [
+"review/the-certificate-is-not-the-job/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Certificate%20Is%20Not%20the%20Job%20%E2%80%94%20Why%20India%20Skills%20Millions%20and%20Employs%20Few%20%E2%80%94%20The%20Pritiraj%20Review%0A%0APMKVY%20trained%2013.7%20million%20people%20in%20seven%20years%20and%20placed%2018%20per%20cent%20of%20them.%20The%20failure%20is%20not%20effort%3B%20it%20is%20a%20system%20built%20to%20count%20certificates%20instead%20of%20livelihoods.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-certificate-is-not-the-job%2F": [
+"review/the-certificate-is-not-the-job/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-certificate-is-not-the-job%2F": [
+"review/the-certificate-is-not-the-job/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Certificate%20Is%20Not%20the%20Job%20%E2%80%94%20Why%20India%20Skills%20Millions%20and%20Employs%20Few%20%E2%80%94%20The%20Pritiraj%20Review%0A%0APMKVY%20trained%2013.7%20million%20people%20in%20seven%20years%20and%20placed%2018%20per%20cent%20of%20them.%20The%20failure%20is%20not%20effort%3B%20it%20is%20a%20system%20built%20to%20count%20certificates%20instead%20of%20livelihoods.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-certificate-is-not-the-job%2F": [
+"review/the-certificate-is-not-the-job/index.html"
+],
+"https://dst.gov.in": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://anrfonline.in": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://www.nirfindia.org": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://aicte-india.org": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://www.currentscience.ac.in": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://x.com/intent/tweet?text=Thirty%20Thousand%20Crore%2C%20One%20Line%20%E2%80%94%20Who%20Creates%20Knowledge%20in%20Indian%20Higher%20Education%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20higher%20education%20institutions%20spent%20%E2%82%B930%2C909%20crore%20on%20research%20in%202023-24%2C%20up%20from%20%E2%82%B99%2C942%20crore%20four%20years%20earlier%20%E2%80%94%20the%20fastest-growing%20segment%20of%20national%20R%26D.%20That%20line%20covers%20public%20and%20private%20institutions%20together%2C%20with%20no%20published%20split.%20The%20state%20opened%20its%20research%20funding%20to%20private%20universities%2C%20withdrew%20the%20UGC-CARE%20list%2C%20and%20never%20built%20the%20register%20that%20would%20show%20which%20institutions%20create%20knowledge%20and%20which%20only%20count%20it.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthirty-thousand-crore-one-line%2F": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthirty-thousand-crore-one-line%2F": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://api.whatsapp.com/send?text=Thirty%20Thousand%20Crore%2C%20One%20Line%20%E2%80%94%20Who%20Creates%20Knowledge%20in%20Indian%20Higher%20Education%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20higher%20education%20institutions%20spent%20%E2%82%B930%2C909%20crore%20on%20research%20in%202023-24%2C%20up%20from%20%E2%82%B99%2C942%20crore%20four%20years%20earlier%20%E2%80%94%20the%20fastest-growing%20segment%20of%20national%20R%26D.%20That%20line%20covers%20public%20and%20private%20institutions%20together%2C%20with%20no%20published%20split.%20The%20state%20opened%20its%20research%20funding%20to%20private%20universities%2C%20withdrew%20the%20UGC-CARE%20list%2C%20and%20never%20built%20the%20register%20that%20would%20show%20which%20institutions%20create%20knowledge%20and%20which%20only%20count%20it.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthirty-thousand-crore-one-line%2F": [
+"review/thirty-thousand-crore-one-line/index.html"
+],
+"https://rural.gov.in": [
+"review/the-aquifer-is-the-real-budget-constraint/index.html"
+],
+"https://cgwb.gov.in": [
+"review/the-aquifer-is-the-real-budget-constraint/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Aquifer%20Is%20the%20Real%20Budget%20Constraint%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20extracts%20247.22%20billion%20cubic%20metres%20of%20groundwater%20a%20year%20%26mdash%3B%20a%20quarter%20of%20the%20world%26rsquo%3Bs%20total%20%26mdash%3B%20and%20730%20assessment%20units%20take%20out%20more%20than%20comes%20in.%20The%20national%20trend%20is%20improving%20genuinely.%20Neither%20fact%20helps%20a%20farmer%20in%20one%20of%20those%20730%20blocks%2C%20because%20the%20state%20subsidises%20the%20electricity%20that%20pumps%20the%20water%20and%20procures%20the%20crops%20that%20require%20it.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-aquifer-is-the-real-budget-constraint%2F": [
+"review/the-aquifer-is-the-real-budget-constraint/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-aquifer-is-the-real-budget-constraint%2F": [
+"review/the-aquifer-is-the-real-budget-constraint/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Aquifer%20Is%20the%20Real%20Budget%20Constraint%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20extracts%20247.22%20billion%20cubic%20metres%20of%20groundwater%20a%20year%20%26mdash%3B%20a%20quarter%20of%20the%20world%26rsquo%3Bs%20total%20%26mdash%3B%20and%20730%20assessment%20units%20take%20out%20more%20than%20comes%20in.%20The%20national%20trend%20is%20improving%20genuinely.%20Neither%20fact%20helps%20a%20farmer%20in%20one%20of%20those%20730%20blocks%2C%20because%20the%20state%20subsidises%20the%20electricity%20that%20pumps%20the%20water%20and%20procures%20the%20crops%20that%20require%20it.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-aquifer-is-the-real-budget-constraint%2F": [
+"review/the-aquifer-is-the-real-budget-constraint/index.html"
+],
+"https://mha.gov.in": [
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-village-is-the-claim/index.html"
+],
+"https://censusindia.gov.in": [
+"review/citizens-who-move-entitlements-that-do-not/index.html",
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html",
+"review/the-largest-thing-india-does-well/index.html",
+"review/the-village-is-the-claim/index.html"
+],
+"https://morth.nic.in": [
+"review/the-village-is-the-claim/index.html"
+],
+"https://mod.gov.in": [
+"review/the-village-is-the-claim/index.html"
+],
+"https://bro.gov.in": [
+"review/the-village-is-the-claim/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Village%20Is%20the%20Claim%20%E2%80%94%20India%20Is%20Building%20Its%20Northern%20Border%20and%20Not%20Counting%20Who%20Lives%20There%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20Vibrant%20Villages%20Programme%20exists%20to%20reverse%20outmigration%20from%20the%20villages%20along%20the%20China%20frontier.%20Four%20years%20in%2C%20the%20state%20publishes%20roads%20sanctioned%2C%20bridges%20approved%20and%20activities%20held.%20It%20does%20not%20publish%20how%20many%20people%20live%20in%20those%20villages.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-village-is-the-claim%2F": [
+"review/the-village-is-the-claim/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-village-is-the-claim%2F": [
+"review/the-village-is-the-claim/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Village%20Is%20the%20Claim%20%E2%80%94%20India%20Is%20Building%20Its%20Northern%20Border%20and%20Not%20Counting%20Who%20Lives%20There%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20Vibrant%20Villages%20Programme%20exists%20to%20reverse%20outmigration%20from%20the%20villages%20along%20the%20China%20frontier.%20Four%20years%20in%2C%20the%20state%20publishes%20roads%20sanctioned%2C%20bridges%20approved%20and%20activities%20held.%20It%20does%20not%20publish%20how%20many%20people%20live%20in%20those%20villages.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-village-is-the-claim%2F": [
+"review/the-village-is-the-claim/index.html"
+],
+"https://eci.gov.in": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/the-largest-thing-india-does-well/index.html"
+],
+"https://sbi.co.in": [
+"review/the-largest-thing-india-does-well/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Largest%20Thing%20India%20Does%20Well%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20moves%2064.2%20crore%20people%20through%20a%20polling%20booth%20in%20six%20weeks%20with%2039%20repolls%20%E2%80%94%20the%20most%20impressive%20administrative%20act%20on%20earth.%20The%20machine%20that%20collects%20the%20vote%20is%20superb.%20The%20institutions%20around%20it%20%E2%80%94%20the%20electoral%20roll%2C%20the%20seat%20map%20and%20the%20rules%20on%20political%20finance%20%E2%80%94%20have%20not%20been%20rebuilt%20in%20decades%2C%20and%20that%20is%20where%20the%20next%20reform%20lies.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-largest-thing-india-does-well%2F": [
+"review/the-largest-thing-india-does-well/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-largest-thing-india-does-well%2F": [
+"review/the-largest-thing-india-does-well/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Largest%20Thing%20India%20Does%20Well%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20moves%2064.2%20crore%20people%20through%20a%20polling%20booth%20in%20six%20weeks%20with%2039%20repolls%20%E2%80%94%20the%20most%20impressive%20administrative%20act%20on%20earth.%20The%20machine%20that%20collects%20the%20vote%20is%20superb.%20The%20institutions%20around%20it%20%E2%80%94%20the%20electoral%20roll%2C%20the%20seat%20map%20and%20the%20rules%20on%20political%20finance%20%E2%80%94%20have%20not%20been%20rebuilt%20in%20decades%2C%20and%20that%20is%20where%20the%20next%20reform%20lies.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-largest-thing-india-does-well%2F": [
+"review/the-largest-thing-india-does-well/index.html"
+],
+"https://finmin.nic.in": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://lawmin.nic.in": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://india.gov.in": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html",
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html",
+"review/the-country-that-stopped-counting-itself/index.html",
+"review/the-title-is-the-asset/index.html",
+"review/two-surveys-one-country/index.html"
+],
+"https://panchayat.gov.in": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://www.pmindia.gov.in": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Title%20Is%20the%20Asset%20%E2%80%94%20Why%20Indian%20Land%20Cannot%20Be%20Used%20as%20Capital%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20land%20records%20are%20presumptive%2C%20not%20conclusive.%20Fifteen%20years%20and%20%26%238377%3B875%20crore%20have%20produced%202.25%20crore%20property%20documents%20and%20168%20districts%20at%20platinum%20grading%20%26mdash%3B%20and%20the%20map%20that%20actually%20settles%20a%20boundary%20is%2049%20per%20cent%20complete%20against%20a%20textual%20record%20at%2095%20per%20cent.%20Every%20document%20produced%20remains%20rebuttable%20in%20court.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-title-is-the-asset%2F": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-title-is-the-asset%2F": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Title%20Is%20the%20Asset%20%E2%80%94%20Why%20Indian%20Land%20Cannot%20Be%20Used%20as%20Capital%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20land%20records%20are%20presumptive%2C%20not%20conclusive.%20Fifteen%20years%20and%20%26%238377%3B875%20crore%20have%20produced%202.25%20crore%20property%20documents%20and%20168%20districts%20at%20platinum%20grading%20%26mdash%3B%20and%20the%20map%20that%20actually%20settles%20a%20boundary%20is%2049%20per%20cent%20complete%20against%20a%20textual%20record%20at%2095%20per%20cent.%20Every%20document%20produced%20remains%20rebuttable%20in%20court.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-title-is-the-asset%2F": [
+"review/the-title-is-the-asset/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Capex%20Budget%20and%20the%20Capacity%20to%20Spend%20It%20%E2%80%94%20The%20Pritiraj%20Review%0A%0A%26%238377%3B12.22%20lakh%20crore%20of%20capital%20expenditure%20against%20a%204.3%20per%20cent%20deficit.%20The%20Union%20missed%20its%20own%20capital%20target%20by%20%26%238377%3B93%2C000%20crore%20in%202024-25%20and%20by%20roughly%20%26%238377%3B33%2C000%20crore%20in%202025-26%20%26mdash%3B%20a%20gap%20that%20is%20real%2C%20measurable%20and%20narrowing.%20This%20budget%20makes%20a%20coherent%20bet%20and%20hands%20the%20binding%20constraint%20to%20the%20states.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-capex-budget-and-the-capacity-to-spend-it%2F": [
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-capex-budget-and-the-capacity-to-spend-it%2F": [
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Capex%20Budget%20and%20the%20Capacity%20to%20Spend%20It%20%E2%80%94%20The%20Pritiraj%20Review%0A%0A%26%238377%3B12.22%20lakh%20crore%20of%20capital%20expenditure%20against%20a%204.3%20per%20cent%20deficit.%20The%20Union%20missed%20its%20own%20capital%20target%20by%20%26%238377%3B93%2C000%20crore%20in%202024-25%20and%20by%20roughly%20%26%238377%3B33%2C000%20crore%20in%202025-26%20%26mdash%3B%20a%20gap%20that%20is%20real%2C%20measurable%20and%20narrowing.%20This%20budget%20makes%20a%20coherent%20bet%20and%20hands%20the%20binding%20constraint%20to%20the%20states.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-capex-budget-and-the-capacity-to-spend-it%2F": [
+"review/the-capex-budget-and-the-capacity-to-spend-it/index.html"
+],
+"https://thelancet.com": [
+"review/two-surveys-one-country/index.html"
+],
+"https://x.com/intent/tweet?text=Two%20Surveys%2C%20One%20Country%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20two%20official%20sources%20on%20child%20undernutrition%20disagree%20about%20wasting%20by%20fourteen%20percentage%20points.%20One%20of%20them%20is%20now%20used%20to%20report%20progress%2C%20and%20it%20is%20not%20the%20one%20designed%20to%20measure%20it.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ftwo-surveys-one-country%2F": [
+"review/two-surveys-one-country/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ftwo-surveys-one-country%2F": [
+"review/two-surveys-one-country/index.html"
+],
+"https://api.whatsapp.com/send?text=Two%20Surveys%2C%20One%20Country%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20two%20official%20sources%20on%20child%20undernutrition%20disagree%20about%20wasting%20by%20fourteen%20percentage%20points.%20One%20of%20them%20is%20now%20used%20to%20report%20progress%2C%20and%20it%20is%20not%20the%20one%20designed%20to%20measure%20it.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Ftwo-surveys-one-country%2F": [
+"review/two-surveys-one-country/index.html"
+],
+"https://x.com/intent/tweet?text=Citizens%20Who%20Move%2C%20Entitlements%20That%20Do%20Not%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20built%20a%20portable%20ration%20card%20and%20stopped%20there.%20A%20migrant%20worker%20still%20cannot%20vote%2C%20see%20a%20doctor%2C%20enrol%20a%20child%20or%20claim%20a%20pension%20where%20they%20actually%20live%20%26mdash%3B%20and%20for%20roughly%20eight%20crore%20people%2C%20on%20the%20Union%26rsquo%3Bs%20own%20submission%20to%20the%20Supreme%20Court%2C%20there%20is%20no%20card%20to%20make%20portable%20at%20all.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fcitizens-who-move-entitlements-that-do-not%2F": [
+"review/citizens-who-move-entitlements-that-do-not/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fcitizens-who-move-entitlements-that-do-not%2F": [
+"review/citizens-who-move-entitlements-that-do-not/index.html"
+],
+"https://api.whatsapp.com/send?text=Citizens%20Who%20Move%2C%20Entitlements%20That%20Do%20Not%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20built%20a%20portable%20ration%20card%20and%20stopped%20there.%20A%20migrant%20worker%20still%20cannot%20vote%2C%20see%20a%20doctor%2C%20enrol%20a%20child%20or%20claim%20a%20pension%20where%20they%20actually%20live%20%26mdash%3B%20and%20for%20roughly%20eight%20crore%20people%2C%20on%20the%20Union%26rsquo%3Bs%20own%20submission%20to%20the%20Supreme%20Court%2C%20there%20is%20no%20card%20to%20make%20portable%20at%20all.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fcitizens-who-move-entitlements-that-do-not%2F": [
+"review/citizens-who-move-entitlements-that-do-not/index.html"
+],
+"https://rbi.org.in": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html",
+"review/the-students-who-leave/index.html"
+],
+"https://ifsca.gov.in": [
+"review/the-students-who-leave/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Students%20Who%20Leave%20%E2%80%94%20The%20Outflow%2C%20Its%20Measurement%2C%20and%20the%20Campuses%20Built%20to%20Answer%20It%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ADepartures%20for%20study%20abroad%20fell%20from%20about%208.94%20lakh%20in%202023%20to%206.26%20lakh%20in%202025%20%E2%80%94%20a%20fall%20produced%20by%20visa%20policy%20in%20four%20other%20countries%2C%20not%20by%20anything%20India%20did.%20Asked%20what%20these%20students%20spend%2C%20the%20government%20told%20Parliament%20it%20does%20not%20maintain%20the%20information.%20Four%20foreign%20campuses%20now%20operate%20here%20under%20two%20regulators%2C%20and%20neither%20publishes%20what%20any%20of%20them%20enrolled.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-students-who-leave%2F": [
+"review/the-students-who-leave/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-students-who-leave%2F": [
+"review/the-students-who-leave/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Students%20Who%20Leave%20%E2%80%94%20The%20Outflow%2C%20Its%20Measurement%2C%20and%20the%20Campuses%20Built%20to%20Answer%20It%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ADepartures%20for%20study%20abroad%20fell%20from%20about%208.94%20lakh%20in%202023%20to%206.26%20lakh%20in%202025%20%E2%80%94%20a%20fall%20produced%20by%20visa%20policy%20in%20four%20other%20countries%2C%20not%20by%20anything%20India%20did.%20Asked%20what%20these%20students%20spend%2C%20the%20government%20told%20Parliament%20it%20does%20not%20maintain%20the%20information.%20Four%20foreign%20campuses%20now%20operate%20here%20under%20two%20regulators%2C%20and%20neither%20publishes%20what%20any%20of%20them%20enrolled.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-students-who-leave%2F": [
+"review/the-students-who-leave/index.html"
+],
+"https://labour.gov.in/sites/default/files/pib2192463.pdf": [
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/alerts-hub/2025/11/new-labour-codes-implemented-across-the-country-effective-21-november-2025.pdf": [
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://www.hsfkramer.com/notes/employment/2025-posts/india-labour-codes-implemented-a-landmark-reform": [
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Shift%20Is%20the%20Contract%20%E2%80%94%20The%20Labour%20Codes%20and%20India%E2%80%99s%20Hospitality%20Employers%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20hospitality%20employers%20asked%20for%20flexible%20labour%20law%20and%2C%20on%2021%20November%202025%2C%20got%20a%20version%20of%20it.%20They%20also%20got%20a%20wage%20definition%20that%20moves%20cost%20into%20benefits%2C%20gratuity%20after%20one%20year%2C%20and%20overtime%20at%20twice%20the%20rate.%20The%20industry%20runs%20on%20allowances%2C%20short%20tenures%20and%20long%20shifts.%20The%20codes%20price%20all%20three.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-shift-is-the-contract-labour-codes-hospitality%2F": [
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-shift-is-the-contract-labour-codes-hospitality%2F": [
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Shift%20Is%20the%20Contract%20%E2%80%94%20The%20Labour%20Codes%20and%20India%E2%80%99s%20Hospitality%20Employers%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%E2%80%99s%20hospitality%20employers%20asked%20for%20flexible%20labour%20law%20and%2C%20on%2021%20November%202025%2C%20got%20a%20version%20of%20it.%20They%20also%20got%20a%20wage%20definition%20that%20moves%20cost%20into%20benefits%2C%20gratuity%20after%20one%20year%2C%20and%20overtime%20at%20twice%20the%20rate.%20The%20industry%20runs%20on%20allowances%2C%20short%20tenures%20and%20long%20shifts.%20The%20codes%20price%20all%20three.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-shift-is-the-contract-labour-codes-hospitality%2F": [
+"review/the-shift-is-the-contract-labour-codes-hospitality/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Country%20That%20Stopped%20Counting%20Itself%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20last%20completed%20census%20was%20in%202011%3B%20the%20next%20counts%20its%20population%20against%20a%20reference%20date%20of%201%20March%202027.%20Sixteen%20years%2C%20and%20almost%20every%20consequential%20decision%20inside%20them%20taken%20on%20the%20old%20denominator.%20The%20food%20security%20ceiling%20is%20still%2081.35%20crore%2C%20and%20estimates%20of%20who%20that%20leaves%20out%20range%20across%20five%20crore%20human%20beings.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-country-that-stopped-counting-itself%2F": [
+"review/the-country-that-stopped-counting-itself/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-country-that-stopped-counting-itself%2F": [
+"review/the-country-that-stopped-counting-itself/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Country%20That%20Stopped%20Counting%20Itself%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20last%20completed%20census%20was%20in%202011%3B%20the%20next%20counts%20its%20population%20against%20a%20reference%20date%20of%201%20March%202027.%20Sixteen%20years%2C%20and%20almost%20every%20consequential%20decision%20inside%20them%20taken%20on%20the%20old%20denominator.%20The%20food%20security%20ceiling%20is%20still%2081.35%20crore%2C%20and%20estimates%20of%20who%20that%20leaves%20out%20range%20across%20five%20crore%20human%20beings.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-country-that-stopped-counting-itself%2F": [
+"review/the-country-that-stopped-counting-itself/index.html"
+],
+"https://tracxn.com/": [
+"review/the-hope-that-was-priced-in/index.html"
+],
+"https://nclt.gov.in/": [
+"review/the-hope-that-was-priced-in/index.html"
+],
+"https://doca.gov.in/ccpa/": [
+"review/the-hope-that-was-priced-in/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Hope%20That%20Was%20Priced%20In%20%E2%80%94%20What%20Venture%20Capital%20Did%2C%20and%20Did%20Not%20Do%2C%20to%20Indian%20Education%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndian%20edtech%20raised%20about%20%244.1%20billion%20in%202021%20and%20%24321%20million%20in%202023%2C%20on%20Tracxn%E2%80%99s%20count.%20Byju%E2%80%99s%2C%20once%20valued%20at%20a%20reported%20%2422%20billion%2C%20entered%20insolvency%20over%20%E2%82%B9158.90%20crore%20owed%20to%20the%20BCCI.%20PhysicsWallah%20listed%20in%20November%202025%20and%20is%20putting%20IPO%20money%20into%20physical%20centres.%20Venture%20capital%20brought%20cheap%2C%20wide%20access%20and%20a%20sales%20machine%20pointed%20at%20children.%20India%20regulates%20it%20as%20a%20consumer%20product%2C%20not%20as%20education.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-hope-that-was-priced-in%2F": [
+"review/the-hope-that-was-priced-in/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-hope-that-was-priced-in%2F": [
+"review/the-hope-that-was-priced-in/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Hope%20That%20Was%20Priced%20In%20%E2%80%94%20What%20Venture%20Capital%20Did%2C%20and%20Did%20Not%20Do%2C%20to%20Indian%20Education%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndian%20edtech%20raised%20about%20%244.1%20billion%20in%202021%20and%20%24321%20million%20in%202023%2C%20on%20Tracxn%E2%80%99s%20count.%20Byju%E2%80%99s%2C%20once%20valued%20at%20a%20reported%20%2422%20billion%2C%20entered%20insolvency%20over%20%E2%82%B9158.90%20crore%20owed%20to%20the%20BCCI.%20PhysicsWallah%20listed%20in%20November%202025%20and%20is%20putting%20IPO%20money%20into%20physical%20centres.%20Venture%20capital%20brought%20cheap%2C%20wide%20access%20and%20a%20sales%20machine%20pointed%20at%20children.%20India%20regulates%20it%20as%20a%20consumer%20product%2C%20not%20as%20education.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-hope-that-was-priced-in%2F": [
+"review/the-hope-that-was-priced-in/index.html"
+],
+"https://ustr.gov": [
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html"
+],
+"https://cbp.gov": [
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html"
+],
+"https://cafc.uscourts.gov": [
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Tariff%20That%20Was%20Never%20Lawful%20%E2%80%94%20What%20India%20Conceded%2C%20and%20What%20It%20Should%20Learn%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20negotiated%20relief%20from%20a%2050%20per%20cent%20US%20tariff%20in%20February%202026.%20Thirteen%20days%20later%20the%20US%20Supreme%20Court%20held%20the%20instrument%20behind%20it%20was%20never%20authorised.%20On%20the%20narrow%20question%20of%20the%20additional%20duty%2C%20the%20settlement%20bought%20seventeen%20days%20%26mdash%3B%20and%20the%20refunds%20accrue%20to%20American%20importers%2C%20not%20Indian%20exporters.%20A%20lesson%20in%20negotiating%20against%20legal%20durability.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned%2F": [
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned%2F": [
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Tariff%20That%20Was%20Never%20Lawful%20%E2%80%94%20What%20India%20Conceded%2C%20and%20What%20It%20Should%20Learn%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%20negotiated%20relief%20from%20a%2050%20per%20cent%20US%20tariff%20in%20February%202026.%20Thirteen%20days%20later%20the%20US%20Supreme%20Court%20held%20the%20instrument%20behind%20it%20was%20never%20authorised.%20On%20the%20narrow%20question%20of%20the%20additional%20duty%2C%20the%20settlement%20bought%20seventeen%20days%20%26mdash%3B%20and%20the%20refunds%20accrue%20to%20American%20importers%2C%20not%20Indian%20exporters.%20A%20lesson%20in%20negotiating%20against%20legal%20durability.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned%2F": [
+"review/the-tariff-that-was-never-lawful-what-india-conceded-and-what-it-learned/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Post%20Nobody%20Filled%20%E2%80%94%20Faculty%20Vacancy%20as%20the%20Binding%20Constraint%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AAs%20on%2031%20January%202025%2C%2056.18%20per%20cent%20of%20professor%20posts%20across%20India's%20central%20higher%20education%20institutions%20were%20vacant%2C%20on%20the%20Parliamentary%20Standing%20Committee's%20own%20figures.%20The%20shortage%20inverts%20the%20academic%20pyramid%20%E2%80%94%20worst%20at%20the%20top%2C%20worst%20again%20in%20reserved%20categories%20%E2%80%94%20and%20the%20ministry's%20position%20is%20that%20recruitment%20is%20not%20its%20responsibility.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-post-nobody-filled%2F": [
+"review/the-post-nobody-filled/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-post-nobody-filled%2F": [
+"review/the-post-nobody-filled/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Post%20Nobody%20Filled%20%E2%80%94%20Faculty%20Vacancy%20as%20the%20Binding%20Constraint%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AAs%20on%2031%20January%202025%2C%2056.18%20per%20cent%20of%20professor%20posts%20across%20India's%20central%20higher%20education%20institutions%20were%20vacant%2C%20on%20the%20Parliamentary%20Standing%20Committee's%20own%20figures.%20The%20shortage%20inverts%20the%20academic%20pyramid%20%E2%80%94%20worst%20at%20the%20top%2C%20worst%20again%20in%20reserved%20categories%20%E2%80%94%20and%20the%20ministry's%20position%20is%20that%20recruitment%20is%20not%20its%20responsibility.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-post-nobody-filled%2F": [
+"review/the-post-nobody-filled/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Forty-One%20Percent%20Illusion%20%E2%80%94%20State%20Finances%20After%20the%20Sixteenth%20Commission%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%2016th%20Finance%20Commission%20held%20devolution%20at%2041%25%20and%20discontinued%20revenue%20deficit%20grants.%20Why%20a%20headline%20of%20continuity%20conceals%20the%20tightest%20state%20fiscal%20settlement%20in%20a%20decade.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission%2F": [
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission%2F": [
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Forty-One%20Percent%20Illusion%20%E2%80%94%20State%20Finances%20After%20the%20Sixteenth%20Commission%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%2016th%20Finance%20Commission%20held%20devolution%20at%2041%25%20and%20discontinued%20revenue%20deficit%20grants.%20Why%20a%20headline%20of%20continuity%20conceals%20the%20tightest%20state%20fiscal%20settlement%20in%20a%20decade.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission%2F": [
+"review/the-forty-one-percent-illusion-state-finances-after-the-sixteenth-finance-commission/index.html"
+],
+"https://eshram.gov.in/": [
+"review/the-platform-is-not-the-payroll/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Platform%20Is%20Not%20the%20Payroll%20%E2%80%94%20India%E2%80%99s%20Gig%20Workforce%20and%20the%20Protection%20It%20Was%20Promised%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ANITI%20Aayog%20estimated%2077%20lakh%20gig%20workers%20in%202020-21%20and%20projected%202.35%20crore%20by%202029-30.%20The%20Code%20on%20Social%20Security%20recognises%20them.%20By%20August%202025%20the%20Ministry%20of%20Labour%20counted%20over%203.37%20lakh%20registered%20as%20gig%20or%20platform%20workers%20on%20e-Shram%2C%20against%20a%20government%20estimate%20of%20more%20than%20one%20crore.%20For%20many%20young%20Indians%20the%20platform%20is%20where%20work%20exists.%20The%20state%20has%20written%20their%20protection%20into%20law%20and%20not%20yet%20found%20them.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-platform-is-not-the-payroll%2F": [
+"review/the-platform-is-not-the-payroll/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-platform-is-not-the-payroll%2F": [
+"review/the-platform-is-not-the-payroll/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Platform%20Is%20Not%20the%20Payroll%20%E2%80%94%20India%E2%80%99s%20Gig%20Workforce%20and%20the%20Protection%20It%20Was%20Promised%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ANITI%20Aayog%20estimated%2077%20lakh%20gig%20workers%20in%202020-21%20and%20projected%202.35%20crore%20by%202029-30.%20The%20Code%20on%20Social%20Security%20recognises%20them.%20By%20August%202025%20the%20Ministry%20of%20Labour%20counted%20over%203.37%20lakh%20registered%20as%20gig%20or%20platform%20workers%20on%20e-Shram%2C%20against%20a%20government%20estimate%20of%20more%20than%20one%20crore.%20For%20many%20young%20Indians%20the%20platform%20is%20where%20work%20exists.%20The%20state%20has%20written%20their%20protection%20into%20law%20and%20not%20yet%20found%20them.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-platform-is-not-the-payroll%2F": [
+"review/the-platform-is-not-the-payroll/index.html"
+],
+"https://tourism.gov.in": [
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html"
+],
+"https://pib.gov.in/PressReleasePage.aspx?PRID=2082598": [
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html"
+],
+"https://tourism.gov.in/sites/default/files/2025-03/usq.1721%20for%2010.03.2025.pdf": [
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Circuit%20Without%20the%20Bed%20%E2%80%94%20Tourism%20in%20North%20East%20India%20and%20the%20Capacity%20It%20Has%20Not%20Built%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ANorth%20East%20India%20recorded%201.21%20crore%20domestic%20and%202.21%20lakh%20foreign%20tourist%20visits%20in%202023.%20A%20decade%20of%20public%20money%20has%20built%20circuits%2C%20shrines%20and%20gateways.%20What%20it%20has%20not%20counted%20is%20the%20bed%2C%20the%20operator%20and%20the%20rupee%20a%20visitor%20leaves%20behind.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-circuit-without-the-bed-northeast-india-tourism%2F": [
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-circuit-without-the-bed-northeast-india-tourism%2F": [
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Circuit%20Without%20the%20Bed%20%E2%80%94%20Tourism%20in%20North%20East%20India%20and%20the%20Capacity%20It%20Has%20Not%20Built%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ANorth%20East%20India%20recorded%201.21%20crore%20domestic%20and%202.21%20lakh%20foreign%20tourist%20visits%20in%202023.%20A%20decade%20of%20public%20money%20has%20built%20circuits%2C%20shrines%20and%20gateways.%20What%20it%20has%20not%20counted%20is%20the%20bed%2C%20the%20operator%20and%20the%20rupee%20a%20visitor%20leaves%20behind.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-circuit-without-the-bed-northeast-india-tourism%2F": [
+"review/the-circuit-without-the-bed-northeast-india-tourism/index.html"
+],
+"https://x.com/intent/tweet?text=Eight%20Hundred%20and%20Fifty%20Seats%20%E2%80%94%20What%20Delimitation%20Actually%20Decides%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20Delimitation%20Bill%2C%202026%20proposes%20a%20850-member%20Lok%20Sabha%20with%20272%20seats%20reserved%20for%20women.%20The%20seat%20count%20is%20the%20least%20consequential%20thing%20about%20it.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Feight-hundred-and-fifty-seats-what-delimitation-actually-decides%2F": [
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Feight-hundred-and-fifty-seats-what-delimitation-actually-decides%2F": [
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html"
+],
+"https://api.whatsapp.com/send?text=Eight%20Hundred%20and%20Fifty%20Seats%20%E2%80%94%20What%20Delimitation%20Actually%20Decides%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AThe%20Delimitation%20Bill%2C%202026%20proposes%20a%20850-member%20Lok%20Sabha%20with%20272%20seats%20reserved%20for%20women.%20The%20seat%20count%20is%20the%20least%20consequential%20thing%20about%20it.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Feight-hundred-and-fifty-seats-what-delimitation-actually-decides%2F": [
+"review/eight-hundred-and-fifty-seats-what-delimitation-actually-decides/index.html"
+],
+"https://powermin.gov.in": [
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Discom%20Turnaround%20%E2%80%94%20and%20What%20It%20Does%20Not%20Yet%20Prove%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20power%20distributors%20posted%20a%20collective%20profit%20of%20%26%238377%3B2%2C701%20crore%20in%20FY25%20%26mdash%3B%20the%20first%20in%20over%20a%20decade%20%26mdash%3B%20and%20closed%20the%20gap%20between%20what%20a%20unit%20costs%20and%20what%20it%20earns%20from%20%26%238377%3B0.69%20to%20%26%238377%3B0.06.%20A%20real%20turnaround%2C%20achieved%20by%20conditioning%20money%20on%20verified%20administrative%20acts.%20Whether%20the%20design%20or%20the%20cycle%20did%20the%20work%20is%20a%20question%20the%20sector%26rsquo%3Bs%20own%20data%20could%20answer%20and%20does%20not.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-discom-turnaround-and-what-it-does-not-yet-prove%2F": [
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-discom-turnaround-and-what-it-does-not-yet-prove%2F": [
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Discom%20Turnaround%20%E2%80%94%20and%20What%20It%20Does%20Not%20Yet%20Prove%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia%26rsquo%3Bs%20power%20distributors%20posted%20a%20collective%20profit%20of%20%26%238377%3B2%2C701%20crore%20in%20FY25%20%26mdash%3B%20the%20first%20in%20over%20a%20decade%20%26mdash%3B%20and%20closed%20the%20gap%20between%20what%20a%20unit%20costs%20and%20what%20it%20earns%20from%20%26%238377%3B0.69%20to%20%26%238377%3B0.06.%20A%20real%20turnaround%2C%20achieved%20by%20conditioning%20money%20on%20verified%20administrative%20acts.%20Whether%20the%20design%20or%20the%20cycle%20did%20the%20work%20is%20a%20question%20the%20sector%26rsquo%3Bs%20own%20data%20could%20answer%20and%20does%20not.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-discom-turnaround-and-what-it-does-not-yet-prove%2F": [
+"review/the-discom-turnaround-and-what-it-does-not-yet-prove/index.html"
+],
+"https://x.com/intent/tweet?text=Cities%20Without%20Money%20%E2%80%94%20The%20Third%20Tier%20and%20the%20Capacity%20It%20Lacks%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia's%20cities%20produce%20roughly%2060%25%20of%20GDP%20and%20raise%200.6%25%20of%20it.%20The%20Sixteenth%20Commission%20has%20now%20sent%20them%20%E2%82%B93.6%20lakh%20crore%20against%20conditions%20most%20cannot%20yet%20meet.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fcities-without-money-the-third-tier-and-the-capacity-it-lacks%2F": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fcities-without-money-the-third-tier-and-the-capacity-it-lacks%2F": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html"
+],
+"https://api.whatsapp.com/send?text=Cities%20Without%20Money%20%E2%80%94%20The%20Third%20Tier%20and%20the%20Capacity%20It%20Lacks%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AIndia's%20cities%20produce%20roughly%2060%25%20of%20GDP%20and%20raise%200.6%25%20of%20it.%20The%20Sixteenth%20Commission%20has%20now%20sent%20them%20%E2%82%B93.6%20lakh%20crore%20against%20conditions%20most%20cannot%20yet%20meet.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fcities-without-money-the-third-tier-and-the-capacity-it-lacks%2F": [
+"review/cities-without-money-the-third-tier-and-the-capacity-it-lacks/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_3cfa523973dd460ba58c7650994ae4cf~mv2.jpg": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_0716b1159b324ee7a274cf4a9b2ed00e~mv2.jpg": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://commerce.gov.in": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://dpiit.gov.in": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Campus%20Economy%20%E2%80%94%20India's%20Quietest%20Special%20Economic%20Zones%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ARoughly%2037%25%20of%20notified%20SEZ%20land%20is%20in%20use.%20Meanwhile%20four%20university%20gates%20have%20built%20the%20concentrated%20capital%2C%20talent%20and%20IP%20pools%20that%20SEZ%20policy%20spent%20twenty%20years%20trying%20to%20engineer.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-campus-economy-india-s-quietest-special-economic-zones%2F": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-campus-economy-india-s-quietest-special-economic-zones%2F": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Campus%20Economy%20%E2%80%94%20India's%20Quietest%20Special%20Economic%20Zones%20%E2%80%94%20The%20Pritiraj%20Review%0A%0ARoughly%2037%25%20of%20notified%20SEZ%20land%20is%20in%20use.%20Meanwhile%20four%20university%20gates%20have%20built%20the%20concentrated%20capital%2C%20talent%20and%20IP%20pools%20that%20SEZ%20policy%20spent%20twenty%20years%20trying%20to%20engineer.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-campus-economy-india-s-quietest-special-economic-zones%2F": [
+"review/the-campus-economy-india-s-quietest-special-economic-zones/index.html"
+],
+"https://static.wixstatic.com/media/f6f278_3847958899a1410abf0f89923bf188a1~mv2.png": [
+"review/the-northeast-india-is-not-the-periphery/index.html"
+],
+"https://x.com/intent/tweet?text=The%20Northeast%20Is%20Not%20the%20Periphery%20%E2%80%94%20A%20Gateway%20That%20Is%20Not%20Yet%20Open%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOver%20%E2%82%B96%20lakh%20crore%20committed%20in%20a%20decade%2C%20and%20the%20region's%20exports%20fell%20from%20%2450.8m%20to%20%2447.6m.%20The%20gateway%20framing%20is%20right%3B%20the%20execution%20gap%20is%20the%20whole%20problem.&url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-northeast-india-is-not-the-periphery%2F": [
+"review/the-northeast-india-is-not-the-periphery/index.html"
+],
+"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-northeast-india-is-not-the-periphery%2F": [
+"review/the-northeast-india-is-not-the-periphery/index.html"
+],
+"https://api.whatsapp.com/send?text=The%20Northeast%20Is%20Not%20the%20Periphery%20%E2%80%94%20A%20Gateway%20That%20Is%20Not%20Yet%20Open%20%E2%80%94%20The%20Pritiraj%20Review%0A%0AOver%20%E2%82%B96%20lakh%20crore%20committed%20in%20a%20decade%2C%20and%20the%20region's%20exports%20fell%20from%20%2450.8m%20to%20%2447.6m.%20The%20gateway%20framing%20is%20right%3B%20the%20execution%20gap%20is%20the%20whole%20problem.%0A%0Ahttps%3A%2F%2Fwww.pritirajbrahma.in%2Freview%2Fthe-northeast-india-is-not-the-periphery%2F": [
+"review/the-northeast-india-is-not-the-periphery/index.html"
+],
+"https://doi.org/10.1504/IJSOM.2022.126293": [
+"pritiraj-brahma/index.html"
+],
+"https://www.iimb.ac.in/turn_turn/being-responsible-side-government-people-during-covid-19-pandemic.php": [
+"pritiraj-brahma/index.html"
+],
+"https://www.iimb.ac.in/turn_turn/revisiting-handloom-industries-during-covid-19-pandemic.php": [
+"pritiraj-brahma/index.html"
+]
+}
