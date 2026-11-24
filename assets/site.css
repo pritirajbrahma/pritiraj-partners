@@ -770,3 +770,7 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .gh .ft .in{justify-content:center}
 .gh .cnext .rv p a{color:inherit;text-decoration:underline;text-decoration-color:rgba(188,121,54,.6);text-underline-offset:3px}
 @media(max-width:560px){.gh .ft .lg{flex-direction:column;justify-content:center;gap:22px}.gh .ft .sep{display:none}}
+/* 10 volumes (complete edition + 9 topics): two full rows of five, then pairs on phones */
+.gh .shelf{grid-template-columns:repeat(5,minmax(0,1fr))}
+@media(max-width:1000px){.gh .shelf{grid-template-columns:repeat(5,minmax(0,1fr));gap:48px 16px}}
+@media(max-width:820px){.gh .shelf{grid-template-columns:repeat(2,minmax(0,1fr))}}
