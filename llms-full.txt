@@ -1,5 +1,147 @@
 # The Pritiraj Review — full text
-> Every essay in The Pritiraj Review by Pritiraj Brahma, Indian political strategist, Founding Partner of Pritiraj & Partners (Bengaluru) and founder of East & Ember Hospitality Group. 40 essays, newest first. Canonical URLs are given for citation.
+> Every essay in The Pritiraj Review by Pritiraj Brahma, Indian political strategist, Founding Partner of Pritiraj & Partners (Bengaluru) and founder of East & Ember Hospitality Group. 43 essays, newest first. Canonical URLs are given for citation.
+
+---
+
+# The Circuit Without the Bed — Tourism in North East India and the Capacity It Has Not Built
+
+URL: https://www.pritirajbrahma.in/review/the-circuit-without-the-bed-northeast-india-tourism/
+Author: Pritiraj Brahma
+Published: 2026-11-24 · Topic: Federalism & the Northeast
+
+North East India recorded 1.21 crore domestic and 2.21 lakh foreign tourist visits in 2023. A decade of public money has built circuits, shrines and gateways. What it has not counted is the bed, the operator and the rupee a visitor leaves behind.
+
+ProvenancePublished 24 November 2026. Visit figures are those reported by state tourism departments and placed before Parliament in the Ministry of Tourism’s replies of 9 December 2024 and 10 March 2025; 2023 is the latest year with state-wise figures in those replies. Scheme amounts are this Review’s sums of the sanctioned and approved project costs listed in the December 2024 reply, not totals the Ministry publishes.
+
+North East India is not short of visitors. It is short of the rooms, operators and records that turn a visit into an income.
+
+Tourism is the industry the North East is most often told to build. Its landscapes, cultures and food are distinct, its airports have multiplied, and every state now has a tourism policy. The question this essay asks is narrower and more practical: when a visitor arrives, where does the money go, and who is building the capacity to earn it?
+
+Four findings anchor this analysis:
+
+- Demand is real and concentrated. The eight states recorded 1,20,78,776 domestic tourist visits in 2023, on state tourism department figures reported to the Lok Sabha on 9 December 2024. Assam’s 76,12,720 is 63 per cent of that total. Meghalaya, Sikkim and Arunachal Pradesh add another 37 lakh between them. Nagaland recorded 99,720 and Manipur 57,701.
+- Foreign demand is small, fast-growing and narrow. Foreign tourist visits rose from about 1.04 lakh in 2022 to 2,21,050 in 2023 (Lok Sabha unstarred question 1721, 10 March 2025; the 2022 figure is this Review’s sum of the state figures). That is about 1.1 per cent of the 1.92 crore foreign tourist visits recorded across all states in 2023. Sikkim (93,908) and Tripura (66,708) account for 73 per cent of the region’s total.
+- Public money has built the circuit. Swadesh Darshan sanctioned 16 projects in the region between 2014-15 and 2018-19, worth about ₹1,309 crore on the Ministry’s own project list. Swadesh Darshan 2.0 added about ₹224 crore in 2024, PRASHAD about ₹253 crore, and the 2024-25 special assistance scheme about ₹790 crore. These are roads, riverfronts, interpretation centres and gateways. They are necessary, and they are not rooms.
+- Nobody publishes what the visitor spends. The official series counts visits. It does not publish nights stayed, rooms available, occupancy or spend per visitor by state. A region cannot plan hospitality investment on a count of arrivals.
+
+## Why the bed is the binding constraint
+
+A tourist visit becomes income only when it becomes a night, a meal and a guide. That conversion depends on private capacity: hotels, homestays, restaurants and operators who can raise capital against a predictable season. Public schemes fund the attraction. The capacity that earns from it is left to form on its own.
+
+Three frictions slow it down. Land held under community and customary systems is hard for a lender to take as collateral, so a homestay owner struggles to borrow against the building that would earn the income. Permit regimes in several states add a step for every visitor. And connectivity still bunches demand into a few gateways and a few months. Each of these is solvable. None of them is addressed by building another gateway.
+
+## What the circuit model measures
+
+The schemes report what was sanctioned and what was completed. That is a record of construction. It does not say whether the new riverfront raised occupancy in the town beside it, whether homestays opened along the new road, or whether the visitor stayed a second night. In the language this Review uses elsewhere, the dashboard counts the input and leaves the outcome unrecorded.
+
+## The counter-case, honestly stated
+
+The circuit has to come first. Without roads, airports and sites, no investor will build a hotel, and the region’s recent gains in air connectivity are exactly the precondition this argument asks for. Counting spend is also hard where so much of the economy is informal, and a survey would cost money the states do not have.
+
+Both points are fair. But a decade of sanctioned circuits is long enough to ask what they produced, and without a spend series nobody can answer. Infrastructure built without a measure of what it earned is a cost, not an investment.
+
+## What we would do
+
+- Publish a tourism ledger for each state. Rooms, occupancy, nights and spend per visitor, from an annual sampled survey, alongside the visit count.
+- Tie the next tranche of circuit funding to private capacity. Release later money where homestay and hotel registrations, and lending to them, have actually grown around the funded site.
+- Build a bankable tenure route for hospitality. Registered long leases from community landholders that lenders recognise, so a homestay can borrow against its own earnings.
+- Make every permit digital and instant. Keep the protections the permit regimes exist for, and remove the queue.
+- Sell the region by season and circuit, not by state. Visitors cross state lines; promotion and air connectivity should follow the routes they actually travel.The North East does not need to be discovered. It needs to be built for: one bed, one operator and one published number at a time. Politics is the promise. Governance is the delivery.
+
+---
+
+# The Platform Is the Landlord — Food Delivery, Commissions and the Economics of India’s Cloud Kitchens
+
+URL: https://www.pritirajbrahma.in/review/the-platform-is-the-landlord-cloud-kitchen-economics/
+Author: Pritiraj Brahma
+Published: 2026-11-24 · Topic: Political Economy
+
+Restaurants report paying food delivery platforms 10 to 30 per cent in commission, and up to half of what the customer paid once ads, discounts and fees are added. Two platforms hold about 90 per cent of the market. For a delivery kitchen, the rent has moved from the street to the app.
+
+ProvenancePublished 24 November 2026. Commission and fee figures are as reported by trade and business publications between June and September 2025, citing operators, advisers and industry bodies; platforms do not publish a standard rate card, and the ranges reported differ. They are labelled as reporting throughout. Disclosure: the author is the founder of East & Ember Hospitality Group, a delivery-first food company.
+
+A restaurant used to pay its landlord for footfall. A delivery kitchen pays the platform instead, and the platform sets the rent.
+
+India’s food delivery market made a new kind of restaurant possible: a kitchen with no dining room, in a low-rent unit, serving customers it never meets. The model is now mainstream. This essay asks what that kitchen actually pays for its customers, and why that number decides whether the business is worth backing.
+
+Four findings anchor this analysis:
+
+- The commission is a range, not a rate. Reported commissions run from 10 to 28 per cent on Zomato (NDTV Profit, reported by Verdict Food Service, September 2025), 10 to 16 per cent for larger brands and above 20 per cent for smaller outlets (an Alvarez & Marsal partner quoted by YourStory, July 2025), and 16 to 30 per cent across both major platforms (Storyboard18, June 2025). Terms vary with order value, volume and brand. The small operator pays the most.
+- The commission is not the whole take. Operators interviewed by YourStory described commission, advertising and discovery fees together taking 45 to 50 per cent of payouts. A restaurant-software founder quoted by Inc42 in August 2025 put the figure at 35 to 40 per cent of each transaction once logistics, payment and ad charges are counted. Visibility is increasingly bought, not earned.
+- The market is concentrated, and it is being contested. Swiggy and Zomato together hold about 90 per cent of food delivery (Inc42, August 2025). Rapido’s entry offered restaurants a fixed fee of ₹25 on orders below ₹400 and ₹50 above (Storyboard18, June 2025), and Inc42 reported a government plan to commit ₹200 to 250 crore to support food delivery on ONDC.
+- The platform also competes with its tenants. The National Restaurant Association of India, which represents over five lakh restaurants, has moved the Competition Commission over platforms’ own private-label food brands and their control of customer data (Inc42, August 2025).
+
+## Why the platform is the landlord
+
+In a dine-in restaurant, rent buys location and location buys demand. A delivery kitchen sits in a cheap unit, and its demand comes from its ranking on two apps. The commission and the advertising budget are therefore its real occupancy cost. Unlike a lease, they are variable, opaque and set by one side.
+
+That changes what makes a delivery business investable. The useful question is not gross order value but contribution after platform costs, and how much of the customer relationship the kitchen owns. Repeat customers, a direct ordering channel and food that travels well are the delivery equivalent of a long lease.
+
+## The counter-case, honestly stated
+
+The platforms built this market. They pay for riders, the app and the customer acquisition no single restaurant could afford, and a 20 per cent commission is cheaper than a high-street lease in most Indian cities. Restaurants that complain about commission are often complaining about competition, and kitchens that exist only because of delivery apps have little standing to object to their price.
+
+Much of that is true, and it is why delivery-first kitchens exist at all. But a market in which the supplier cannot see its own customer, cannot predict its own ranking and competes with the platform’s own brands is not yet a fair one. The remedy is transparency, not a price cap.
+
+## What we would do
+
+- Publish the full take on every order. One statement per order showing commission, advertising, discount share and fees.
+- Give restaurants their repeat-customer data. At minimum, an identifier that lets a kitchen recognise and reward its own regulars.
+- Separate the marketplace from the private label. Where a platform runs its own food brands, publish and audit the ranking rules.
+- Fund ONDC delivery, not just onboarding. A third channel is real only when it can deliver the food reliably.
+- For operators: price for the platform, build for the direct channel. Cost every dish at full platform take, and invest in the customer who will one day order direct.The delivery economy has made it cheaper than ever to open a kitchen and harder than ever to own a customer. The businesses that last will be the ones that treat the platform as a landlord to be managed, not a partner to be trusted. Politics is the promise. Governance is the delivery.
+
+---
+
+# The Shift Is the Contract — The Labour Codes and India’s Hospitality Employers
+
+URL: https://www.pritirajbrahma.in/review/the-shift-is-the-contract-labour-codes-hospitality/
+Author: Pritiraj Brahma
+Published: 2026-11-24 · Topic: Work & Livelihoods
+
+India’s hospitality employers asked for flexible labour law and, on 21 November 2025, got a version of it. They also got a wage definition that moves cost into benefits, gratuity after one year, and overtime at twice the rate. The industry runs on allowances, short tenures and long shifts. The codes price all three.
+
+ProvenancePublished 24 November 2026. Provisions are as described in the Ministry of Labour and Employment’s release of 21 November 2025 and in law-firm and adviser analyses of the same date; the central rules were notified on 8 May 2026 and state rules continue to be notified. Readers should check the rules of their own state before relying on any threshold. Disclosure: the author is the founder of East & Ember Hospitality Group, a hospitality employer.
+
+Hospitality is built on the shift. The labour codes have turned the shift into a contract with a price.
+
+The four labour codes came into force on 21 November 2025, replacing 29 central labour laws, according to the Ministry of Labour and Employment. The central rules followed on 8 May 2026, as this Review set out in Four Codes, Thirty-Six Rulebooks. For a hotel, a restaurant group or a cloud-kitchen operator, the question now is not whether the codes apply, but how they read on the floor of a kitchen at eleven at night.
+
+Five findings anchor this analysis:
+
+- The wage definition moves cost into benefits. Basic pay, dearness allowance and retaining allowance now count as wages. Exclusions such as allowances and bonuses are capped at 50 per cent of remuneration, and any excess is treated as wages for provident fund, ESI, gratuity and bonus (HSF Kramer analysis). Pay structures that lean on allowances feel this most.
+- Short tenure now earns gratuity. Fixed-term employees qualify for gratuity after one year instead of five, with benefits equal to permanent staff (Ministry of Labour and Employment, 21 November 2025). Seasonal and project hiring, common in resorts and banquets, now carries a deferred cost from the first year.
+- The shift is regulated, and so is the overtime. Overtime is payable at twice the ordinary rate, with the worker’s consent, and work schedules must be displayed. Hours, leave and overtime apply to “workers”, which excludes managerial roles, so classifying each job is now a compliance decision.
+- Night shifts open to women, on conditions. Women may work at night in all establishments, subject to consent and safety measures, alongside any state requirements that continue to apply. For kitchens and front desks that run past midnight, this widens the hiring pool and adds a transport and safety obligation.
+- Thresholds favour scale. Lay-off and retrenchment without prior government approval now applies to establishments with fewer than 300 workers, up from 100, and standing orders also start at 300 (EY; HSF Kramer). In exchange, an employer contributes 15 days’ wages per retrenched worker to a re-skilling fund.
+
+## Why hospitality feels it first
+
+Three features of the business meet the codes head-on. Pay is built from allowances, because base wages are kept low and service charge, meals and accommodation make up the rest. Tenure is short, because the industry hires for seasons, events and openings. And the working day is long and irregular, because guests arrive when they arrive.
+
+The codes reach each of these directly. The 50 per cent rule reaches the allowance structure, one-year gratuity reaches the seasonal contract, and double-rate overtime reaches the split shift. None of this is hostile to the industry. It does mean the cost of a hospitality job is now closer to its visible cost.
+
+## The state is where the codes will be decided
+
+Labour is on the Concurrent List. The central notification set the frame, but hours, leave and many thresholds take effect through state rules, and some state Shops and Establishments Acts are not superseded and may conflict with the codes (EY, November 2025). A chain operating in Karnataka, Delhi and Assam may face three readings of the same provision. Some states have floated a four-day-week option in draft rules. Flexibility will be real in some states and theoretical in others.
+
+## Gig work reaches the kitchen door
+
+The Code on Social Security requires aggregators, including food delivery platforms, to contribute 1 to 2 per cent of annual turnover to a social security fund, capped at 5 per cent of what they pay gig and platform workers (Ministry of Labour and Employment; EY). The levy falls on the platform, not the restaurant. But a platform sets its commission terms, and a cost it bears is a cost it will try to recover from both sides of its market. That is this Review’s analysis, not a reported figure.
+
+## The counter-case, honestly stated
+
+The codes may change little in practice. Much of hospitality employment sits in small, informal establishments where the old laws were also widely ignored, and a new rulebook does not by itself create an inspector. On this view the codes formalise the firms that were already formal and leave the rest untouched.
+
+That is partly right. But the codes also make formality cheaper: one registration, one return, and social security that travels with the worker. For an operator raising institutional capital, formal compliance is not optional, and the codes lower its price.
+
+## What we would do
+
+- Re-cut the pay structure before the state rules land. Model every role against the 50 per cent rule and one-year gratuity, and move cost into base pay deliberately rather than by default.
+- Classify every role. Draw the line between worker and managerial staff role by role, because hours, overtime and leave follow it.
+- Build the night shift properly. Documented consent, transport and safety for women on late shifts, so the hiring pool widens without a compliance gap.
+- Keep one compliance register per state. Update it as each state notifies its rules, and stop assuming the central rule is the operative one.
+- Treat formality as an asset. Appointment letters, registered employees and clean returns are what investors’ diligence teams ask for first.Hospitality has always sold time: a night, a meal, a shift. The labour codes put a clearer price on the last of these. The employers who price it first will hire better and raise capital more easily. Politics is the promise. Governance is the delivery.
 
 ---
 
