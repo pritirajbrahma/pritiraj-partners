@@ -127,3 +127,8 @@
 .px-row>:last-child{white-space:nowrap}
 @media (max-width:600px){.px-row>:last-child{white-space:normal}}
 @media (max-width:700px){.rvw-art .px-fig .px-grid.px-grid[style]{grid-template-columns:1fr!important}}
+/* justified text where the measure is wide enough to stay even; narrow panels stay ragged-right */
+.px-dek,.px-src,.px-note p,.px-fig>p:not(.px-title):not(.px-kick){text-align:justify!important;text-align-last:left!important;hyphens:auto!important;-webkit-hyphens:auto!important}
+.px-panel{container-type:inline-size}
+@container (min-width:300px){.px-panel p{text-align:justify!important;text-align-last:left!important;hyphens:auto!important;-webkit-hyphens:auto!important}}
+@media (max-width:420px){.px-dek,.px-src,.px-note p{text-align:left!important;hyphens:manual!important}}
