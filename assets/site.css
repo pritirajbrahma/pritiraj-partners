@@ -823,3 +823,5 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 .nb-ab .nb-c{grid-template-rows:auto 1fr}
 @media(max-width:820px){.nb-ab .nb-c{grid-template-rows:auto}}
 @media(max-width:520px){.nb-c,.nb-ab .nb-c{grid-template-rows:auto 1fr}}
+.nb-hk,.nb-sub{hyphens:none}
+@media(max-width:520px){.gh .nb-ab .nb-c p.nb-hk,.gh .nb-ab .nb-c p.nb-sub{text-align:center}}
