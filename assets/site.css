@@ -825,3 +825,6 @@ body::after{background:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org
 @media(max-width:520px){.nb-c,.nb-ab .nb-c{grid-template-rows:auto 1fr}}
 .nb-hk,.nb-sub{hyphens:none}
 @media(max-width:520px){.gh .nb-ab .nb-c p.nb-hk,.gh .nb-ab .nb-c p.nb-sub{text-align:center}}
+
+.gh .nb-ab .nb-story{max-width:720px;margin:18px auto 8px;font-size:17px;line-height:1.75;hyphens:manual}
+@media(max-width:520px){.gh .nb-ab .nb-story{font-size:16px;hyphens:auto}}
